@@ -1,0 +1,396 @@
+counter,message-id,from,to,date,subject,path
+1,<22488614.1075852774419.JavaMail.evans@thyme>,susan.lindberg@enron.com,"jeff.ader@enron.com, mark.bernstein@enron.com, j..broderick@enron.com,","Fri, 19 Oct 2001 07:08:04 -0700 (PDT)",Calpine vs. ISO New England (EL01-124),email_dataset/quenet-j/deleted_items/118.
+2,<2284292.1075857801013.JavaMail.evans@thyme>,joe.quenet@enron.com,rebecca.quenet@eds.com,"Fri, 10 Nov 2000 05:34:00 -0800 (PST)",RE: OK,email_dataset/quenet-j/_sent_mail/53.
+3,<19348546.1075857797660.JavaMail.evans@thyme>,joe.quenet@enron.com,chris.dorland@enron.com,"Tue, 12 Dec 2000 05:21:00 -0800 (PST)",A friend wanted you to see this!,email_dataset/quenet-j/all_documents/61.
+4,<33442158.1075852774369.JavaMail.evans@thyme>,joe.quenet@enron.com,rebecca.quenet@eds.com,"Fri, 19 Oct 2001 09:34:20 -0700 (PDT)",RE: Reminder,email_dataset/quenet-j/deleted_items/116.
+5,<31747963.1075852773396.JavaMail.evans@thyme>,rebecca.quenet@eds.com,joe.quenet@enron.com,"Mon, 22 Oct 2001 10:44:43 -0700 (PDT)",RE: trip north,email_dataset/quenet-j/deleted_items/90.
+6,<6648285.1075857799885.JavaMail.evans@thyme>,joe.quenet@enron.com,rebecca.quenet@eds.com,"Wed, 13 Dec 2000 02:05:00 -0800 (PST)",RE: Weather what Weather??,email_dataset/quenet-j/_sent_mail/1.
+7,<2358565.1075852773576.JavaMail.evans@thyme>,john.knock@elpaso.com,joe.quenet@enron.com,"Mon, 22 Oct 2001 08:09:18 -0700 (PDT)",Trusts Keeping Enron Off Balance.htm,email_dataset/quenet-j/deleted_items/97.
+8,<27971153.1075857801591.JavaMail.evans@thyme>,joe.quenet@enron.com,rbp864@aol.com,"Wed, 23 May 2001 04:47:00 -0700 (PDT)",Re: Bobette Riner is no longer at TNE,email_dataset/quenet-j/_sent_mail/68.
+9,<7585893.1075857800693.JavaMail.evans@thyme>,joe.quenet@enron.com,arosenberg@edisonmission.com,"Mon, 20 Nov 2000 07:26:00 -0800 (PST)",Re:,email_dataset/quenet-j/_sent_mail/38.
+10,<8212895.1075857800356.JavaMail.evans@thyme>,joe.quenet@enron.com,knockj@epenergy.com,"Mon, 27 Nov 2000 03:20:00 -0800 (PST)",weekend activities,email_dataset/quenet-j/_sent_mail/23.
+11,<1627777.1075852771070.JavaMail.evans@thyme>,no.address@enron.com,,"Thu, 25 Oct 2001 21:54:55 -0700 (PDT)",Important Announcement Regarding Document Preservation,email_dataset/quenet-j/deleted_items/35.
+12,<15818798.1075852774116.JavaMail.evans@thyme>,vince.crescenzi@gfinet.com,joe.quenet@enron.com,"Fri, 19 Oct 2001 11:25:41 -0700 (PDT)",FW: you may have already seen this?,email_dataset/quenet-j/deleted_items/111.
+13,<12014280.1075857799758.JavaMail.evans@thyme>,joe.quenet@enron.com,rebecca.quenet@eds.com,"Mon, 11 Dec 2000 04:19:00 -0800 (PST)",Re: Travel,email_dataset/quenet-j/sent/60.
+14,<27025982.1075857797552.JavaMail.evans@thyme>,joe.quenet@enron.com,rebecca.quenet@eds.com,"Fri, 8 Dec 2000 03:21:00 -0800 (PST)",Re: Travel,email_dataset/quenet-j/all_documents/56.
+15,<5442502.1075852773422.JavaMail.evans@thyme>,andy.pace@enron.com,"f..campbell@enron.com, george.phillips@enron.com, carter.ellis@enron.com,","Mon, 22 Oct 2001 10:13:17 -0700 (PDT)",results of football pool,email_dataset/quenet-j/deleted_items/91.
+16,<11045197.1075852772351.JavaMail.evans@thyme>,jae.black@enron.com,,"Tue, 23 Oct 2001 14:00:53 -0700 (PDT)",Staff Meeting,email_dataset/quenet-j/deleted_items/70.
+17,<33552431.1075857798916.JavaMail.evans@thyme>,joe.quenet@enron.com,rebecca.quenet@eds.com,"Tue, 14 Nov 2000 03:07:00 -0800 (PST)",RE: NOTARY,email_dataset/quenet-j/sent/21.
+18,<26555827.1075852771873.JavaMail.evans@thyme>,susan.lindberg@enron.com,"jeff.ader@enron.com, mark.bernstein@enron.com, j..broderick@enron.com,","Wed, 24 Oct 2001 12:35:05 -0700 (PDT)",Orders issued today in NYISO and ISO-NE proceedings,email_dataset/quenet-j/deleted_items/51.
+19,<19816483.1075857798036.JavaMail.evans@thyme>,joe.quenet@enron.com,knockj@epenergy.com,"Mon, 13 Nov 2000 00:47:00 -0800 (PST)",,email_dataset/quenet-j/discussion_threads/8.
+20,<4268563.1075852770846.JavaMail.evans@thyme>,jaime.gualy@enron.com,joe.quenet@enron.com,"Fri, 26 Oct 2001 09:02:41 -0700 (PDT)",FW: Comments on the Status of ENE ($16/sh).,email_dataset/quenet-j/deleted_items/27.
+21,<25043256.1075857800505.JavaMail.evans@thyme>,joe.quenet@enron.com,rebecca.quenet@eds.com,"Tue, 21 Nov 2000 07:32:00 -0800 (PST)",Re: Plans,email_dataset/quenet-j/_sent_mail/30.
+22,<30091428.1075857798874.JavaMail.evans@thyme>,joe.quenet@enron.com,rebecca.quenet@eds.com,"Tue, 14 Nov 2000 01:57:00 -0800 (PST)",Re: NOTARY,email_dataset/quenet-j/sent/19.
+23,<17444984.1075852770952.JavaMail.evans@thyme>,no.address@enron.com,,"Fri, 26 Oct 2001 07:17:59 -0700 (PDT)",Increased Security at Enron Center,email_dataset/quenet-j/deleted_items/30.
+24,<18788649.1075852772281.JavaMail.evans@thyme>,no.address@enron.com,,"Tue, 23 Oct 2001 21:18:29 -0700 (PDT)",Invitaton: An Evening of Hope and Healing,email_dataset/quenet-j/deleted_items/68.
+25,<1473377.1075852774347.JavaMail.evans@thyme>,john.knock@elpaso.com,joe.quenet@enron.com,"Fri, 19 Oct 2001 09:40:23 -0700 (PDT)",ENE,email_dataset/quenet-j/deleted_items/115.
+26,<32784870.1075852770975.JavaMail.evans@thyme>,joe.quenet@enron.com,m..presto@enron.com,"Fri, 26 Oct 2001 05:18:22 -0700 (PDT)",FW: EOL_All_Swaps.xls,email_dataset/quenet-j/deleted_items/31.
+27,<3025071.1075857801120.JavaMail.evans@thyme>,joe.quenet@enron.com,dfincher@utilicorp.com,"Fri, 10 Nov 2000 03:30:00 -0800 (PST)",RE:,email_dataset/quenet-j/_sent_mail/58.
+28,<21807949.1075857799928.JavaMail.evans@thyme>,joe.quenet@enron.com,rebecca.quenet@eds.com,"Wed, 13 Dec 2000 00:06:00 -0800 (PST)",Re: Weather what Weather??,email_dataset/quenet-j/_sent_mail/3.
+29,<27282395.1075857796656.JavaMail.evans@thyme>,joe.quenet@enron.com,rebecca.quenet@eds.com,"Fri, 10 Nov 2000 05:44:00 -0800 (PST)",RE: OK,email_dataset/quenet-j/all_documents/14.
+30,<6784120.1075852770589.JavaMail.evans@thyme>,djenergy@dowjones.com,,"Fri, 26 Oct 2001 13:37:51 -0700 (PDT)",DJ PJM Electricity Price Index,email_dataset/quenet-j/deleted_items/16.
+31,<317611.1075852775215.JavaMail.evans@thyme>,john.knock@elpaso.com,joe.quenet@enron.com,"Thu, 18 Oct 2001 10:24:42 -0700 (PDT)",RE: ene,email_dataset/quenet-j/deleted_items/131.
+32,<20313632.1075852772567.JavaMail.evans@thyme>,joe.quenet@enron.com,john.knock@elpaso.com,"Tue, 23 Oct 2001 09:57:19 -0700 (PDT)",RE:,email_dataset/quenet-j/deleted_items/73.
+33,<30350130.1075857796804.JavaMail.evans@thyme>,joe.quenet@enron.com,rebecca.quenet@eds.com,"Tue, 14 Nov 2000 03:07:00 -0800 (PST)",RE: NOTARY,email_dataset/quenet-j/all_documents/21.
+34,<30232846.1075852775930.JavaMail.evans@thyme>,joe.quenet@enron.com,rebecca.quenet@eds.com,"Mon, 29 Oct 2001 07:31:00 -0800 (PST)",RE: Reminder,email_dataset/quenet-j/sent_items/4.
+35,<11919555.1075857799736.JavaMail.evans@thyme>,joe.quenet@enron.com,kevino2@unocal.com,"Mon, 11 Dec 2000 03:19:00 -0800 (PST)",Re: FW: (no subject),email_dataset/quenet-j/sent/59.
+36,<17120504.1075857800585.JavaMail.evans@thyme>,joe.quenet@enron.com,dmurphy@utilicorp.com,"Tue, 21 Nov 2000 02:43:00 -0800 (PST)",RE: go boilermakrers !,email_dataset/quenet-j/_sent_mail/33.
+37,<28104353.1075852775438.JavaMail.evans@thyme>,deanrodgers@kaseco.com,jquenet@enron.com,"Thu, 18 Oct 2001 01:31:32 -0700 (PDT)","Technical Analysis Class, Early Bird 'Til 11/05",email_dataset/quenet-j/deleted_items/136.
+38,<25952155.1075857796484.JavaMail.evans@thyme>,joe.quenet@enron.com,dmurphy@utilicorp.com,"Fri, 10 Nov 2000 02:44:00 -0800 (PST)",,email_dataset/quenet-j/all_documents/6.
+39,<11053484.1075857797211.JavaMail.evans@thyme>,joe.quenet@enron.com,kevino2@unocal.com,"Wed, 22 Nov 2000 02:13:00 -0800 (PST)",Re: Fw: Mistress,email_dataset/quenet-j/all_documents/40.
+40,<21385343.1075852772162.JavaMail.evans@thyme>,john.knock@elpaso.com,joe.quenet@enron.com,"Wed, 24 Oct 2001 07:01:02 -0700 (PDT)",RE:,email_dataset/quenet-j/deleted_items/63.
+41,<23005204.1075857799480.JavaMail.evans@thyme>,joe.quenet@enron.com,kellybrynne@aol.com,"Mon, 4 Dec 2000 08:48:00 -0800 (PST)",Re: Hey There,email_dataset/quenet-j/sent/47.
+42,<21365127.1075857798299.JavaMail.evans@thyme>,thane.twiggs@enron.com,"jeffery.ader@enron.com, mark.bernstein@enron.com, scott.healy@enron.com,","Wed, 13 Dec 2000 06:06:00 -0800 (PST)",NEPOOL refusal to use resources external to New England,email_dataset/quenet-j/discussion_threads/20.
+43,<30014910.1075857796421.JavaMail.evans@thyme>,joe.quenet@enron.com,hteitelbaum@natsource.com,"Fri, 10 Nov 2000 02:25:00 -0800 (PST)",,email_dataset/quenet-j/all_documents/3.
+44,<17984312.1075852770999.JavaMail.evans@thyme>,narsimha.misra@enron.com,joe.quenet@enron.com,"Fri, 26 Oct 2001 04:56:07 -0700 (PDT)",fyi,email_dataset/quenet-j/deleted_items/32.
+45,<24287080.1075857796740.JavaMail.evans@thyme>,joe.quenet@enron.com,dwburns@cmsenergy.com,"Mon, 13 Nov 2000 06:16:00 -0800 (PST)",Re: Access to Markets,email_dataset/quenet-j/all_documents/18.
+46,<6732814.1075857801163.JavaMail.evans@thyme>,joe.quenet@enron.com,dmurphy@utilicorp.com,"Fri, 10 Nov 2000 02:44:00 -0800 (PST)",,email_dataset/quenet-j/_sent_mail/60.
+47,<22138780.1075857796372.JavaMail.evans@thyme>,joe.quenet@enron.com,rebecca.quenet@eds.com,"Fri, 10 Nov 2000 02:16:00 -0800 (PST)",,email_dataset/quenet-j/all_documents/1.
+48,<11621552.1075857797169.JavaMail.evans@thyme>,joe.quenet@enron.com,sblackman@futuresource.com,"Wed, 22 Nov 2000 01:52:00 -0800 (PST)",Re: Fw: Mistress,email_dataset/quenet-j/all_documents/38.
+49,<13427242.1075857800842.JavaMail.evans@thyme>,joe.quenet@enron.com,rebecca.quenet@eds.com,"Tue, 14 Nov 2000 03:07:00 -0800 (PST)",RE: NOTARY,email_dataset/quenet-j/_sent_mail/45.
+50,<7357145.1075852773072.JavaMail.evans@thyme>,no.address@enron.com,,"Mon, 22 Oct 2001 20:16:30 -0700 (PDT)",JDRF Cyber Auction & Update Information,email_dataset/quenet-j/deleted_items/83.
+51,<29443585.1075861649347.JavaMail.evans@thyme>,issuealert@scientech.com,issuealerthtml@listserv.scientech.com,"Tue, 13 Nov 2001 09:26:15 -0800 (PST)","Updates on Enron / Dynegy Merger,              SCE Rescue Plan and",email_dataset/quenet-j/inbox/12.
+52,<2400733.1075852773660.JavaMail.evans@thyme>,no.address@enron.com,,"Mon, 22 Oct 2001 04:29:14 -0700 (PDT)",All-Employee Meeting,email_dataset/quenet-j/deleted_items/100.
+53,<21507063.1075861649287.JavaMail.evans@thyme>,cory.willis@enron.com,stephanie.sever@enron.com,"Mon, 12 Nov 2001 15:33:22 -0800 (PST)",,email_dataset/quenet-j/inbox/10.
+54,<21231517.1075857798789.JavaMail.evans@thyme>,joe.quenet@enron.com,rebecca.quenet@eds.com,"Fri, 10 Nov 2000 07:29:00 -0800 (PST)",RE: OK,email_dataset/quenet-j/sent/15.
+55,<10860725.1075857801549.JavaMail.evans@thyme>,joe.quenet@enron.com,rebecca.quenet@eds.com,"Wed, 23 May 2001 06:25:00 -0700 (PDT)",Re: Alex,email_dataset/quenet-j/_sent_mail/66.
+56,<2378252.1075852770869.JavaMail.evans@thyme>,rebecca.quenet@eds.com,joe.quenet@enron.com,"Fri, 26 Oct 2001 08:59:24 -0700 (PDT)",Something in the Water?,email_dataset/quenet-j/deleted_items/28.
+57,<15593576.1075857798420.JavaMail.evans@thyme>,thane.twiggs@enron.com,"jeffery.ader@enron.com, mark.bernstein@enron.com, scott.healy@enron.com,","Wed, 13 Dec 2000 06:06:00 -0800 (PST)",NEPOOL refusal to use resources external to New England,email_dataset/quenet-j/notes_inbox/3.
+58,<756477.1075857799501.JavaMail.evans@thyme>,joe.quenet@enron.com,rebecca.quenet@eds.com,"Tue, 5 Dec 2000 02:50:00 -0800 (PST)",Re: Precious Cargo,email_dataset/quenet-j/sent/48.
+59,<3077196.1075857797190.JavaMail.evans@thyme>,joe.quenet@enron.com,rebecca.quenet@eds.com,"Wed, 22 Nov 2000 01:53:00 -0800 (PST)",Re: End of the World?,email_dataset/quenet-j/all_documents/39.
+60,<14922048.1075857799003.JavaMail.evans@thyme>,joe.quenet@enron.com,rebecca.quenet@eds.com,"Fri, 17 Nov 2000 02:33:00 -0800 (PST)",Holiday Invitation,email_dataset/quenet-j/sent/25.
+61,<27662754.1075857796867.JavaMail.evans@thyme>,joe.quenet@enron.com,knock.john@epenergy.com,"Wed, 15 Nov 2000 01:48:00 -0800 (PST)",Re:,email_dataset/quenet-j/all_documents/24.
+62,<15333181.1075857801420.JavaMail.evans@thyme>,djenergy@dowjones.com,,"Wed, 23 May 2001 10:14:00 -0700 (PDT)",DJ PJM Electricity Price Index,email_dataset/quenet-j/discussion_threads/24.
+63,<23111418.1075857801485.JavaMail.evans@thyme>,joe.quenet@enron.com,rbp864@aol.com,"Wed, 23 May 2001 04:47:00 -0700 (PDT)",Re: Bobette Riner is no longer at TNE,email_dataset/quenet-j/sent/66.
+64,<21537999.1075857797818.JavaMail.evans@thyme>,thane.twiggs@enron.com,"jeffery.ader@enron.com, mark.bernstein@enron.com, scott.healy@enron.com,","Wed, 13 Dec 2000 06:07:00 -0800 (PST)",PJM RTO Filing/  PJM Answer to Motion for Defer the FERC ruling on,email_dataset/quenet-j/all_documents/68.
+65,<8075075.1075852771821.JavaMail.evans@thyme>,jae.black@enron.com,,"Wed, 24 Oct 2001 12:46:45 -0700 (PDT)",Staff Meeting,email_dataset/quenet-j/deleted_items/49.
+66,<2686915.1075857801056.JavaMail.evans@thyme>,joe.quenet@enron.com,rebecca.quenet@eds.com,"Fri, 10 Nov 2000 03:37:00 -0800 (PST)",Re: Status,email_dataset/quenet-j/_sent_mail/55.
+67,<26266852.1075857799651.JavaMail.evans@thyme>,joe.quenet@enron.com,rebecca.quenet@eds.com,"Thu, 7 Dec 2000 05:48:00 -0800 (PST)",Re: Stuff,email_dataset/quenet-j/sent/55.
+68,<14240718.1075857798895.JavaMail.evans@thyme>,joe.quenet@enron.com,rebecca.quenet@eds.com,"Tue, 14 Nov 2000 01:58:00 -0800 (PST)",Re: Travel,email_dataset/quenet-j/sent/20.
+69,<30348986.1075857800906.JavaMail.evans@thyme>,joe.quenet@enron.com,dwburns@cmsenergy.com,"Mon, 13 Nov 2000 06:16:00 -0800 (PST)",Re: Access to Markets,email_dataset/quenet-j/_sent_mail/48.
+70,<8686010.1075852775953.JavaMail.evans@thyme>,joe.quenet@enron.com,john.knock@elpaso.com,"Mon, 29 Oct 2001 07:21:34 -0800 (PST)","RE: Enron Said To Be Takeover Target, Shell Tipped As Possible Bi",email_dataset/quenet-j/sent_items/5.
+71,<27147778.1075857796569.JavaMail.evans@thyme>,joe.quenet@enron.com,rebecca.quenet@eds.com,"Fri, 10 Nov 2000 03:36:00 -0800 (PST)",Re: Travel,email_dataset/quenet-j/all_documents/10.
+72,<19558926.1075857796846.JavaMail.evans@thyme>,joe.quenet@enron.com,paradise.mike@epenergy.com,"Wed, 15 Nov 2000 01:46:00 -0800 (PST)",Re:,email_dataset/quenet-j/all_documents/23.
+73,<24879367.1075857799673.JavaMail.evans@thyme>,joe.quenet@enron.com,rebecca.quenet@eds.com,"Fri, 8 Dec 2000 03:21:00 -0800 (PST)",Re: Travel,email_dataset/quenet-j/sent/56.
+74,<10670414.1075857798373.JavaMail.evans@thyme>,george.hopley@enron.com,"kevin.presto@enron.com, rogers.herndon@enron.com,","Wed, 13 Dec 2000 08:58:00 -0800 (PST)",PIRA's Gas Flash Weekly 12/13/00,email_dataset/quenet-j/notes_inbox/1.
+75,<6127095.1075857798593.JavaMail.evans@thyme>,joe.quenet@enron.com,knockj@epenergy.com,"Fri, 10 Nov 2000 02:47:00 -0800 (PST)",,email_dataset/quenet-j/sent/7.
+76,<13902849.1075857796677.JavaMail.evans@thyme>,joe.quenet@enron.com,rebecca.quenet@eds.com,"Fri, 10 Nov 2000 07:29:00 -0800 (PST)",RE: OK,email_dataset/quenet-j/all_documents/15.
+77,<11040384.1075857798208.JavaMail.evans@thyme>,joe.quenet@enron.com,stephanie.sever@enron.com,"Mon, 11 Dec 2000 02:05:00 -0800 (PST)",EOL (CUSTOMER) PASSWORD,email_dataset/quenet-j/discussion_threads/16.
+78,<13573284.1075857800015.JavaMail.evans@thyme>,joe.quenet@enron.com,kevino2@unocal.com,"Mon, 11 Dec 2000 03:19:00 -0800 (PST)",Re: FW: (no subject),email_dataset/quenet-j/_sent_mail/7.
+79,<30940226.1075857797638.JavaMail.evans@thyme>,joe.quenet@enron.com,rebecca.quenet@eds.com,"Mon, 11 Dec 2000 04:19:00 -0800 (PST)",Re: Travel,email_dataset/quenet-j/all_documents/60.
+80,<3592851.1075857797745.JavaMail.evans@thyme>,joe.quenet@enron.com,rebecca.quenet@eds.com,"Wed, 13 Dec 2000 02:05:00 -0800 (PST)",RE: Weather what Weather??,email_dataset/quenet-j/all_documents/65.
+81,<21680471.1075852775005.JavaMail.evans@thyme>,issuealert@scientech.com,issuealerthtml@listserv.scientech.com,"Thu, 18 Oct 2001 09:34:03 -0700 (PDT)",Caminus and Altra Energy Partner to Create Full-Service Trading,email_dataset/quenet-j/deleted_items/129.
+82,<1701937.1075852770704.JavaMail.evans@thyme>,rebecca.quenet@eds.com,joe.quenet@enron.com,"Fri, 26 Oct 2001 11:12:05 -0700 (PDT)",RE: Something in the Water?,email_dataset/quenet-j/deleted_items/21.
+83,<13521371.1075852772378.JavaMail.evans@thyme>,issuealert@scientech.com,issuealerthtml@listserv.scientech.com,"Tue, 23 Oct 2001 09:39:42 -0700 (PDT)",U.S. Power Firms Plunge Into Europe's Trading Market; U.K.'s NETA,email_dataset/quenet-j/deleted_items/71.
+84,<11736124.1075857796997.JavaMail.evans@thyme>,joe.quenet@enron.com,rebecca.quenet@eds.com,"Tue, 21 Nov 2000 02:24:00 -0800 (PST)",Re: My Boys,email_dataset/quenet-j/all_documents/30.
+85,<20521656.1075852774324.JavaMail.evans@thyme>,joe.quenet@enron.com,john.knock@elpaso.com,"Fri, 19 Oct 2001 09:44:38 -0700 (PDT)",RE: ENE,email_dataset/quenet-j/deleted_items/114.
+86,<8319012.1075861649188.JavaMail.evans@thyme>,jae.black@enron.com,"j..broderick@enron.com, robert.benson@enron.com, gautam.gupta@enron.com,","Mon, 12 Nov 2001 13:55:20 -0800 (PST)",Northeast Meeting,email_dataset/quenet-j/inbox/6.
+87,<29338827.1075857798120.JavaMail.evans@thyme>,joe.quenet@enron.com,paul.j.broderick@enron.com,"Tue, 21 Nov 2000 05:49:00 -0800 (PST)",,email_dataset/quenet-j/discussion_threads/12.
+88,<27857123.1075861649536.JavaMail.evans@thyme>,chairman.ken@enron.com,dl-ga-all_enron_worldwide1@enron.com,"Tue, 13 Nov 2001 16:15:18 -0800 (PST)",Change of Control Provisions,email_dataset/quenet-j/inbox/14.
+89,<26682010.1075852771484.JavaMail.evans@thyme>,no.address@enron.com,,"Wed, 24 Oct 2001 13:50:19 -0700 (PDT)",Jeff McMahon Named CFO,email_dataset/quenet-j/deleted_items/45.
+90,<15247314.1075857799088.JavaMail.evans@thyme>,joe.quenet@enron.com,dmurphy@utilicorp.com,"Mon, 20 Nov 2000 07:55:00 -0800 (PST)",go boilermakrers !,email_dataset/quenet-j/sent/29.
+91,<24396098.1075857797125.JavaMail.evans@thyme>,joe.quenet@enron.com,rebecca.quenet@eds.com,"Tue, 21 Nov 2000 07:32:00 -0800 (PST)",Re: Plans,email_dataset/quenet-j/all_documents/36.
+92,<28188154.1075857796953.JavaMail.evans@thyme>,joe.quenet@enron.com,arosenberg@edisonmission.com,"Mon, 20 Nov 2000 07:26:00 -0800 (PST)",Re:,email_dataset/quenet-j/all_documents/28.
+93,<9037397.1075857799024.JavaMail.evans@thyme>,joe.quenet@enron.com,rebecca.quenet@eds.com,"Mon, 20 Nov 2000 05:22:00 -0800 (PST)",Re: Moving,email_dataset/quenet-j/sent/26.
+94,<12415760.1075852775907.JavaMail.evans@thyme>,joe.quenet@enron.com,rebecca.quenet@eds.com,"Mon, 29 Oct 2001 07:52:34 -0800 (PST)",RE: Reminder,email_dataset/quenet-j/sent_items/3.
+95,<6564928.1075852773731.JavaMail.evans@thyme>,savita.puthigai@enron.com,"traders.eol@enron.com, traders.eol@enron.com","Fri, 19 Oct 2001 11:10:17 -0700 (PDT)",EnronOnline- Change to Autohedge,email_dataset/quenet-j/deleted_items/102.
+96,<32853986.1075852771976.JavaMail.evans@thyme>,john.knock@elpaso.com,joe.quenet@enron.com,"Wed, 24 Oct 2001 08:46:50 -0700 (PDT)",RE: SHELL,email_dataset/quenet-j/deleted_items/55.
+97,<7004838.1075857798275.JavaMail.evans@thyme>,thane.twiggs@enron.com,"jeffery.ader@enron.com, mark.bernstein@enron.com, scott.healy@enron.com,","Wed, 13 Dec 2000 06:03:00 -0800 (PST)",ISO-NE failure to mitigate ICAP market -- Release of ISO NE,email_dataset/quenet-j/discussion_threads/19.
+98,<33100770.1075857796591.JavaMail.evans@thyme>,joe.quenet@enron.com,rebecca.quenet@eds.com,"Fri, 10 Nov 2000 03:37:00 -0800 (PST)",Re: Status,email_dataset/quenet-j/all_documents/11.
+99,<11789435.1075857798572.JavaMail.evans@thyme>,joe.quenet@enron.com,dmurphy@utilicorp.com,"Fri, 10 Nov 2000 02:44:00 -0800 (PST)",,email_dataset/quenet-j/sent/6.
+100,<3284868.1075857796974.JavaMail.evans@thyme>,joe.quenet@enron.com,dmurphy@utilicorp.com,"Mon, 20 Nov 2000 07:55:00 -0800 (PST)",go boilermakrers !,email_dataset/quenet-j/all_documents/29.
+101,<9580800.1075857796783.JavaMail.evans@thyme>,joe.quenet@enron.com,rebecca.quenet@eds.com,"Tue, 14 Nov 2000 01:58:00 -0800 (PST)",Re: Travel,email_dataset/quenet-j/all_documents/20.
+102,<19339920.1075852770821.JavaMail.evans@thyme>,joe.quenet@enron.com,rebecca.quenet@eds.com,"Fri, 26 Oct 2001 10:09:39 -0700 (PDT)",RE: Something in the Water?,email_dataset/quenet-j/deleted_items/26.
+103,<13402603.1075857799864.JavaMail.evans@thyme>,joe.quenet@enron.com,rebecca.quenet@eds.com,"Wed, 13 Dec 2000 02:05:00 -0800 (PST)",RE: Weather what Weather??,email_dataset/quenet-j/sent/65.
+104,<23626748.1075857797148.JavaMail.evans@thyme>,joe.quenet@enron.com,jim.mccabe@conectiv.com,"Tue, 21 Nov 2000 23:33:00 -0800 (PST)",Re:,email_dataset/quenet-j/all_documents/37.
+105,<25746575.1075857799694.JavaMail.evans@thyme>,joe.quenet@enron.com,stephanie.sever@enron.com,"Mon, 11 Dec 2000 02:05:00 -0800 (PST)",EOL (CUSTOMER) PASSWORD,email_dataset/quenet-j/sent/57.
+106,<32856061.1075861649238.JavaMail.evans@thyme>,susan.lindberg@enron.com,"jeff.ader@enron.com, mark.bernstein@enron.com, j..broderick@enron.com,","Mon, 12 Nov 2001 15:03:47 -0800 (PST)",FERC filings by NYISO,email_dataset/quenet-j/inbox/8.
+107,<3504910.1075857799395.JavaMail.evans@thyme>,joe.quenet@enron.com,knockj@epenergy.com,"Mon, 27 Nov 2000 03:20:00 -0800 (PST)",weekend activities,email_dataset/quenet-j/sent/43.
+108,<2284995.1075857800057.JavaMail.evans@thyme>,joe.quenet@enron.com,stephanie.sever@enron.com,"Mon, 11 Dec 2000 02:05:00 -0800 (PST)",EOL (CUSTOMER) PASSWORD,email_dataset/quenet-j/_sent_mail/9.
+109,<20067162.1075857799160.JavaMail.evans@thyme>,joe.quenet@enron.com,rebecca.quenet@eds.com,"Tue, 21 Nov 2000 02:42:00 -0800 (PST)",RE: My Boys,email_dataset/quenet-j/sent/32.
+110,<29163365.1075857801269.JavaMail.evans@thyme>,joe.quenet@enron.com,rebecca.quenet@eds.com,"Fri, 10 Nov 2000 02:16:00 -0800 (PST)",,email_dataset/quenet-j/_sent_mail/65.
+111,<1856504.1075857799245.JavaMail.evans@thyme>,joe.quenet@enron.com,rebecca.quenet@eds.com,"Tue, 21 Nov 2000 07:32:00 -0800 (PST)",Re: Plans,email_dataset/quenet-j/sent/36.
+112,<25035102.1075857796463.JavaMail.evans@thyme>,joe.quenet@enron.com,smacrorie@utilicorp.com,"Fri, 10 Nov 2000 02:34:00 -0800 (PST)",,email_dataset/quenet-j/all_documents/5.
+113,<28243750.1075852771930.JavaMail.evans@thyme>,joe.quenet@enron.com,rebecca.quenet@eds.com,"Wed, 24 Oct 2001 09:07:31 -0700 (PDT)",RE: The FIRST Warning Sign,email_dataset/quenet-j/deleted_items/53.
+114,<10352131.1075857797467.JavaMail.evans@thyme>,joe.quenet@enron.com,rebecca.quenet@eds.com,"Thu, 7 Dec 2000 02:48:00 -0800 (PST)",Re: Question,email_dataset/quenet-j/all_documents/52.
+115,<33242251.1075857800143.JavaMail.evans@thyme>,joe.quenet@enron.com,rebecca.quenet@eds.com,"Thu, 7 Dec 2000 02:51:00 -0800 (PST)",Re: Question,email_dataset/quenet-j/_sent_mail/13.
+116,<3822426.1075857796505.JavaMail.evans@thyme>,joe.quenet@enron.com,knockj@epenergy.com,"Fri, 10 Nov 2000 02:47:00 -0800 (PST)",,email_dataset/quenet-j/all_documents/7.
+117,<13210827.1075857799181.JavaMail.evans@thyme>,joe.quenet@enron.com,dmurphy@utilicorp.com,"Tue, 21 Nov 2000 02:43:00 -0800 (PST)",RE: go boilermakrers !,email_dataset/quenet-j/sent/33.
+118,<7665572.1075857801226.JavaMail.evans@thyme>,joe.quenet@enron.com,hteitelbaum@natsource.com,"Fri, 10 Nov 2000 02:25:00 -0800 (PST)",,email_dataset/quenet-j/_sent_mail/63.
+119,<12408936.1075857800779.JavaMail.evans@thyme>,joe.quenet@enron.com,knock.john@epenergy.com,"Wed, 15 Nov 2000 01:48:00 -0800 (PST)",Re:,email_dataset/quenet-j/_sent_mail/42.
+120,<29920134.1075852772835.JavaMail.evans@thyme>,jae.black@enron.com,,"Tue, 23 Oct 2001 04:59:13 -0700 (PDT)",FW: RTO week--State Commissioners,email_dataset/quenet-j/deleted_items/79.
+121,<16137244.1075852773373.JavaMail.evans@thyme>,joe.quenet@enron.com,rebecca.quenet@eds.com,"Mon, 22 Oct 2001 11:24:52 -0700 (PDT)",RE: trip north,email_dataset/quenet-j/deleted_items/89.
+122,<22828885.1075857800715.JavaMail.evans@thyme>,joe.quenet@enron.com,arosenberg@edisonmission.com,"Mon, 20 Nov 2000 05:46:00 -0800 (PST)",Re:,email_dataset/quenet-j/_sent_mail/39.
+123,<25531390.1075857799970.JavaMail.evans@thyme>,joe.quenet@enron.com,chris.dorland@enron.com,"Tue, 12 Dec 2000 05:21:00 -0800 (PST)",A friend wanted you to see this!,email_dataset/quenet-j/_sent_mail/5.
+124,<3042741.1075852773634.JavaMail.evans@thyme>,tom.hahn@apbenergy.com,,"Mon, 22 Oct 2001 04:50:03 -0700 (PDT)",Price Sheets from CHB/APB....,email_dataset/quenet-j/deleted_items/99.
+125,<3277673.1075857796442.JavaMail.evans@thyme>,joe.quenet@enron.com,dfincher@utilicorp.com,"Fri, 10 Nov 2000 02:33:00 -0800 (PST)",,email_dataset/quenet-j/all_documents/4.
+126,<15057249.1075857800607.JavaMail.evans@thyme>,joe.quenet@enron.com,rebecca.quenet@eds.com,"Tue, 21 Nov 2000 02:42:00 -0800 (PST)",RE: My Boys,email_dataset/quenet-j/_sent_mail/34.
+127,<23578940.1075857797382.JavaMail.evans@thyme>,joe.quenet@enron.com,rebecca.quenet@eds.com,"Tue, 5 Dec 2000 02:50:00 -0800 (PST)",Re: Precious Cargo,email_dataset/quenet-j/all_documents/48.
+128,<10614935.1075852772092.JavaMail.evans@thyme>,matthew.lord@elpaso.com,joe.quenet@enron.com,"Wed, 24 Oct 2001 07:38:24 -0700 (PDT)",wow,email_dataset/quenet-j/deleted_items/60.
+129,<27369006.1075857800186.JavaMail.evans@thyme>,joe.quenet@enron.com,kevino2@unocal.com,"Thu, 7 Dec 2000 01:45:00 -0800 (PST)","RE: up , up and away !!!!!!!!!",email_dataset/quenet-j/_sent_mail/15.
+130,<4006071.1075852771203.JavaMail.evans@thyme>,no.address@enron.com,,"Thu, 25 Oct 2001 14:41:55 -0700 (PDT)",Weekend Outage Report for 10-26-01 through 10-28-01,email_dataset/quenet-j/deleted_items/39.
+131,<7795771.1075857797531.JavaMail.evans@thyme>,joe.quenet@enron.com,rebecca.quenet@eds.com,"Thu, 7 Dec 2000 05:48:00 -0800 (PST)",Re: Stuff,email_dataset/quenet-j/all_documents/55.
+132,<18975783.1075852770291.JavaMail.evans@thyme>,jae.black@enron.com,,"Mon, 29 Oct 2001 05:03:06 -0800 (PST)",FW: Presentation Announcement,email_dataset/quenet-j/deleted_items/11.
+133,<16659203.1075861649129.JavaMail.evans@thyme>,no.address@enron.com,,"Mon, 12 Nov 2001 11:22:16 -0800 (PST)",FLU SHOTS,email_dataset/quenet-j/inbox/4.
+134,<1963372.1075857798958.JavaMail.evans@thyme>,joe.quenet@enron.com,paradise.mike@epenergy.com,"Wed, 15 Nov 2000 01:46:00 -0800 (PST)",Re:,email_dataset/quenet-j/sent/23.
+135,<27897588.1075857798057.JavaMail.evans@thyme>,joe.quenet@enron.com,rebecca.quenet@eds.com,"Tue, 14 Nov 2000 06:20:00 -0800 (PST)",,email_dataset/quenet-j/discussion_threads/9.
+136,<26352671.1075857797103.JavaMail.evans@thyme>,joe.quenet@enron.com,paul.j.broderick@enron.com,"Tue, 21 Nov 2000 05:49:00 -0800 (PST)",,email_dataset/quenet-j/all_documents/35.
+137,<32891284.1075857797574.JavaMail.evans@thyme>,joe.quenet@enron.com,stephanie.sever@enron.com,"Mon, 11 Dec 2000 02:05:00 -0800 (PST)",EOL (CUSTOMER) PASSWORD,email_dataset/quenet-j/all_documents/57.
+138,<30046756.1075852771045.JavaMail.evans@thyme>,narsimha.misra@enron.com,joe.quenet@enron.com,"Fri, 26 Oct 2001 04:42:59 -0700 (PDT)",EOL_All_Swaps.xls,email_dataset/quenet-j/deleted_items/34.
+139,<27002203.1075857799779.JavaMail.evans@thyme>,joe.quenet@enron.com,chris.dorland@enron.com,"Tue, 12 Dec 2000 05:21:00 -0800 (PST)",A friend wanted you to see this!,email_dataset/quenet-j/sent/61.
+140,<13405733.1075857797403.JavaMail.evans@thyme>,joe.quenet@enron.com,kevino2@unocal.com,"Wed, 6 Dec 2000 08:56:00 -0800 (PST)","up , up and away !!!!!!!!!",email_dataset/quenet-j/all_documents/49.
+141,<26208120.1075857801527.JavaMail.evans@thyme>,joe.quenet@enron.com,rebecca.quenet@eds.com,"Wed, 23 May 2001 06:25:00 -0700 (PDT)",Re: Alex,email_dataset/quenet-j/sent/68.
+142,<21950371.1075852772184.JavaMail.evans@thyme>,joe.quenet@enron.com,john.knock@elpaso.com,"Wed, 24 Oct 2001 06:54:20 -0700 (PDT)",,email_dataset/quenet-j/deleted_items/64.
+143,<20880686.1075861649319.JavaMail.evans@thyme>,jae.black@enron.com,,"Tue, 13 Nov 2001 06:52:05 -0800 (PST)",Floor Meeting,email_dataset/quenet-j/inbox/11.
+144,<14397330.1075857798979.JavaMail.evans@thyme>,joe.quenet@enron.com,knock.john@epenergy.com,"Wed, 15 Nov 2000 01:48:00 -0800 (PST)",Re:,email_dataset/quenet-j/sent/24.
+145,<18102512.1075857800863.JavaMail.evans@thyme>,joe.quenet@enron.com,rebecca.quenet@eds.com,"Tue, 14 Nov 2000 01:58:00 -0800 (PST)",Re: Travel,email_dataset/quenet-j/_sent_mail/46.
+146,<14305373.1075857799544.JavaMail.evans@thyme>,joe.quenet@enron.com,rebecca.quenet@eds.com,"Thu, 7 Dec 2000 01:44:00 -0800 (PST)",Re: Status,email_dataset/quenet-j/sent/50.
+147,<16218742.1075852775263.JavaMail.evans@thyme>,john.knock@elpaso.com,joe.quenet@enron.com,"Thu, 18 Oct 2001 10:11:37 -0700 (PDT)",ene,email_dataset/quenet-j/deleted_items/133.
+148,<7280675.1075852772637.JavaMail.evans@thyme>,peter.makkai@enron.com,joe.quenet@enron.com,"Tue, 23 Oct 2001 05:18:02 -0700 (PDT)",,email_dataset/quenet-j/deleted_items/76.
+149,<7504240.1075857801506.JavaMail.evans@thyme>,joe.quenet@enron.com,rebecca.quenet@eds.com,"Wed, 23 May 2001 05:49:00 -0700 (PDT)",Re: FW: Health tips,email_dataset/quenet-j/sent/67.
+150,<395175.1075857800399.JavaMail.evans@thyme>,joe.quenet@enron.com,rebecca.quenet@eds.com,"Wed, 22 Nov 2000 02:16:00 -0800 (PST)",RE: End of the World?,email_dataset/quenet-j/_sent_mail/25.
+151,<31711661.1075852771953.JavaMail.evans@thyme>,rebecca.quenet@eds.com,"zoe'.'banks@enron.com, joe.quenet@enron.com, elsa'.'spicochi@enron.com,","Wed, 24 Oct 2001 08:50:36 -0700 (PDT)",FW: The FIRST Warning Sign,email_dataset/quenet-j/deleted_items/54.
+152,<21373682.1075857796633.JavaMail.evans@thyme>,joe.quenet@enron.com,rebecca.quenet@eds.com,"Fri, 10 Nov 2000 05:34:00 -0800 (PST)",RE: OK,email_dataset/quenet-j/all_documents/13.
+153,<22104950.1075857800463.JavaMail.evans@thyme>,joe.quenet@enron.com,sblackman@futuresource.com,"Wed, 22 Nov 2000 01:52:00 -0800 (PST)",Re: Fw: Mistress,email_dataset/quenet-j/_sent_mail/28.
+154,<26858577.1075852772671.JavaMail.evans@thyme>,jae.black@enron.com,,"Tue, 23 Oct 2001 05:02:15 -0700 (PDT)",FW: Options Market Update,email_dataset/quenet-j/deleted_items/77.
+155,<16825747.1075857796548.JavaMail.evans@thyme>,joe.quenet@enron.com,dmurphy@utilicorp.com,"Fri, 10 Nov 2000 03:35:00 -0800 (PST)",RE:,email_dataset/quenet-j/all_documents/9.
+156,<11220908.1075857800100.JavaMail.evans@thyme>,joe.quenet@enron.com,rebecca.quenet@eds.com,"Thu, 7 Dec 2000 05:48:00 -0800 (PST)",Re: Stuff,email_dataset/quenet-j/_sent_mail/11.
+157,<23127474.1075852771523.JavaMail.evans@thyme>,issuealert@scientech.com,issuealerthtml@listserv.scientech.com,"Wed, 24 Oct 2001 10:18:48 -0700 (PDT)",Dynegy vs. Enron:  A Tale of Two Companies,email_dataset/quenet-j/deleted_items/46.
+158,<23404552.1075852770681.JavaMail.evans@thyme>,rebecca.quenet@eds.com,joe.quenet@enron.com,"Fri, 26 Oct 2001 11:13:29 -0700 (PDT)",Remember This,email_dataset/quenet-j/deleted_items/20.
+159,<28111333.1075857797595.JavaMail.evans@thyme>,joe.quenet@enron.com,stephanie.sever@enron.com,"Mon, 11 Dec 2000 03:05:00 -0800 (PST)",Re: EOL (CUSTOMER) PASSWORD,email_dataset/quenet-j/all_documents/58.
+160,<25758390.1075852775299.JavaMail.evans@thyme>,jae.black@enron.com,,"Thu, 18 Oct 2001 09:14:50 -0700 (PDT)",FW: Summary RTO Week Day 2 -- Planning & Expansion,email_dataset/quenet-j/deleted_items/134.
+161,<5878419.1075852774546.JavaMail.evans@thyme>,jae.black@enron.com,,"Thu, 18 Oct 2001 14:50:36 -0700 (PDT)",FW: RTO Week -- Summary of Standards and Practices Panel,email_dataset/quenet-j/deleted_items/122.
+162,<25291108.1075857800948.JavaMail.evans@thyme>,joe.quenet@enron.com,knockj@epenergy.com,"Mon, 13 Nov 2000 00:47:00 -0800 (PST)",,email_dataset/quenet-j/_sent_mail/50.
+163,<23165012.1075857800036.JavaMail.evans@thyme>,joe.quenet@enron.com,stephanie.sever@enron.com,"Mon, 11 Dec 2000 03:05:00 -0800 (PST)",Re: EOL (CUSTOMER) PASSWORD,email_dataset/quenet-j/_sent_mail/8.
+164,<18017150.1075857801312.JavaMail.evans@thyme>,perfmgmt@enron.com,joe.quenet@enron.com,"Wed, 23 May 2001 05:37:00 -0700 (PDT)",Mid-Year 2001 Performance Feedback,email_dataset/quenet-j/all_documents/71.
+165,<1177262.1075857798704.JavaMail.evans@thyme>,joe.quenet@enron.com,rebecca.quenet@eds.com,"Fri, 10 Nov 2000 03:37:00 -0800 (PST)",Re: Status,email_dataset/quenet-j/sent/11.
+166,<14495773.1075857800927.JavaMail.evans@thyme>,joe.quenet@enron.com,dwburns@cmsenergy.com,"Mon, 13 Nov 2000 01:50:00 -0800 (PST)",Re: Access to Markets,email_dataset/quenet-j/_sent_mail/49.
+167,<5837796.1075857801035.JavaMail.evans@thyme>,joe.quenet@enron.com,rebecca.quenet@eds.com,"Fri, 10 Nov 2000 05:16:00 -0800 (PST)",Re: OK,email_dataset/quenet-j/_sent_mail/54.
+168,<15300771.1075857798143.JavaMail.evans@thyme>,joe.quenet@enron.com,kevino2@unocal.com,"Wed, 22 Nov 2000 02:13:00 -0800 (PST)",Re: Fw: Mistress,email_dataset/quenet-j/discussion_threads/13.
+169,<12913811.1075857799565.JavaMail.evans@thyme>,joe.quenet@enron.com,kevino2@unocal.com,"Thu, 7 Dec 2000 01:45:00 -0800 (PST)","RE: up , up and away !!!!!!!!!",email_dataset/quenet-j/sent/51.
+170,<17719914.1075857798323.JavaMail.evans@thyme>,thane.twiggs@enron.com,"jeffery.ader@enron.com, mark.bernstein@enron.com, scott.healy@enron.com,","Wed, 13 Dec 2000 06:07:00 -0800 (PST)",PJM RTO Filing/  PJM Answer to Motion for Defer the FERC ruling on,email_dataset/quenet-j/discussion_threads/21.
+171,<2176713.1075852775753.JavaMail.evans@thyme>,joe.quenet@enron.com,matthew.lord@elpaso.com,"Tue, 16 Oct 2001 10:24:10 -0700 (PDT)",RE: gupta,email_dataset/quenet-j/deleted_items/142.
+172,<31196611.1075857800228.JavaMail.evans@thyme>,joe.quenet@enron.com,kevino2@unocal.com,"Wed, 6 Dec 2000 08:56:00 -0800 (PST)","up , up and away !!!!!!!!!",email_dataset/quenet-j/_sent_mail/17.
+173,<8831513.1075852770178.JavaMail.evans@thyme>,rebecca.quenet@eds.com,joe.quenet@enron.com,"Mon, 29 Oct 2001 06:47:36 -0800 (PST)",RE: Reminder,email_dataset/quenet-j/deleted_items/8.
+174,<16192569.1075857800800.JavaMail.evans@thyme>,joe.quenet@enron.com,paradise.mike@epenergy.com,"Wed, 15 Nov 2000 01:46:00 -0800 (PST)",Re:,email_dataset/quenet-j/_sent_mail/43.
+175,<28777918.1075857800527.JavaMail.evans@thyme>,joe.quenet@enron.com,paul.j.broderick@enron.com,"Tue, 21 Nov 2000 05:49:00 -0800 (PST)",,email_dataset/quenet-j/_sent_mail/31.
+176,<25687154.1075857796698.JavaMail.evans@thyme>,joe.quenet@enron.com,knockj@epenergy.com,"Mon, 13 Nov 2000 00:47:00 -0800 (PST)",,email_dataset/quenet-j/all_documents/16.
+177,<17647340.1075857800078.JavaMail.evans@thyme>,joe.quenet@enron.com,rebecca.quenet@eds.com,"Fri, 8 Dec 2000 03:21:00 -0800 (PST)",Re: Travel,email_dataset/quenet-j/_sent_mail/10.
+178,<33490662.1075857798937.JavaMail.evans@thyme>,joe.quenet@enron.com,rebecca.quenet@eds.com,"Tue, 14 Nov 2000 06:20:00 -0800 (PST)",,email_dataset/quenet-j/sent/22.
+179,<6738840.1075857801442.JavaMail.evans@thyme>,djenergy@dowjones.com,,"Wed, 23 May 2001 10:14:00 -0700 (PDT)",DJ PJM Electricity Price Index,email_dataset/quenet-j/notes_inbox/5.
+180,<19058953.1075857801333.JavaMail.evans@thyme>,joe.quenet@enron.com,rebecca.quenet@eds.com,"Wed, 23 May 2001 05:49:00 -0700 (PDT)",Re: FW: Health tips,email_dataset/quenet-j/all_documents/72.
+181,<1982156.1075852775414.JavaMail.evans@thyme>,jae.black@enron.com,"claudette.harvey@enron.com, chaun.roberts@enron.com, judy.martinez@enron.com,","Thu, 18 Oct 2001 09:13:09 -0700 (PDT)",Disaster Recovery Equipment,email_dataset/quenet-j/deleted_items/135.
+182,<20334903.1075857796527.JavaMail.evans@thyme>,joe.quenet@enron.com,dfincher@utilicorp.com,"Fri, 10 Nov 2000 03:30:00 -0800 (PST)",RE:,email_dataset/quenet-j/all_documents/8.
+183,<23377870.1075852775861.JavaMail.evans@thyme>,joe.quenet@enron.com,rebecca.quenet@eds.com,"Mon, 29 Oct 2001 12:30:51 -0800 (PST)",RE: Moody's Investors Service downgrads Enron,email_dataset/quenet-j/sent_items/1.
+184,<8109801.1075857799437.JavaMail.evans@thyme>,joe.quenet@enron.com,cindy.orosey@compaq.com,"Tue, 28 Nov 2000 03:11:00 -0800 (PST)",Re: Resume-Brad Orosey,email_dataset/quenet-j/sent/45.
+185,<23677548.1075852771845.JavaMail.evans@thyme>,joe.quenet@enron.com,rebecca.quenet@eds.com,"Wed, 24 Oct 2001 12:46:47 -0700 (PDT)",RE: Driving,email_dataset/quenet-j/deleted_items/50.
+186,<28282779.1075857801077.JavaMail.evans@thyme>,joe.quenet@enron.com,rebecca.quenet@eds.com,"Fri, 10 Nov 2000 03:36:00 -0800 (PST)",Re: Travel,email_dataset/quenet-j/_sent_mail/56.
+187,<16288766.1075852771907.JavaMail.evans@thyme>,jae.black@enron.com,,"Wed, 24 Oct 2001 10:56:47 -0700 (PDT)",FW: Update on RTOs -- Today's FERC meeting,email_dataset/quenet-j/deleted_items/52.
+188,<103483.1075857801570.JavaMail.evans@thyme>,joe.quenet@enron.com,rebecca.quenet@eds.com,"Wed, 23 May 2001 05:49:00 -0700 (PDT)",Re: FW: Health tips,email_dataset/quenet-j/_sent_mail/67.
+189,<13844966.1075852770072.JavaMail.evans@thyme>,andy.pace@enron.com,"robert.benson@enron.com, joe.quenet@enron.com, jeffrey.miller@enron.com,","Mon, 29 Oct 2001 09:41:24 -0800 (PST)",results of football pool,email_dataset/quenet-j/deleted_items/4.
+190,<21130639.1075857798445.JavaMail.evans@thyme>,thane.twiggs@enron.com,"jeffery.ader@enron.com, mark.bernstein@enron.com, scott.healy@enron.com,","Wed, 13 Dec 2000 06:03:00 -0800 (PST)",ISO-NE failure to mitigate ICAP market -- Release of ISO NE,email_dataset/quenet-j/notes_inbox/4.
+191,<29446341.1075857797446.JavaMail.evans@thyme>,joe.quenet@enron.com,kevino2@unocal.com,"Thu, 7 Dec 2000 01:45:00 -0800 (PST)","RE: up , up and away !!!!!!!!!",email_dataset/quenet-j/all_documents/51.
+192,<27432865.1075857799629.JavaMail.evans@thyme>,joe.quenet@enron.com,rebecca.quenet@eds.com,"Thu, 7 Dec 2000 05:47:00 -0800 (PST)",Re: Cable,email_dataset/quenet-j/sent/54.
+193,<29177476.1075852772138.JavaMail.evans@thyme>,rebecca.quenet@eds.com,joe.quenet@enron.com,"Wed, 24 Oct 2001 07:07:17 -0700 (PDT)",RE: LATE DAY,email_dataset/quenet-j/deleted_items/62.
+194,<17522644.1075852774472.JavaMail.evans@thyme>,vince.crescenzi@gfinet.com,joe.quenet@enron.com,"Fri, 19 Oct 2001 06:05:46 -0700 (PDT)",FW: Let's see if you send this back (fwd),email_dataset/quenet-j/deleted_items/120.
+195,<15016200.1075857797681.JavaMail.evans@thyme>,joe.quenet@enron.com,knockj@epenergy.com,"Tue, 12 Dec 2000 05:22:00 -0800 (PST)",A friend wanted you to see this!,email_dataset/quenet-j/all_documents/62.
+196,<4944215.1075861648904.JavaMail.evans@thyme>,issuealert@scientech.com,issuealerthtml@listserv.scientech.com,"Mon, 12 Nov 2001 09:17:48 -0800 (PST)",Dynegy and Enron Announce Merger,email_dataset/quenet-j/inbox/3.
+197,<25715621.1075857796612.JavaMail.evans@thyme>,joe.quenet@enron.com,rebecca.quenet@eds.com,"Fri, 10 Nov 2000 05:16:00 -0800 (PST)",Re: OK,email_dataset/quenet-j/all_documents/12.
+198,<11995513.1075857799992.JavaMail.evans@thyme>,joe.quenet@enron.com,rebecca.quenet@eds.com,"Mon, 11 Dec 2000 04:19:00 -0800 (PST)",Re: Travel,email_dataset/quenet-j/_sent_mail/6.
+199,<32691359.1075852770658.JavaMail.evans@thyme>,rebecca.quenet@eds.com,joe.quenet@enron.com,"Fri, 26 Oct 2001 12:03:32 -0700 (PDT)",Plans,email_dataset/quenet-j/deleted_items/19.
+200,<13059312.1075861649163.JavaMail.evans@thyme>,andy.pace@enron.com,"f..campbell@enron.com, david.ryan@enron.com, kayne.coulter@enron.com,","Mon, 12 Nov 2001 12:20:52 -0800 (PST)",results of the football pool,email_dataset/quenet-j/inbox/5.
+201,<2142267.1075857798683.JavaMail.evans@thyme>,joe.quenet@enron.com,rebecca.quenet@eds.com,"Fri, 10 Nov 2000 03:36:00 -0800 (PST)",Re: Travel,email_dataset/quenet-j/sent/10.
+202,<18644515.1075852773843.JavaMail.evans@thyme>,issuealert@scientech.com,issuealerthtml@listserv.scientech.com,"Fri, 19 Oct 2001 09:48:34 -0700 (PDT)",Private Investors Align to Upgrade California&#8217;s Path 15;,email_dataset/quenet-j/deleted_items/106.
+203,<9678358.1075861649559.JavaMail.evans@thyme>,issuealert@scientech.com,issuealerthtml@listserv.scientech.com,"Tue, 13 Nov 2001 14:04:43 -0800 (PST)",SCIENTECH's Generation InfoGrid,email_dataset/quenet-j/inbox/15.
+204,<31986490.1075852774046.JavaMail.evans@thyme>,vince.crescenzi@gfinet.com,joe.quenet@enron.com,"Fri, 19 Oct 2001 11:33:32 -0700 (PDT)",FW:,email_dataset/quenet-j/deleted_items/108.
+205,<32576152.1075857798746.JavaMail.evans@thyme>,joe.quenet@enron.com,rebecca.quenet@eds.com,"Fri, 10 Nov 2000 05:34:00 -0800 (PST)",RE: OK,email_dataset/quenet-j/sent/13.
+206,<29864721.1075852772115.JavaMail.evans@thyme>,john.knock@elpaso.com,joe.quenet@enron.com,"Wed, 24 Oct 2001 07:32:04 -0700 (PDT)",SHELL,email_dataset/quenet-j/deleted_items/61.
+207,<13382536.1075857798488.JavaMail.evans@thyme>,joe.quenet@enron.com,vince@gfigroup.com,"Fri, 10 Nov 2000 02:22:00 -0800 (PST)",,email_dataset/quenet-j/sent/2.
+208,<28271622.1075857799821.JavaMail.evans@thyme>,joe.quenet@enron.com,rebecca.quenet@eds.com,"Wed, 13 Dec 2000 00:06:00 -0800 (PST)",Re: Weather what Weather??,email_dataset/quenet-j/sent/63.
+209,<12366956.1075857799586.JavaMail.evans@thyme>,joe.quenet@enron.com,rebecca.quenet@eds.com,"Thu, 7 Dec 2000 02:48:00 -0800 (PST)",Re: Question,email_dataset/quenet-j/sent/52.
+210,<22772502.1075857798397.JavaMail.evans@thyme>,thane.twiggs@enron.com,"jeffery.ader@enron.com, mark.bernstein@enron.com, scott.healy@enron.com,","Wed, 13 Dec 2000 06:07:00 -0800 (PST)",PJM RTO Filing/  PJM Answer to Motion for Defer the FERC ruling on,email_dataset/quenet-j/notes_inbox/2.
+211,<2546277.1075857798467.JavaMail.evans@thyme>,joe.quenet@enron.com,rebecca.quenet@eds.com,"Fri, 10 Nov 2000 02:16:00 -0800 (PST)",,email_dataset/quenet-j/sent/1.
+212,<30200666.1075857799267.JavaMail.evans@thyme>,joe.quenet@enron.com,jim.mccabe@conectiv.com,"Tue, 21 Nov 2000 23:33:00 -0800 (PST)",Re:,email_dataset/quenet-j/sent/37.
+213,<30404822.1075857799842.JavaMail.evans@thyme>,joe.quenet@enron.com,rebecca.quenet@eds.com,"Wed, 13 Dec 2000 00:47:00 -0800 (PST)",RE: Weather what Weather??,email_dataset/quenet-j/sent/64.
+214,<1476678.1075857799907.JavaMail.evans@thyme>,joe.quenet@enron.com,rebecca.quenet@eds.com,"Wed, 13 Dec 2000 00:47:00 -0800 (PST)",RE: Weather what Weather??,email_dataset/quenet-j/_sent_mail/2.
+215,<19091823.1075852773466.JavaMail.evans@thyme>,joe.quenet@enron.com,rebecca.quenet@eds.com,"Mon, 22 Oct 2001 09:42:24 -0700 (PDT)",trip north,email_dataset/quenet-j/deleted_items/93.
+216,<11967457.1075852769902.JavaMail.evans@thyme>,issuealert@scientech.com,issuealerthtml@listserv.scientech.com,"Mon, 29 Oct 2001 10:03:06 -0800 (PST)",Energy Company Values Sink In Response to Changing Times,email_dataset/quenet-j/deleted_items/2.
+217,<5042605.1075857797945.JavaMail.evans@thyme>,joe.quenet@enron.com,dfincher@utilicorp.com,"Fri, 10 Nov 2000 02:33:00 -0800 (PST)",,email_dataset/quenet-j/discussion_threads/4.
+218,<23084230.1075852772544.JavaMail.evans@thyme>,mike.paradise@elpaso.com,joe.quenet@enron.com,"Tue, 23 Oct 2001 09:58:33 -0700 (PDT)","""Are you on crack, Ken?""",email_dataset/quenet-j/deleted_items/72.
+219,<853110.1075852773174.JavaMail.evans@thyme>,rebecca.quenet@eds.com,joe.quenet@enron.com,"Mon, 22 Oct 2001 13:44:24 -0700 (PDT)",Mtg??,email_dataset/quenet-j/deleted_items/87.
+220,<25625847.1075852774391.JavaMail.evans@thyme>,rebecca.quenet@eds.com,joe.quenet@enron.com,"Fri, 19 Oct 2001 09:22:46 -0700 (PDT)",Reminder,email_dataset/quenet-j/deleted_items/117.
+221,<12865236.1075857801184.JavaMail.evans@thyme>,joe.quenet@enron.com,smacrorie@utilicorp.com,"Fri, 10 Nov 2000 02:34:00 -0800 (PST)",,email_dataset/quenet-j/_sent_mail/61.
+222,<12617781.1075852773601.JavaMail.evans@thyme>,no.address@enron.com,,"Mon, 22 Oct 2001 04:55:34 -0700 (PDT)",All-Employee Meeting,email_dataset/quenet-j/deleted_items/98.
+223,<19095174.1075857801290.JavaMail.evans@thyme>,joe.quenet@enron.com,rbp864@aol.com,"Wed, 23 May 2001 04:47:00 -0700 (PDT)",Re: Bobette Riner is no longer at TNE,email_dataset/quenet-j/all_documents/70.
+224,<23021766.1075857798348.JavaMail.evans@thyme>,george.hopley@enron.com,"kevin.presto@enron.com, rogers.herndon@enron.com,","Wed, 13 Dec 2000 08:58:00 -0800 (PST)",PIRA's Gas Flash Weekly 12/13/00,email_dataset/quenet-j/discussion_threads/22.
+225,<30205488.1075852773815.JavaMail.evans@thyme>,rebecca.quenet@eds.com,joe.quenet@enron.com,"Fri, 19 Oct 2001 13:02:04 -0700 (PDT)",FYI,email_dataset/quenet-j/deleted_items/105.
+226,<19991576.1075852770201.JavaMail.evans@thyme>,rebecca.quenet@eds.com,joe.quenet@enron.com,"Mon, 29 Oct 2001 06:22:36 -0800 (PST)",Reminder,email_dataset/quenet-j/deleted_items/9.
+227,<6117557.1075857798251.JavaMail.evans@thyme>,joe.quenet@enron.com,knockj@epenergy.com,"Tue, 12 Dec 2000 05:22:00 -0800 (PST)",A friend wanted you to see this!,email_dataset/quenet-j/discussion_threads/18.
+228,<26744381.1075857800207.JavaMail.evans@thyme>,joe.quenet@enron.com,rebecca.quenet@eds.com,"Thu, 7 Dec 2000 01:44:00 -0800 (PST)",Re: Status,email_dataset/quenet-j/_sent_mail/16.
+229,<18687862.1075857798078.JavaMail.evans@thyme>,joe.quenet@enron.com,rebecca.quenet@eds.com,"Fri, 17 Nov 2000 02:33:00 -0800 (PST)",Holiday Invitation,email_dataset/quenet-j/discussion_threads/10.
+230,<2707682.1075857800334.JavaMail.evans@thyme>,joe.quenet@enron.com,markg@amerexenergy.com,"Mon, 27 Nov 2000 04:35:00 -0800 (PST)",Re: Christmas Party,email_dataset/quenet-j/_sent_mail/22.
+231,<21557135.1075857797361.JavaMail.evans@thyme>,joe.quenet@enron.com,kellybrynne@aol.com,"Mon, 4 Dec 2000 08:48:00 -0800 (PST)",Re: Hey There,email_dataset/quenet-j/all_documents/47.
+232,<1794245.1075857797994.JavaMail.evans@thyme>,joe.quenet@enron.com,dmurphy@utilicorp.com,"Fri, 10 Nov 2000 02:44:00 -0800 (PST)",,email_dataset/quenet-j/discussion_threads/6.
+233,<2349514.1075857799800.JavaMail.evans@thyme>,joe.quenet@enron.com,knockj@epenergy.com,"Tue, 12 Dec 2000 05:22:00 -0800 (PST)",A friend wanted you to see this!,email_dataset/quenet-j/sent/62.
+234,<4022649.1075852771022.JavaMail.evans@thyme>,narsimha.misra@enron.com,joe.quenet@enron.com,"Fri, 26 Oct 2001 04:49:26 -0700 (PDT)",EOL_Enpower_deals.xls,email_dataset/quenet-j/deleted_items/33.
+235,<26131716.1075857797968.JavaMail.evans@thyme>,joe.quenet@enron.com,smacrorie@utilicorp.com,"Fri, 10 Nov 2000 02:34:00 -0800 (PST)",,email_dataset/quenet-j/discussion_threads/5.
+236,<33457340.1075857800250.JavaMail.evans@thyme>,joe.quenet@enron.com,rebecca.quenet@eds.com,"Tue, 5 Dec 2000 02:50:00 -0800 (PST)",Re: Precious Cargo,email_dataset/quenet-j/_sent_mail/18.
+237,<4562602.1075857798551.JavaMail.evans@thyme>,joe.quenet@enron.com,smacrorie@utilicorp.com,"Fri, 10 Nov 2000 02:34:00 -0800 (PST)",,email_dataset/quenet-j/sent/5.
+238,<18571435.1075857797233.JavaMail.evans@thyme>,joe.quenet@enron.com,rebecca.quenet@eds.com,"Wed, 22 Nov 2000 02:16:00 -0800 (PST)",RE: End of the World?,email_dataset/quenet-j/all_documents/41.
+239,<33291263.1075857798229.JavaMail.evans@thyme>,joe.quenet@enron.com,chris.dorland@enron.com,"Tue, 12 Dec 2000 05:21:00 -0800 (PST)",A friend wanted you to see this!,email_dataset/quenet-j/discussion_threads/17.
+240,<3875329.1075857799373.JavaMail.evans@thyme>,joe.quenet@enron.com,rebecca.quenet@eds.com,"Wed, 22 Nov 2000 02:36:00 -0800 (PST)",RE: End of the World?,email_dataset/quenet-j/sent/42.
+241,<9835453.1075857801398.JavaMail.evans@thyme>,perfmgmt@enron.com,joe.quenet@enron.com,"Wed, 23 May 2001 05:37:00 -0700 (PDT)",Mid-Year 2001 Performance Feedback,email_dataset/quenet-j/discussion_threads/23.
+242,<4719415.1075857798852.JavaMail.evans@thyme>,joe.quenet@enron.com,dwburns@cmsenergy.com,"Mon, 13 Nov 2000 06:16:00 -0800 (PST)",Re: Access to Markets,email_dataset/quenet-j/sent/18.
+243,<23996580.1075857798015.JavaMail.evans@thyme>,joe.quenet@enron.com,knockj@epenergy.com,"Fri, 10 Nov 2000 02:47:00 -0800 (PST)",,email_dataset/quenet-j/discussion_threads/7.
+244,<10386845.1075857797340.JavaMail.evans@thyme>,joe.quenet@enron.com,kevino2@unocal.com,"Wed, 29 Nov 2000 04:18:00 -0800 (PST)",Re: FW: Official Seal of the Democratic Party,email_dataset/quenet-j/all_documents/46.
+245,<7271202.1075857799224.JavaMail.evans@thyme>,joe.quenet@enron.com,paul.j.broderick@enron.com,"Tue, 21 Nov 2000 05:49:00 -0800 (PST)",,email_dataset/quenet-j/sent/35.
+246,<14350612.1075852774719.JavaMail.evans@thyme>,andy.rodriquez@enron.com,"jae.black@enron.com,","Thu, 18 Oct 2001 14:46:29 -0700 (PDT)",RE: RTO Week -- Summary of Standards and Practices Panel,email_dataset/quenet-j/deleted_items/123.
+247,<8539817.1075857797488.JavaMail.evans@thyme>,joe.quenet@enron.com,rebecca.quenet@eds.com,"Thu, 7 Dec 2000 02:51:00 -0800 (PST)",Re: Question,email_dataset/quenet-j/all_documents/53.
+248,<31487063.1075857800420.JavaMail.evans@thyme>,joe.quenet@enron.com,kevino2@unocal.com,"Wed, 22 Nov 2000 02:13:00 -0800 (PST)",Re: Fw: Mistress,email_dataset/quenet-j/_sent_mail/26.
+249,<4734305.1075857799715.JavaMail.evans@thyme>,joe.quenet@enron.com,stephanie.sever@enron.com,"Mon, 11 Dec 2000 03:05:00 -0800 (PST)",Re: EOL (CUSTOMER) PASSWORD,email_dataset/quenet-j/sent/58.
+250,<17895362.1075852770238.JavaMail.evans@thyme>,jae.black@enron.com,,"Mon, 29 Oct 2001 05:05:18 -0800 (PST)",FW: options market update,email_dataset/quenet-j/deleted_items/10.
+251,<22783599.1075857800292.JavaMail.evans@thyme>,joe.quenet@enron.com,kevino2@unocal.com,"Wed, 29 Nov 2000 04:18:00 -0800 (PST)",Re: FW: Official Seal of the Democratic Party,email_dataset/quenet-j/_sent_mail/20.
+252,<6790917.1075857797255.JavaMail.evans@thyme>,joe.quenet@enron.com,rebecca.quenet@eds.com,"Wed, 22 Nov 2000 02:36:00 -0800 (PST)",RE: End of the World?,email_dataset/quenet-j/all_documents/42.
+253,<6419312.1075857799109.JavaMail.evans@thyme>,joe.quenet@enron.com,rebecca.quenet@eds.com,"Tue, 21 Nov 2000 02:24:00 -0800 (PST)",Re: My Boys,email_dataset/quenet-j/sent/30.
+254,<14281279.1075852772070.JavaMail.evans@thyme>,joe.quenet@enron.com,matthew.lord@elpaso.com,"Wed, 24 Oct 2001 07:50:34 -0700 (PDT)",RE: wow,email_dataset/quenet-j/deleted_items/59.
+255,<21233935.1075857800165.JavaMail.evans@thyme>,joe.quenet@enron.com,rebecca.quenet@eds.com,"Thu, 7 Dec 2000 02:48:00 -0800 (PST)",Re: Question,email_dataset/quenet-j/_sent_mail/14.
+256,<398882.1075852771459.JavaMail.evans@thyme>,no.address@enron.com,,"Wed, 24 Oct 2001 19:22:28 -0700 (PDT)",Natural Gas Origination,email_dataset/quenet-j/deleted_items/44.
+257,<17998955.1075857799067.JavaMail.evans@thyme>,joe.quenet@enron.com,arosenberg@edisonmission.com,"Mon, 20 Nov 2000 07:26:00 -0800 (PST)",Re:,email_dataset/quenet-j/sent/28.
+258,<4712651.1075857799288.JavaMail.evans@thyme>,joe.quenet@enron.com,sblackman@futuresource.com,"Wed, 22 Nov 2000 01:52:00 -0800 (PST)",Re: Fw: Mistress,email_dataset/quenet-j/sent/38.
+259,<14782827.1075852774153.JavaMail.evans@thyme>,john.knock@elpaso.com,joe.quenet@enron.com,"Fri, 19 Oct 2001 10:23:00 -0700 (PDT)",The Five Dumbest Things on Wall Street This Week.html,email_dataset/quenet-j/deleted_items/112.
+260,<30986748.1075852772025.JavaMail.evans@thyme>,matthew.lord@elpaso.com,joe.quenet@enron.com,"Wed, 24 Oct 2001 07:51:14 -0700 (PDT)",RE: wow,email_dataset/quenet-j/deleted_items/57.
+261,<14238403.1075857796932.JavaMail.evans@thyme>,joe.quenet@enron.com,arosenberg@edisonmission.com,"Mon, 20 Nov 2000 05:46:00 -0800 (PST)",Re:,email_dataset/quenet-j/all_documents/27.
+262,<23694885.1075857800736.JavaMail.evans@thyme>,joe.quenet@enron.com,rebecca.quenet@eds.com,"Mon, 20 Nov 2000 05:22:00 -0800 (PST)",Re: Moving,email_dataset/quenet-j/_sent_mail/40.
+263,<29394167.1075852774498.JavaMail.evans@thyme>,no.address@enron.com,,"Thu, 18 Oct 2001 15:10:12 -0700 (PDT)",UPDATE - Supported Internet Email Addresses,email_dataset/quenet-j/deleted_items/121.
+264,<22695650.1075857798725.JavaMail.evans@thyme>,joe.quenet@enron.com,rebecca.quenet@eds.com,"Fri, 10 Nov 2000 05:16:00 -0800 (PST)",Re: OK,email_dataset/quenet-j/sent/12.
+265,<23333425.1075857796910.JavaMail.evans@thyme>,joe.quenet@enron.com,rebecca.quenet@eds.com,"Mon, 20 Nov 2000 05:22:00 -0800 (PST)",Re: Moving,email_dataset/quenet-j/all_documents/26.
+266,<11631651.1075857797924.JavaMail.evans@thyme>,joe.quenet@enron.com,hteitelbaum@natsource.com,"Fri, 10 Nov 2000 02:25:00 -0800 (PST)",,email_dataset/quenet-j/discussion_threads/3.
+267,<121433.1075857800969.JavaMail.evans@thyme>,joe.quenet@enron.com,rebecca.quenet@eds.com,"Fri, 10 Nov 2000 07:29:00 -0800 (PST)",RE: OK,email_dataset/quenet-j/_sent_mail/51.
+268,<22214811.1075857799331.JavaMail.evans@thyme>,joe.quenet@enron.com,kevino2@unocal.com,"Wed, 22 Nov 2000 02:13:00 -0800 (PST)",Re: Fw: Mistress,email_dataset/quenet-j/sent/40.
+269,<28801556.1075852773490.JavaMail.evans@thyme>,john.knock@elpaso.com,joe.quenet@enron.com,"Mon, 22 Oct 2001 08:30:10 -0700 (PDT)",RE: Trusts Keeping Enron Off Balance.htm,email_dataset/quenet-j/deleted_items/94.
+270,<3946136.1075857797843.JavaMail.evans@thyme>,george.hopley@enron.com,"kevin.presto@enron.com, rogers.herndon@enron.com,","Wed, 13 Dec 2000 08:58:00 -0800 (PST)",PIRA's Gas Flash Weekly 12/13/00,email_dataset/quenet-j/all_documents/69.
+271,<784768.1075857800313.JavaMail.evans@thyme>,joe.quenet@enron.com,cindy.orosey@compaq.com,"Tue, 28 Nov 2000 03:11:00 -0800 (PST)",Re: Resume-Brad Orosey,email_dataset/quenet-j/_sent_mail/21.
+272,<6537675.1075861649264.JavaMail.evans@thyme>,susan.lindberg@enron.com,"dennis.benevides@enron.com, j..broderick@enron.com, tom.dutta@enron.com,","Mon, 12 Nov 2001 15:16:37 -0800 (PST)",NEPOOL filing ER02-185-000,email_dataset/quenet-j/inbox/9.
+273,<29537966.1075852770555.JavaMail.evans@thyme>,no.address@enron.com,,"Fri, 26 Oct 2001 14:45:53 -0700 (PDT)",Supplemental Weekend Outage Report for 10-26-01 through 10-28-01,email_dataset/quenet-j/deleted_items/15.
+274,<1491648.1075852774863.JavaMail.evans@thyme>,no.address@enron.com,,"Thu, 18 Oct 2001 14:26:45 -0700 (PDT)",Weekend Outage Report for 10-19-01 through 10-21-01,email_dataset/quenet-j/deleted_items/124.
+275,<7417233.1075857801141.JavaMail.evans@thyme>,joe.quenet@enron.com,knockj@epenergy.com,"Fri, 10 Nov 2000 02:47:00 -0800 (PST)",,email_dataset/quenet-j/_sent_mail/59.
+276,<30377791.1075852773011.JavaMail.evans@thyme>,no.address@enron.com,,"Mon, 22 Oct 2001 21:00:26 -0700 (PDT)",New Link for All-Employee Meeting,email_dataset/quenet-j/deleted_items/81.
+277,<26133631.1075852770351.JavaMail.evans@thyme>,chairman.office@enron.com,,"Fri, 26 Oct 2001 16:11:01 -0700 (PDT)",Solicitation Calls,email_dataset/quenet-j/deleted_items/13.
+278,<24754078.1075857800378.JavaMail.evans@thyme>,joe.quenet@enron.com,rebecca.quenet@eds.com,"Wed, 22 Nov 2000 02:36:00 -0800 (PST)",RE: End of the World?,email_dataset/quenet-j/_sent_mail/24.
+279,<5522336.1075852773552.JavaMail.evans@thyme>,l..denton@enron.com,"andrea.dahlke@enron.com, casey.evans@enron.com, paul.lewis@enron.com,","Mon, 22 Oct 2001 08:22:03 -0700 (PDT)",CNC Containers Corporation,email_dataset/quenet-j/deleted_items/96.
+280,<18054606.1075857798187.JavaMail.evans@thyme>,joe.quenet@enron.com,kevino2@unocal.com,"Wed, 6 Dec 2000 08:56:00 -0800 (PST)","up , up and away !!!!!!!!!",email_dataset/quenet-j/discussion_threads/15.
+281,<16109420.1075852775190.JavaMail.evans@thyme>,susan.lindberg@enron.com,"rogers.herndon@enron.com, dale.furrow@enron.com, c..aucoin@enron.com,","Thu, 18 Oct 2001 11:41:58 -0700 (PDT)",10/24 FERC agenda -- NYISO,email_dataset/quenet-j/deleted_items/130.
+282,<33280184.1075857798768.JavaMail.evans@thyme>,joe.quenet@enron.com,rebecca.quenet@eds.com,"Fri, 10 Nov 2000 05:44:00 -0800 (PST)",RE: OK,email_dataset/quenet-j/sent/14.
+283,<16090116.1075857797018.JavaMail.evans@thyme>,joe.quenet@enron.com,rebecca.quenet@eds.com,"Tue, 21 Nov 2000 02:27:00 -0800 (PST)",Re: Travel,email_dataset/quenet-j/all_documents/31.
+284,<30646482.1075852771130.JavaMail.evans@thyme>,no.address@enron.com,,"Thu, 25 Oct 2001 21:13:24 -0700 (PDT)",Upcoming Wellness Activities,email_dataset/quenet-j/deleted_items/37.
+285,<164873.1075857796825.JavaMail.evans@thyme>,joe.quenet@enron.com,rebecca.quenet@eds.com,"Tue, 14 Nov 2000 06:20:00 -0800 (PST)",,email_dataset/quenet-j/all_documents/22.
+286,<20609684.1075857798530.JavaMail.evans@thyme>,joe.quenet@enron.com,dfincher@utilicorp.com,"Fri, 10 Nov 2000 02:33:00 -0800 (PST)",,email_dataset/quenet-j/sent/4.
+287,<15292486.1075857799608.JavaMail.evans@thyme>,joe.quenet@enron.com,rebecca.quenet@eds.com,"Thu, 7 Dec 2000 02:51:00 -0800 (PST)",Re: Question,email_dataset/quenet-j/sent/53.
+288,<20982561.1075852772873.JavaMail.evans@thyme>,jae.black@enron.com,,"Tue, 23 Oct 2001 04:58:30 -0700 (PDT)",FW: RTO Week -- Summary of Standards and Practices Panel,email_dataset/quenet-j/deleted_items/80.
+289,<5212593.1075852772001.JavaMail.evans@thyme>,joe.quenet@enron.com,matthew.lord@elpaso.com,"Wed, 24 Oct 2001 08:23:33 -0700 (PDT)",RE: wow,email_dataset/quenet-j/deleted_items/56.
+290,<4706078.1075857799202.JavaMail.evans@thyme>,joe.quenet@enron.com,dmurphy@utilicorp.com,"Tue, 21 Nov 2000 04:07:00 -0800 (PST)",RE: go boilermakrers !,email_dataset/quenet-j/sent/34.
+291,<4344071.1075852772707.JavaMail.evans@thyme>,jae.black@enron.com,,"Tue, 23 Oct 2001 04:59:35 -0700 (PDT)",FW: Summary RTO Week Day 2 -- Planning & Expansion,email_dataset/quenet-j/deleted_items/78.
+292,<26908462.1075852775707.JavaMail.evans@thyme>,joe.quenet@enron.com,matthew.lord@elpaso.com,"Wed, 17 Oct 2001 12:13:51 -0700 (PDT)",RE: posting,email_dataset/quenet-j/deleted_items/140.
+293,<18835101.1075857797297.JavaMail.evans@thyme>,joe.quenet@enron.com,markg@amerexenergy.com,"Mon, 27 Nov 2000 04:35:00 -0800 (PST)",Re: Christmas Party,email_dataset/quenet-j/all_documents/44.
+294,<13491426.1075857801464.JavaMail.evans@thyme>,perfmgmt@enron.com,joe.quenet@enron.com,"Wed, 23 May 2001 05:37:00 -0700 (PDT)",Mid-Year 2001 Performance Feedback,email_dataset/quenet-j/notes_inbox/6.
+295,<20461725.1075852773151.JavaMail.evans@thyme>,joe.quenet@enron.com,rebecca.quenet@eds.com,"Mon, 22 Oct 2001 13:48:44 -0700 (PDT)",RE: Mtg??,email_dataset/quenet-j/deleted_items/86.
+296,<16584738.1075857801098.JavaMail.evans@thyme>,joe.quenet@enron.com,dmurphy@utilicorp.com,"Fri, 10 Nov 2000 03:35:00 -0800 (PST)",RE:,email_dataset/quenet-j/_sent_mail/57.
+297,<3333453.1075857799458.JavaMail.evans@thyme>,joe.quenet@enron.com,kevino2@unocal.com,"Wed, 29 Nov 2000 04:18:00 -0800 (PST)",Re: FW: Official Seal of the Democratic Party,email_dataset/quenet-j/sent/46.
+298,<19165119.1075857797882.JavaMail.evans@thyme>,joe.quenet@enron.com,rebecca.quenet@eds.com,"Fri, 10 Nov 2000 02:16:00 -0800 (PST)",,email_dataset/quenet-j/discussion_threads/1.
+299,<28434620.1075852772590.JavaMail.evans@thyme>,john.knock@elpaso.com,joe.quenet@enron.com,"Tue, 23 Oct 2001 09:55:07 -0700 (PDT)",RE:,email_dataset/quenet-j/deleted_items/74.
+300,<16696750.1075852773695.JavaMail.evans@thyme>,no.address@enron.com,,"Sun, 21 Oct 2001 19:42:30 -0700 (PDT)",Enron in Action 10.22.01,email_dataset/quenet-j/deleted_items/101.
+301,<16887041.1075857800564.JavaMail.evans@thyme>,joe.quenet@enron.com,dmurphy@utilicorp.com,"Tue, 21 Nov 2000 04:07:00 -0800 (PST)",RE: go boilermakrers !,email_dataset/quenet-j/_sent_mail/32.
+302,<3895214.1075852775730.JavaMail.evans@thyme>,joe.quenet@enron.com,matthew.lord@elpaso.com,"Wed, 17 Oct 2001 12:08:52 -0700 (PDT)",RE: posting,email_dataset/quenet-j/deleted_items/141.
+303,<11412775.1075857797040.JavaMail.evans@thyme>,joe.quenet@enron.com,rebecca.quenet@eds.com,"Tue, 21 Nov 2000 02:42:00 -0800 (PST)",RE: My Boys,email_dataset/quenet-j/all_documents/32.
+304,<12485127.1075852774974.JavaMail.evans@thyme>,jae.black@enron.com,,"Thu, 18 Oct 2001 12:17:12 -0700 (PDT)",FW: FERC to discuss all East proposed RTOs,email_dataset/quenet-j/deleted_items/128.
+305,<23019873.1075852775883.JavaMail.evans@thyme>,joe.quenet@enron.com,rebecca.quenet@eds.com,"Mon, 29 Oct 2001 09:21:25 -0800 (PST)",DAYCARE,email_dataset/quenet-j/sent_items/2.
+306,<20625717.1075857797770.JavaMail.evans@thyme>,thane.twiggs@enron.com,"jeffery.ader@enron.com, mark.bernstein@enron.com, scott.healy@enron.com,","Wed, 13 Dec 2000 06:03:00 -0800 (PST)",ISO-NE failure to mitigate ICAP market -- Release of ISO NE,email_dataset/quenet-j/all_documents/66.
+307,<15558427.1075852772230.JavaMail.evans@thyme>,dana.davis@enron.com,"gautam.gupta@enron.com, j..broderick@enron.com, robert.benson@enron.com,","Wed, 24 Oct 2001 05:09:25 -0700 (PDT)",VAR Limits,email_dataset/quenet-j/deleted_items/66.
+308,<33226004.1075857800628.JavaMail.evans@thyme>,joe.quenet@enron.com,rebecca.quenet@eds.com,"Tue, 21 Nov 2000 02:27:00 -0800 (PST)",Re: Travel,email_dataset/quenet-j/_sent_mail/35.
+309,<9197799.1075857798661.JavaMail.evans@thyme>,joe.quenet@enron.com,dmurphy@utilicorp.com,"Fri, 10 Nov 2000 03:35:00 -0800 (PST)",RE:,email_dataset/quenet-j/sent/9.
+310,<17424815.1075857798099.JavaMail.evans@thyme>,joe.quenet@enron.com,dmurphy@utilicorp.com,"Mon, 20 Nov 2000 07:55:00 -0800 (PST)",go boilermakrers !,email_dataset/quenet-j/discussion_threads/11.
+311,<14399899.1075857797703.JavaMail.evans@thyme>,joe.quenet@enron.com,rebecca.quenet@eds.com,"Wed, 13 Dec 2000 00:06:00 -0800 (PST)",Re: Weather what Weather??,email_dataset/quenet-j/all_documents/63.
+312,<16124691.1075857800442.JavaMail.evans@thyme>,joe.quenet@enron.com,rebecca.quenet@eds.com,"Wed, 22 Nov 2000 01:53:00 -0800 (PST)",Re: End of the World?,email_dataset/quenet-j/_sent_mail/27.
+313,<9775157.1075852773758.JavaMail.evans@thyme>,no.address@enron.com,,"Fri, 19 Oct 2001 14:40:57 -0700 (PDT)",SUPPLEMENTAL Weekend Outage Report for 10-19-01 through 10-21-01,email_dataset/quenet-j/deleted_items/103.
+314,<1387326.1075857796400.JavaMail.evans@thyme>,joe.quenet@enron.com,vince@gfigroup.com,"Fri, 10 Nov 2000 02:22:00 -0800 (PST)",,email_dataset/quenet-j/all_documents/2.
+315,<12676942.1075857796719.JavaMail.evans@thyme>,joe.quenet@enron.com,dwburns@cmsenergy.com,"Mon, 13 Nov 2000 01:50:00 -0800 (PST)",Re: Access to Markets,email_dataset/quenet-j/all_documents/17.
+316,<15944434.1075857800757.JavaMail.evans@thyme>,joe.quenet@enron.com,rebecca.quenet@eds.com,"Fri, 17 Nov 2000 02:33:00 -0800 (PST)",Holiday Invitation,email_dataset/quenet-j/_sent_mail/41.
+317,<1266209.1075857801205.JavaMail.evans@thyme>,joe.quenet@enron.com,dfincher@utilicorp.com,"Fri, 10 Nov 2000 02:33:00 -0800 (PST)",,email_dataset/quenet-j/_sent_mail/62.
+318,<24546637.1075857797724.JavaMail.evans@thyme>,joe.quenet@enron.com,rebecca.quenet@eds.com,"Wed, 13 Dec 2000 00:47:00 -0800 (PST)",RE: Weather what Weather??,email_dataset/quenet-j/all_documents/64.
+319,<24186136.1075857799045.JavaMail.evans@thyme>,joe.quenet@enron.com,arosenberg@edisonmission.com,"Mon, 20 Nov 2000 05:46:00 -0800 (PST)",Re:,email_dataset/quenet-j/sent/27.
+320,<10488342.1075852773203.JavaMail.evans@thyme>,issuealert@scientech.com,issuealerthtml@listserv.scientech.com,"Mon, 22 Oct 2001 11:36:12 -0700 (PDT)",Enron's Departure from Core Business Takes a Toll on Performance,email_dataset/quenet-j/deleted_items/88.
+321,<17378565.1075857797061.JavaMail.evans@thyme>,joe.quenet@enron.com,dmurphy@utilicorp.com,"Tue, 21 Nov 2000 02:43:00 -0800 (PST)",RE: go boilermakrers !,email_dataset/quenet-j/all_documents/33.
+322,<11515885.1075852773512.JavaMail.evans@thyme>,joe.quenet@enron.com,john.knock@elpaso.com,"Mon, 22 Oct 2001 08:23:13 -0700 (PDT)",RE: Trusts Keeping Enron Off Balance.htm,email_dataset/quenet-j/deleted_items/95.
+323,<4164837.1075857799352.JavaMail.evans@thyme>,joe.quenet@enron.com,rebecca.quenet@eds.com,"Wed, 22 Nov 2000 02:16:00 -0800 (PST)",RE: End of the World?,email_dataset/quenet-j/sent/41.
+324,<5605332.1075857797794.JavaMail.evans@thyme>,thane.twiggs@enron.com,"jeffery.ader@enron.com, mark.bernstein@enron.com, scott.healy@enron.com,","Wed, 13 Dec 2000 06:06:00 -0800 (PST)",NEPOOL refusal to use resources external to New England,email_dataset/quenet-j/all_documents/67.
+325,<23998553.1075852775976.JavaMail.evans@thyme>,joe.quenet@enron.com,rebecca.quenet@eds.com,"Mon, 29 Oct 2001 06:34:29 -0800 (PST)",RE: Reminder,email_dataset/quenet-j/sent_items/6.
+326,<32457455.1075857798165.JavaMail.evans@thyme>,joe.quenet@enron.com,knockj@epenergy.com,"Mon, 27 Nov 2000 03:20:00 -0800 (PST)",weekend activities,email_dataset/quenet-j/discussion_threads/14.
+327,<18441695.1075852772613.JavaMail.evans@thyme>,joe.quenet@enron.com,john.knock@elpaso.com,"Tue, 23 Oct 2001 09:39:14 -0700 (PDT)",,email_dataset/quenet-j/deleted_items/75.
+328,<6621638.1075852775838.JavaMail.evans@thyme>,djenergy@dowjones.com,,"Mon, 29 Oct 2001 14:41:57 -0800 (PST)",PJM,email_dataset/quenet-j/inbox/2.
+329,<4123140.1075852775471.JavaMail.evans@thyme>,jae.black@enron.com,,"Wed, 17 Oct 2001 14:40:13 -0700 (PDT)",FW: Enron's FERC filing opposing icap,email_dataset/quenet-j/deleted_items/137.
+330,<17079004.1075857799309.JavaMail.evans@thyme>,joe.quenet@enron.com,rebecca.quenet@eds.com,"Wed, 22 Nov 2000 01:53:00 -0800 (PST)",Re: End of the World?,email_dataset/quenet-j/sent/39.
+331,<7692869.1075852770155.JavaMail.evans@thyme>,john.knock@elpaso.com,joe.quenet@enron.com,"Mon, 29 Oct 2001 06:51:35 -0800 (PST)","FW: Enron Said To Be Takeover Target, Shell Tipped As Possible Bi",email_dataset/quenet-j/deleted_items/7.
+332,<9699759.1075852775776.JavaMail.evans@thyme>,rebecca.quenet@eds.com,joe.quenet@enron.com,"Wed, 10 Oct 2001 07:34:23 -0700 (PDT)",FW:,email_dataset/quenet-j/deleted_items/143.
+333,<11787898.1075852770045.JavaMail.evans@thyme>,rebecca.quenet@eds.com,joe.quenet@enron.com,"Mon, 29 Oct 2001 10:19:58 -0800 (PST)",RE: DAYCARE,email_dataset/quenet-j/deleted_items/3.
+334,<29421807.1075852771254.JavaMail.evans@thyme>,issuealert@scientech.com,issuealerthtml@listserv.scientech.com,"Thu, 25 Oct 2001 09:55:06 -0700 (PDT)",NRC Approves Yucca Mountain as Nuclear Waste Site,email_dataset/quenet-j/deleted_items/41.
+335,<2747583.1075852770612.JavaMail.evans@thyme>,issuealert@scientech.com,issuealerthtml@listserv.scientech.com,"Fri, 26 Oct 2001 11:35:27 -0700 (PDT)",Nuclear Experts Respond  to Yucca Mountain IssueAlert,email_dataset/quenet-j/deleted_items/17.
+336,<3015798.1075852770798.JavaMail.evans@thyme>,rebecca.quenet@eds.com,joe.quenet@enron.com,"Fri, 26 Oct 2001 10:14:24 -0700 (PDT)",RE: Something in the Water?,email_dataset/quenet-j/deleted_items/25.
+337,<805689.1075852772256.JavaMail.evans@thyme>,no.address@enron.com,,"Tue, 23 Oct 2001 22:44:37 -0700 (PDT)",eSource Presents Briefings with Senior Industry Analysts - Energy,email_dataset/quenet-j/deleted_items/67.
+338,<11195950.1075852771105.JavaMail.evans@thyme>,no.address@enron.com,,"Thu, 25 Oct 2001 21:43:45 -0700 (PDT)",IMPORTANT-To All Domestic Employees who Participate in the Enron,email_dataset/quenet-j/deleted_items/36.
+339,<16147615.1075857798831.JavaMail.evans@thyme>,joe.quenet@enron.com,dwburns@cmsenergy.com,"Mon, 13 Nov 2000 01:50:00 -0800 (PST)",Re: Access to Markets,email_dataset/quenet-j/sent/17.
+340,<12797761.1075852771784.JavaMail.evans@thyme>,rebecca.quenet@eds.com,joe.quenet@enron.com,"Wed, 24 Oct 2001 12:57:24 -0700 (PDT)",RE: Driving,email_dataset/quenet-j/deleted_items/48.
+341,<651785.1075852774093.JavaMail.evans@thyme>,joe.quenet@enron.com,vince.crescenzi@gfinet.com,"Fri, 19 Oct 2001 11:33:00 -0700 (PDT)",RE: you may have already seen this?,email_dataset/quenet-j/deleted_items/110.
+342,<3470434.1075852773105.JavaMail.evans@thyme>,john@pgsenergy.com,jquenet@enron.com,"Mon, 22 Oct 2001 19:44:27 -0700 (PDT)",Last Call for Houston Seminars,email_dataset/quenet-j/deleted_items/84.
+343,<11147731.1075857799949.JavaMail.evans@thyme>,joe.quenet@enron.com,knockj@epenergy.com,"Tue, 12 Dec 2000 05:22:00 -0800 (PST)",A friend wanted you to see this!,email_dataset/quenet-j/_sent_mail/4.
+344,<25925575.1075852770096.JavaMail.evans@thyme>,rebecca.quenet@eds.com,joe.quenet@enron.com,"Mon, 29 Oct 2001 07:44:23 -0800 (PST)",RE: Reminder,email_dataset/quenet-j/deleted_items/5.
+345,<27669016.1075857800990.JavaMail.evans@thyme>,joe.quenet@enron.com,rebecca.quenet@eds.com,"Fri, 10 Nov 2000 05:44:00 -0800 (PST)",RE: OK,email_dataset/quenet-j/_sent_mail/52.
+346,<22463049.1075852772206.JavaMail.evans@thyme>,joe.quenet@enron.com,rebecca.quenet@eds.com,"Wed, 24 Oct 2001 06:52:54 -0700 (PDT)",LATE DAY,email_dataset/quenet-j/deleted_items/65.
+347,<16033617.1075852774918.JavaMail.evans@thyme>,susan.lindberg@enron.com,"palmer.letzerich@enron.com, rogers.herndon@enron.com, dale.furrow@enron.com,","Thu, 18 Oct 2001 13:11:55 -0700 (PDT)",NYISO filing update,email_dataset/quenet-j/deleted_items/126.
+348,<30538638.1075857799522.JavaMail.evans@thyme>,joe.quenet@enron.com,kevino2@unocal.com,"Wed, 6 Dec 2000 08:56:00 -0800 (PST)","up , up and away !!!!!!!!!",email_dataset/quenet-j/sent/49.
+349,<22065627.1075857800821.JavaMail.evans@thyme>,joe.quenet@enron.com,rebecca.quenet@eds.com,"Tue, 14 Nov 2000 06:20:00 -0800 (PST)",,email_dataset/quenet-j/_sent_mail/44.
+350,<3288732.1075857796762.JavaMail.evans@thyme>,joe.quenet@enron.com,rebecca.quenet@eds.com,"Tue, 14 Nov 2000 01:57:00 -0800 (PST)",Re: NOTARY,email_dataset/quenet-j/all_documents/19.
+351,<17971319.1075852774301.JavaMail.evans@thyme>,john.knock@elpaso.com,joe.quenet@enron.com,"Fri, 19 Oct 2001 09:45:51 -0700 (PDT)",RE: ENE,email_dataset/quenet-j/deleted_items/113.
+352,<16425235.1075852775815.JavaMail.evans@thyme>,no.address@enron.com,,"Mon, 29 Oct 2001 19:06:37 -0800 (PST)",Lexis-Nexis Training: Houston & Worldwide / Dow Jones Training,email_dataset/quenet-j/inbox/1.
+353,<4930475.1075857798509.JavaMail.evans@thyme>,joe.quenet@enron.com,hteitelbaum@natsource.com,"Fri, 10 Nov 2000 02:25:00 -0800 (PST)",,email_dataset/quenet-j/sent/3.
+354,<4714083.1075857800671.JavaMail.evans@thyme>,joe.quenet@enron.com,dmurphy@utilicorp.com,"Mon, 20 Nov 2000 07:55:00 -0800 (PST)",go boilermakrers !,email_dataset/quenet-j/_sent_mail/37.
+355,<4970132.1075852774890.JavaMail.evans@thyme>,susan.lindberg@enron.com,"jeff.ader@enron.com, mark.bernstein@enron.com, j..broderick@enron.com,","Thu, 18 Oct 2001 13:38:55 -0700 (PDT)",ISO New England Special Interim Market Rule (EL00-62-035),email_dataset/quenet-j/deleted_items/125.
+356,<10886482.1075857800884.JavaMail.evans@thyme>,joe.quenet@enron.com,rebecca.quenet@eds.com,"Tue, 14 Nov 2000 01:57:00 -0800 (PST)",Re: NOTARY,email_dataset/quenet-j/_sent_mail/47.
+357,<7732221.1075852770634.JavaMail.evans@thyme>,joe.quenet@enron.com,rebecca.quenet@eds.com,"Fri, 26 Oct 2001 12:32:14 -0700 (PDT)",RE: Plans,email_dataset/quenet-j/deleted_items/18.
+358,<29494490.1075852772047.JavaMail.evans@thyme>,joe.quenet@enron.com,john.knock@elpaso.com,"Wed, 24 Oct 2001 07:53:23 -0700 (PDT)",RE: SHELL,email_dataset/quenet-j/deleted_items/58.
+359,<13223226.1075857801354.JavaMail.evans@thyme>,joe.quenet@enron.com,rebecca.quenet@eds.com,"Wed, 23 May 2001 06:25:00 -0700 (PDT)",Re: Alex,email_dataset/quenet-j/all_documents/73.
+360,<430995.1075852770378.JavaMail.evans@thyme>,issuealert@scientech.com,issuealerthtml@listserv.scientech.com,"Fri, 26 Oct 2001 12:02:43 -0700 (PDT)",Conectiv Completes Nuclear Plant Sales,email_dataset/quenet-j/deleted_items/14.
+361,<28851219.1075852773046.JavaMail.evans@thyme>,no.address@enron.com,,"Mon, 22 Oct 2001 20:28:01 -0700 (PDT)",To: All Domestic Employees who Participate in the Enron Corp,email_dataset/quenet-j/deleted_items/82.
+362,<2101830.1075852770752.JavaMail.evans@thyme>,rebecca.quenet@eds.com,joe.quenet@enron.com,"Fri, 26 Oct 2001 10:27:15 -0700 (PDT)",RE: Something in the Water?,email_dataset/quenet-j/deleted_items/23.
+363,<26195675.1075852770775.JavaMail.evans@thyme>,joe.quenet@enron.com,rebecca.quenet@eds.com,"Fri, 26 Oct 2001 10:19:23 -0700 (PDT)",RE: Something in the Water?,email_dataset/quenet-j/deleted_items/24.
+364,<26846798.1075852770129.JavaMail.evans@thyme>,jae.black@enron.com,,"Mon, 29 Oct 2001 07:07:48 -0800 (PST)",Mandatory Staff Mtg.,email_dataset/quenet-j/deleted_items/6.
+365,<16083572.1075852770728.JavaMail.evans@thyme>,joe.quenet@enron.com,rebecca.quenet@eds.com,"Fri, 26 Oct 2001 10:57:43 -0700 (PDT)",RE: Something in the Water?,email_dataset/quenet-j/deleted_items/22.
+366,<23779356.1075857797082.JavaMail.evans@thyme>,joe.quenet@enron.com,dmurphy@utilicorp.com,"Tue, 21 Nov 2000 04:07:00 -0800 (PST)",RE: go boilermakrers !,email_dataset/quenet-j/all_documents/34.
+367,<31257899.1075857796889.JavaMail.evans@thyme>,joe.quenet@enron.com,rebecca.quenet@eds.com,"Fri, 17 Nov 2000 02:33:00 -0800 (PST)",Holiday Invitation,email_dataset/quenet-j/all_documents/25.
+368,<19172656.1075857797903.JavaMail.evans@thyme>,joe.quenet@enron.com,vince@gfigroup.com,"Fri, 10 Nov 2000 02:22:00 -0800 (PST)",,email_dataset/quenet-j/discussion_threads/2.
+369,<27089814.1075852774022.JavaMail.evans@thyme>,tom.hoatson@enron.com,"jeff.ader@enron.com, c..aucoin@enron.com, mark.bernstein@enron.com,","Fri, 19 Oct 2001 12:11:26 -0700 (PDT)",FW: PJM Announces Training Sessions for PJM West Changes,email_dataset/quenet-j/deleted_items/107.
+370,<20290940.1075857798810.JavaMail.evans@thyme>,joe.quenet@enron.com,knockj@epenergy.com,"Mon, 13 Nov 2000 00:47:00 -0800 (PST)",,email_dataset/quenet-j/sent/16.
+371,<7958910.1075852770898.JavaMail.evans@thyme>,tom.hoatson@enron.com,"jeff.ader@enron.com, c..aucoin@enron.com, mark.bernstein@enron.com,","Fri, 26 Oct 2001 08:12:47 -0700 (PDT)",Rockland Electric Transfer to PJM,email_dataset/quenet-j/deleted_items/29.
+372,<11763702.1075857801376.JavaMail.evans@thyme>,djenergy@dowjones.com,,"Wed, 23 May 2001 10:14:00 -0700 (PDT)",DJ PJM Electricity Price Index,email_dataset/quenet-j/all_documents/74.
+373,<24667765.1075852770317.JavaMail.evans@thyme>,no.address@enron.com,,"Sun, 28 Oct 2001 20:23:24 -0800 (PST)",Enron in Action 10.29.01,email_dataset/quenet-j/deleted_items/12.
+374,<21392062.1075852774070.JavaMail.evans@thyme>,vince.crescenzi@gfinet.com,joe.quenet@enron.com,"Fri, 19 Oct 2001 11:33:01 -0700 (PDT)",RE: you may have already seen this?,email_dataset/quenet-j/deleted_items/109.
+375,<22003651.1075852769875.JavaMail.evans@thyme>,rebecca.quenet@eds.com,joe.quenet@enron.com,"Mon, 29 Oct 2001 12:11:42 -0800 (PST)",Moody's Investors Service downgrads Enron,email_dataset/quenet-j/deleted_items/1.
+376,<9027019.1075852774445.JavaMail.evans@thyme>,susan.lindberg@enron.com,"jeff.ader@enron.com, mark.bernstein@enron.com, j..broderick@enron.com,","Fri, 19 Oct 2001 06:41:26 -0700 (PDT)",ConEd market power mitigation measures upheld,email_dataset/quenet-j/deleted_items/119.
+377,<18994762.1075857799416.JavaMail.evans@thyme>,joe.quenet@enron.com,markg@amerexenergy.com,"Mon, 27 Nov 2000 04:35:00 -0800 (PST)",Re: Christmas Party,email_dataset/quenet-j/sent/44.
+378,<12347438.1075857800271.JavaMail.evans@thyme>,joe.quenet@enron.com,kellybrynne@aol.com,"Mon, 4 Dec 2000 08:48:00 -0800 (PST)",Re: Hey There,email_dataset/quenet-j/_sent_mail/19.
+379,<2935754.1075852775238.JavaMail.evans@thyme>,joe.quenet@enron.com,john.knock@elpaso.com,"Thu, 18 Oct 2001 10:20:03 -0700 (PDT)",RE: ene,email_dataset/quenet-j/deleted_items/132.
+380,<2764230.1075852773444.JavaMail.evans@thyme>,joe.quenet@enron.com,rebecca.quenet@eds.com,"Mon, 22 Oct 2001 10:13:15 -0700 (PDT)",,email_dataset/quenet-j/deleted_items/92.
+381,<25702127.1075857797425.JavaMail.evans@thyme>,joe.quenet@enron.com,rebecca.quenet@eds.com,"Thu, 7 Dec 2000 01:44:00 -0800 (PST)",Re: Status,email_dataset/quenet-j/all_documents/50.
+382,<20789117.1075852771434.JavaMail.evans@thyme>,rebecca.quenet@eds.com,joe.quenet@enron.com,"Thu, 25 Oct 2001 08:19:18 -0700 (PDT)",Visit,email_dataset/quenet-j/deleted_items/43.
+383,<19816558.1075857801248.JavaMail.evans@thyme>,joe.quenet@enron.com,vince@gfigroup.com,"Fri, 10 Nov 2000 02:22:00 -0800 (PST)",,email_dataset/quenet-j/_sent_mail/64.
+384,<16600810.1075857800650.JavaMail.evans@thyme>,joe.quenet@enron.com,rebecca.quenet@eds.com,"Tue, 21 Nov 2000 02:24:00 -0800 (PST)",Re: My Boys,email_dataset/quenet-j/_sent_mail/36.
+385,<20772966.1075857797617.JavaMail.evans@thyme>,joe.quenet@enron.com,kevino2@unocal.com,"Mon, 11 Dec 2000 03:19:00 -0800 (PST)",Re: FW: (no subject),email_dataset/quenet-j/all_documents/59.
+386,<33097790.1075857798614.JavaMail.evans@thyme>,joe.quenet@enron.com,dfincher@utilicorp.com,"Fri, 10 Nov 2000 03:30:00 -0800 (PST)",RE:,email_dataset/quenet-j/sent/8.
+387,<11886095.1075857799137.JavaMail.evans@thyme>,joe.quenet@enron.com,rebecca.quenet@eds.com,"Tue, 21 Nov 2000 02:27:00 -0800 (PST)",Re: Travel,email_dataset/quenet-j/sent/31.
+388,<656074.1075852771411.JavaMail.evans@thyme>,joe.quenet@enron.com,rebecca.quenet@eds.com,"Thu, 25 Oct 2001 08:25:41 -0700 (PDT)",RE: Visit,email_dataset/quenet-j/deleted_items/42.
+389,<16330132.1075857797276.JavaMail.evans@thyme>,joe.quenet@enron.com,knockj@epenergy.com,"Mon, 27 Nov 2000 03:20:00 -0800 (PST)",weekend activities,email_dataset/quenet-j/all_documents/43.
+390,<14897791.1075852771166.JavaMail.evans@thyme>,no.address@enron.com,,"Thu, 25 Oct 2001 16:07:00 -0700 (PDT)",Enron Net Works and Enron Global Strategic Sourcing announce new,email_dataset/quenet-j/deleted_items/38.
+391,<7711932.1075852775500.JavaMail.evans@thyme>,issuealert@scientech.com,issuealerthtml@listserv.scientech.com,"Wed, 17 Oct 2001 10:12:43 -0700 (PDT)",AES Hits Brick Wall in Venezuelan Acquisition,email_dataset/quenet-j/deleted_items/138.
+392,<16401347.1075857797509.JavaMail.evans@thyme>,joe.quenet@enron.com,rebecca.quenet@eds.com,"Thu, 7 Dec 2000 05:47:00 -0800 (PST)",Re: Cable,email_dataset/quenet-j/all_documents/54.
+393,<13899306.1075857800121.JavaMail.evans@thyme>,joe.quenet@enron.com,rebecca.quenet@eds.com,"Thu, 7 Dec 2000 05:47:00 -0800 (PST)",Re: Cable,email_dataset/quenet-j/_sent_mail/12.
+394,<3229759.1075857800484.JavaMail.evans@thyme>,joe.quenet@enron.com,jim.mccabe@conectiv.com,"Tue, 21 Nov 2000 23:33:00 -0800 (PST)",Re:,email_dataset/quenet-j/_sent_mail/29.
+395,<9034580.1075857797319.JavaMail.evans@thyme>,joe.quenet@enron.com,cindy.orosey@compaq.com,"Tue, 28 Nov 2000 03:11:00 -0800 (PST)",Re: Resume-Brad Orosey,email_dataset/quenet-j/all_documents/45.

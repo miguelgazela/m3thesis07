@@ -1,0 +1,575 @@
+counter,message-id,from,to,date,subject,path
+1,<8455460.1075841472958.JavaMail.evans@thyme>,cooper.richey@enron.com,greg.hibbert@enron.com,"Fri, 1 Feb 2002 13:12:48 -0800 (PST)",servers,email_dataset/richey-c/sent_items/16.
+2,<11172011.1075841461083.JavaMail.evans@thyme>,cooper.richey@enron.com,,"Thu, 5 Jul 2001 11:31:18 -0700 (PDT)",Colin Poon Tip,email_dataset/richey-c/contacts/1.
+3,<8351838.1075841479628.JavaMail.evans@thyme>,cooper.richey@enron.com,jeff.richter@enron.com,"Tue, 8 May 2001 23:22:00 -0700 (PDT)",flight info,email_dataset/richey-c/_sent_mail/31.
+4,<25628556.1075841475558.JavaMail.evans@thyme>,cooper.richey@enron.com,jhawker@petersco.com,"Wed, 9 Jan 2002 07:55:56 -0800 (PST)",,email_dataset/richey-c/sent_items/126.
+5,<7755178.1075841472905.JavaMail.evans@thyme>,cooper.richey@enron.com,greg.hibbert@enron.com,"Fri, 1 Feb 2002 14:18:45 -0800 (PST)",vpn connectivity,email_dataset/richey-c/sent_items/14.
+6,<18788820.1075841474705.JavaMail.evans@thyme>,cooper.richey@enron.com,epurtzki@deloitte.ca,"Fri, 18 Jan 2002 08:15:11 -0800 (PST)",RE:,email_dataset/richey-c/sent_items/90.
+7,<26458421.1075841472420.JavaMail.evans@thyme>,tlumley@u.washington.edu,nawlnz@yahoo.com,"Fri, 18 Jan 2002 15:01:00 -0800 (PST)",Re: [R] Replacing data.frame values,email_dataset/richey-c/r/13.
+8,<10567617.1075841478896.JavaMail.evans@thyme>,cooper.richey@enron.com,greg.berry@enron.com,"Wed, 2 May 2001 01:03:00 -0700 (PDT)",,email_dataset/richey-c/_sent_mail/7.
+9,<5587389.1075841469627.JavaMail.evans@thyme>,jilld@cnrl.com,cooper.richey@enron.com,"Fri, 1 Feb 2002 14:46:17 -0800 (PST)",RE: Friday Festivities,email_dataset/richey-c/inbox/43.
+10,<27104989.1075841460318.JavaMail.evans@thyme>,no.address@enron.com,,"Tue, 30 Oct 2001 19:21:25 -0800 (PST)",Expatriate Open Enrollment for 2002,email_dataset/richey-c/administrivia/6.
+11,<2327474.1075841473958.JavaMail.evans@thyme>,cooper.richey@enron.com,jhawker@petersco.com,"Tue, 29 Jan 2002 09:34:08 -0800 (PST)",RE:,email_dataset/richey-c/sent_items/58.
+12,<1425170.1075841469709.JavaMail.evans@thyme>,jilld@cnrl.com,cooper.richey@enron.com,"Fri, 1 Feb 2002 12:39:05 -0800 (PST)",RE: test,email_dataset/richey-c/inbox/46.
+13,<20066881.1075841471456.JavaMail.evans@thyme>,corinna.johnston@intria.com,cooper.richey@enron.com,"Fri, 4 Jan 2002 11:12:01 -0800 (PST)",RE:,email_dataset/richey-c/personal/12.
+14,<10885246.1075841477941.JavaMail.evans@thyme>,cooper.richey@enron.com,jhawker@petersco.com,"Thu, 29 Nov 2001 08:24:11 -0800 (PST)",RE:,email_dataset/richey-c/sent_items/228.
+15,<3491651.1075841477201.JavaMail.evans@thyme>,cooper.richey@enron.com,jhawker@petersco.com,"Thu, 6 Dec 2001 07:27:23 -0800 (PST)",RE:,email_dataset/richey-c/sent_items/196.
+16,<27589556.1075841468306.JavaMail.evans@thyme>,liz.taylor@enron.com,"chris.lackey@enron.com, michael.mcdonald@enron.com, laura.wente@enron.com,","Wed, 6 Feb 2002 16:09:37 -0800 (PST)",Trader Presentations - 2/7 @ 2:30 p.m. (CST) in Conf RM 06980,email_dataset/richey-c/inbox/6.
+17,<3098847.1075841471408.JavaMail.evans@thyme>,cmclurg@cadvision.com,cooper.richey@enron.com,"Tue, 8 Jan 2002 10:56:16 -0800 (PST)",Look at this...,email_dataset/richey-c/personal/10.
+18,<30945600.1075841461120.JavaMail.evans@thyme>,laura.bacon@enron.com,cooper.richey@enron.com,"Tue, 29 May 2001 18:10:00 -0700 (PDT)",DJI User ID,email_dataset/richey-c/data/1.
+19,<29931160.1075841470440.JavaMail.evans@thyme>,price_waterhouse@americas-us.intl.pwcglobal.com,enron.houston.ias@us.pwcglobal.com,"Mon, 3 Dec 2001 15:52:24 -0800 (PST)",URGENT - Update Contact Details with PwC,email_dataset/richey-c/inbox/76.
+20,<22617507.1075841481099.JavaMail.evans@thyme>,cooper.richey@enron.com,laura.bacon@enron.com,"Tue, 29 May 2001 22:06:00 -0700 (PDT)",Re: DJI User ID,email_dataset/richey-c/_sent_mail/94.
+21,<19895725.1075841473607.JavaMail.evans@thyme>,cooper.richey@enron.com,daniel.diamond@enron.com,"Wed, 30 Jan 2002 13:53:04 -0800 (PST)",RE: **IMPORTANT** Stack Manager Users,email_dataset/richey-c/sent_items/43.
+22,<5351323.1075841471604.JavaMail.evans@thyme>,howardmj@2mawbft.usmc.mil,cooper.richey@enron.com,"Wed, 5 Dec 2001 13:21:52 -0800 (PST)",RE:,email_dataset/richey-c/personal/18.
+23,<29130133.1075841469551.JavaMail.evans@thyme>,greg.hibbert@enron.com,cooper.richey@enron.com,"Sun, 3 Feb 2002 14:54:49 -0800 (PST)",RE: servers,email_dataset/richey-c/inbox/40.
+24,<11597551.1075841478150.JavaMail.evans@thyme>,cooper.richey@enron.com,jhawker@petersco.com,"Tue, 27 Nov 2001 07:17:11 -0800 (PST)",RE:,email_dataset/richey-c/sent_items/237.
+25,<9028431.1075841479898.JavaMail.evans@thyme>,cooper.richey@enron.com,colin.tip@enron.com,"Fri, 11 May 2001 00:10:00 -0700 (PDT)",xnav security level,email_dataset/richey-c/_sent_mail/42.
+26,<29664626.1075841471191.JavaMail.evans@thyme>,jhawker@petersco.com,cooper.richey@enron.com,"Tue, 29 Jan 2002 12:52:14 -0800 (PST)",RE:,email_dataset/richey-c/personal/2.
+27,<22248244.1075841460894.JavaMail.evans@thyme>,cooper.richey@enron.com,,"Wed, 11 Jul 2001 13:13:30 -0700 (PDT)",Driftwood inn,email_dataset/richey-c/calendar/12.
+28,<25818797.1075841477596.JavaMail.evans@thyme>,cooper.richey@enron.com,jhawker@petersco.com,"Tue, 4 Dec 2001 13:50:03 -0800 (PST)",guitarist,email_dataset/richey-c/sent_items/213.
+29,<15620257.1075841476958.JavaMail.evans@thyme>,cooper.richey@enron.com,f.wong@enron.com,"Mon, 10 Dec 2001 13:36:08 -0800 (PST)",curves,email_dataset/richey-c/sent_items/186.
+30,<4530756.1075841473486.JavaMail.evans@thyme>,cooper.richey@enron.com,jilld@cnrl.com,"Wed, 30 Jan 2002 14:26:20 -0800 (PST)",RE: Friday Festivities!,email_dataset/richey-c/sent_items/38.
+31,<7038699.1075841479826.JavaMail.evans@thyme>,cooper.richey@enron.com,robert.anderson@enron.com,"Thu, 10 May 2001 15:33:00 -0700 (PDT)",Re: Servers & Administration,email_dataset/richey-c/_sent_mail/39.
+32,<23489525.1075841472789.JavaMail.evans@thyme>,cooper.richey@enron.com,jilld@cnrl.com,"Tue, 5 Feb 2002 13:09:20 -0800 (PST)",RE: Friday Festivities,email_dataset/richey-c/sent_items/9.
+33,<9545476.1075841459729.JavaMail.evans@thyme>,crcommunications@caiso.com,20participants@caiso.com,"Wed, 6 Feb 2002 17:03:56 -0800 (PST)",FW: CAISO NOTICE -   CERS January Settlement,email_dataset/richey-c/deleted_items/14.
+34,<9494962.1075841478827.JavaMail.evans@thyme>,cooper.richey@enron.com,tim.heizenrader@enron.com,"Tue, 1 May 2001 21:49:00 -0700 (PDT)",interesting article on lisp and software development,email_dataset/richey-c/_sent_mail/4.
+35,<24484885.1075841473534.JavaMail.evans@thyme>,cooper.richey@enron.com,jhawker@petersco.com,"Wed, 30 Jan 2002 14:21:56 -0800 (PST)",RE:,email_dataset/richey-c/sent_items/40.
+36,<29656132.1075841473197.JavaMail.evans@thyme>,cooper.richey@enron.com,jhawker@petersco.com,"Thu, 31 Jan 2002 13:49:50 -0800 (PST)",RE: Friday Festivities,email_dataset/richey-c/sent_items/26.
+37,<32559902.1075841460640.JavaMail.evans@thyme>,cooper.richey@enron.com,,"Tue, 6 Nov 2001 08:37:31 -0800 (PST)",Yoga,email_dataset/richey-c/calendar/2.
+38,<16480383.1075841474188.JavaMail.evans@thyme>,cooper.richey@enron.com,jilld@cnrl.com,"Fri, 25 Jan 2002 15:13:30 -0800 (PST)",RE: Friday Festivities!,email_dataset/richey-c/sent_items/68.
+39,<11921057.1075841459932.JavaMail.evans@thyme>,carla.o'neil@enron.com,"jason.biever@enron.com, chad.clark@enron.com, mike.cowan@enron.com,","Wed, 6 Feb 2002 15:39:16 -0800 (PST)",Expense Reports,email_dataset/richey-c/deleted_items/21.
+40,<30917859.1075841474516.JavaMail.evans@thyme>,cooper.richey@enron.com,jgkoomey@lbl.gov,"Mon, 21 Jan 2002 09:01:39 -0800 (PST)",contact,email_dataset/richey-c/sent_items/82.
+41,<5134625.1075841478217.JavaMail.evans@thyme>,cooper.richey@enron.com,jhawker@petersco.com,"Mon, 26 Nov 2001 08:56:47 -0800 (PST)",spark spread,email_dataset/richey-c/sent_items/240.
+42,<9093041.1075841480203.JavaMail.evans@thyme>,cooper.richey@enron.com,todd.bowen@enron.com,"Mon, 14 May 2001 23:03:00 -0700 (PDT)",3rd pc,email_dataset/richey-c/_sent_mail/55.
+43,<9945229.1075841460053.JavaMail.evans@thyme>,deepayansarkar@yahoo.com,r-help@lists.r-project.org,"Wed, 6 Feb 2002 09:22:44 -0800 (PST)",Re: [R] dev.off() prematurely stops xyplot(),email_dataset/richey-c/deleted_items/26.
+44,<11148087.1075841480408.JavaMail.evans@thyme>,cooper.richey@enron.com,pys@piedmontyoga.com,"Tue, 22 May 2001 13:23:00 -0700 (PDT)",Re: Rod Retreat to Maui Apr 2002,email_dataset/richey-c/_sent_mail/64.
+45,<5160622.1075841470417.JavaMail.evans@thyme>,b.jones@enron.com,"cooper.richey@enron.com, e-mail <.julianne@enron.com>","Wed, 5 Dec 2001 14:20:14 -0800 (PST)",RE: canadian tax status,email_dataset/richey-c/inbox/75.
+46,<14533509.1075841471505.JavaMail.evans@thyme>,ndottenb@ucalgary.ca,cooper.richey@enron.com,"Sun, 16 Dec 2001 13:13:57 -0800 (PST)",Re: countdown to Christmas,email_dataset/richey-c/personal/14.
+47,<14589674.1075841476662.JavaMail.evans@thyme>,cooper.richey@enron.com,f.wong@enron.com,"Wed, 12 Dec 2001 12:28:17 -0800 (PST)",next day,email_dataset/richey-c/sent_items/173.
+48,<18547852.1075841476384.JavaMail.evans@thyme>,cooper.richey@enron.com,trycooper@hotmail.com,"Tue, 18 Dec 2001 18:20:36 -0800 (PST)",FW: home email adress,email_dataset/richey-c/sent_items/161.
+49,<15059426.1075841479131.JavaMail.evans@thyme>,cooper.richey@enron.com,omar.haneef@tigris.com,"Fri, 4 May 2001 18:34:00 -0700 (PDT)",Re: Calls,email_dataset/richey-c/_sent_mail/17.
+50,<3903278.1075841480498.JavaMail.evans@thyme>,cooper.richey@enron.com,david.steiner@enron.com,"Tue, 22 May 2001 22:45:00 -0700 (PDT)",terminal server,email_dataset/richey-c/_sent_mail/68.
+51,<12531169.1075841474539.JavaMail.evans@thyme>,cooper.richey@enron.com,mark.dupuy@enron.com,"Mon, 21 Jan 2002 08:05:52 -0800 (PST)",RE: Mike Wong,email_dataset/richey-c/sent_items/83.
+52,<14470332.1075841475395.JavaMail.evans@thyme>,cooper.richey@enron.com,cmclurg@cadvision.com,"Wed, 9 Jan 2002 12:28:53 -0800 (PST)",RE: Look at this...,email_dataset/richey-c/sent_items/119.
+53,<28448709.1075841460737.JavaMail.evans@thyme>,cooper.richey@enron.com,,"Fri, 12 Oct 2001 07:47:19 -0700 (PDT)",Dinner craig,email_dataset/richey-c/calendar/6.
+54,<30937741.1075841480383.JavaMail.evans@thyme>,cooper.richey@enron.com,jaihawker@hotmail.com,"Thu, 17 May 2001 19:03:00 -0700 (PDT)",value of procrastination,email_dataset/richey-c/_sent_mail/63.
+55,<4967062.1075841470464.JavaMail.evans@thyme>,price_waterhouse@americas-us.intl.pwcglobal.com,enron.houston.ias@us.pwcglobal.com,"Mon, 3 Dec 2001 15:56:36 -0800 (PST)",URGENT - Update contact details with PWC,email_dataset/richey-c/inbox/77.
+56,<6612307.1075841469954.JavaMail.evans@thyme>,chris.behney@enron.com,"cooper.richey@enron.com, john.zufferli@enron.com, tim.belden@enron.com,","Tue, 29 Jan 2002 11:48:09 -0800 (PST)",Market Data Contracts,email_dataset/richey-c/inbox/56.
+57,<20886076.1075841467893.JavaMail.evans@thyme>,john.zufferli@enron.com,cooper.richey@enron.com,"Tue, 20 Nov 2001 08:24:43 -0800 (PST)",FW:,email_dataset/richey-c/fundamentals/2.
+58,<9118776.1075841470754.JavaMail.evans@thyme>,mark.hall@enron.com,cooper.richey@enron.com,"Fri, 2 Nov 2001 14:33:57 -0800 (PST)",RE: albertapower.enron.com added to trusted sites list,email_dataset/richey-c/infrastructure/7.
+59,<2748333.1075841459804.JavaMail.evans@thyme>,poec@yahoo.com,merlyn@stonehenge.com,"Wed, 6 Feb 2002 15:59:35 -0800 (PST)",Re: Next pdx.pm meeting,email_dataset/richey-c/deleted_items/16.
+60,<28178294.1075841473081.JavaMail.evans@thyme>,cooper.richey@enron.com,epurtzki@deloitte.ca,"Fri, 1 Feb 2002 09:22:03 -0800 (PST)",RE:,email_dataset/richey-c/sent_items/21.
+61,<9573433.1075841477963.JavaMail.evans@thyme>,cooper.richey@enron.com,alumni@swarthmore.edu,"Thu, 29 Nov 2001 07:48:54 -0800 (PST)",copy of degree,email_dataset/richey-c/sent_items/229.
+62,<27839882.1075841481122.JavaMail.evans@thyme>,cooper.richey@enron.com,colin.tip@enron.com,"Tue, 29 May 2001 23:28:00 -0700 (PDT)",Re: weather,email_dataset/richey-c/_sent_mail/95.
+63,<11165931.1075841479652.JavaMail.evans@thyme>,cooper.richey@enron.com,"tim.heizenrader@enron.com, maria.houten@enron.com","Wed, 9 May 2001 14:03:00 -0700 (PDT)",houston smtp server,email_dataset/richey-c/_sent_mail/32.
+64,<11991367.1075841472324.JavaMail.evans@thyme>,siim@obs.ee,hodgess@uhddx01.dt.uh.edu,"Thu, 24 Jan 2002 00:10:09 -0800 (PST)",[R] Re: your mail,email_dataset/richey-c/r/9.
+65,<30585975.1075841460687.JavaMail.evans@thyme>,mark.dupuy@enron.com,"mark.dupuy@enron.com, cooper.richey@enron.com","Thu, 18 Oct 2001 15:27:04 -0700 (PDT)",FW: let's go for drinks after work,email_dataset/richey-c/calendar/4.
+66,<9029158.1075841474332.JavaMail.evans@thyme>,cooper.richey@enron.com,jhawker@petersco.com,"Fri, 25 Jan 2002 12:02:07 -0800 (PST)",FW: Friday Festivities!,email_dataset/richey-c/sent_items/74.
+67,<10893997.1075841459593.JavaMail.evans@thyme>,support@llamacom.com,cooper.richey@enron.com,"Wed, 6 Feb 2002 22:01:12 -0800 (PST)",Your account is over quota!,email_dataset/richey-c/deleted_items/9.
+68,<12637925.1075841475790.JavaMail.evans@thyme>,cooper.richey@enron.com,jhawker@petersco.com,"Mon, 7 Jan 2002 13:04:44 -0800 (PST)",RE:,email_dataset/richey-c/sent_items/136.
+69,<9038816.1075841475372.JavaMail.evans@thyme>,cooper.richey@enron.com,berry.gk@lycos.com,"Wed, 9 Jan 2002 12:31:20 -0800 (PST)",happy new year,email_dataset/richey-c/sent_items/118.
+70,<17749675.1075841468639.JavaMail.evans@thyme>,chris.wiebe@enron.com,cooper.richey@enron.com,"Wed, 6 Feb 2002 08:48:32 -0800 (PST)",NACAL-PowerFS1,email_dataset/richey-c/inbox/19.
+71,<20479115.1075841473414.JavaMail.evans@thyme>,cooper.richey@enron.com,epurtzki@deloitte.ca,"Wed, 30 Jan 2002 14:39:29 -0800 (PST)",RE:,email_dataset/richey-c/sent_items/35.
+72,<9344413.1075841475257.JavaMail.evans@thyme>,cooper.richey@enron.com,berry.gk@lycos.com,"Fri, 11 Jan 2002 07:56:18 -0800 (PST)",RE: happy new year,email_dataset/richey-c/sent_items/113.
+73,<1264815.1075841468369.JavaMail.evans@thyme>,tazelis@etrade.ca,cooper.richey@enron.com,"Wed, 6 Feb 2002 12:09:13 -0800 (PST)",RE: Missing Information,email_dataset/richey-c/inbox/8.
+74,<10660280.1075841460469.JavaMail.evans@thyme>,no.address@enron.com,enron.services@enron.com,"Thu, 24 May 2001 01:00:00 -0700 (PDT)",Employee Referral Program,email_dataset/richey-c/administrivia/11.
+75,<32308062.1075841470179.JavaMail.evans@thyme>,danielle.marcinkowski@enron.com,"lloyd.will@enron.com, chris.gaskill@enron.com, tim.heizenrader@enron.com,","Fri, 18 Jan 2002 13:26:38 -0800 (PST)",FW: PIRA Energy Group and Enron,email_dataset/richey-c/inbox/65.
+76,<20560944.1075841472812.JavaMail.evans@thyme>,cooper.richey@enron.com,gberry@solutionsco.com,"Tue, 5 Feb 2002 07:55:17 -0800 (PST)",RE: Your new address,email_dataset/richey-c/sent_items/10.
+77,<28605041.1075841460664.JavaMail.evans@thyme>,cooper.richey@enron.com,,"Mon, 5 Nov 2001 10:49:46 -0800 (PST)",Analysis,email_dataset/richey-c/calendar/3.
+78,<26180554.1075841470900.JavaMail.evans@thyme>,cramer@cadvision.com,"john.zufferli@enron.com, demers.nicolas@enron.com, dukart.kelly@enron.com,","Mon, 28 Jan 2002 15:03:15 -0800 (PST)",Jan 28 marks.xls,email_dataset/richey-c/marks/3.
+79,<10075908.1075841473815.JavaMail.evans@thyme>,cooper.richey@enron.com,jhawker@petersco.com,"Tue, 29 Jan 2002 15:24:37 -0800 (PST)",rene's #,email_dataset/richey-c/sent_items/52.
+80,<8487798.1075841471481.JavaMail.evans@thyme>,mytractor@yahoo.com,"pepin.jennifer@enron.com, porter.ron@enron.com, cooper.richey@enron.com,","Mon, 17 Dec 2001 10:15:35 -0800 (PST)",apologies and attachments,email_dataset/richey-c/personal/13.
+81,<30244096.1075841470077.JavaMail.evans@thyme>,karen.buckley@enron.com,,"Wed, 23 Jan 2002 17:54:13 -0800 (PST)",Immigration,email_dataset/richey-c/inbox/61.
+82,<8391738.1075841473769.JavaMail.evans@thyme>,cooper.richey@enron.com,jhawker@petersco.com,"Wed, 30 Jan 2002 07:50:05 -0800 (PST)",address,email_dataset/richey-c/sent_items/50.
+83,<3611713.1075841460546.JavaMail.evans@thyme>,patricia.henry@enron.com,cooper.richey@enron.com,"Mon, 7 May 2001 19:25:00 -0700 (PDT)",Re: Cooper Richey EXPAT taxes,email_dataset/richey-c/administrivia/13.
+84,<16059948.1075841472492.JavaMail.evans@thyme>,ligges@statistik.uni-dortmund.de,synergy.synergy@synergy.com.au,"Wed, 16 Jan 2002 00:44:28 -0800 (PST)",Re: [R] Subsetting data frames without a loop,email_dataset/richey-c/r/16.
+85,<23200387.1075841469086.JavaMail.evans@thyme>,william.l.greenizan@dynegy.com,cooper.richey@enron.com,"Mon, 4 Feb 2002 11:03:57 -0800 (PST)",How are the new digs?,email_dataset/richey-c/inbox/35.
+86,<7979570.1075841469440.JavaMail.evans@thyme>,m..smith@enron.com,"a..allen@enron.com, susan.amador@enron.com, sherry.anastas@enron.com,","Mon, 4 Feb 2002 08:59:53 -0800 (PST)","Updates... PLEASE READ - Netco testing schedule for Monday, Feb 4th",email_dataset/richey-c/inbox/39.
+87,<6083691.1075841476315.JavaMail.evans@thyme>,cooper.richey@enron.com,williams.ltd@attcanada.net,"Fri, 4 Jan 2002 07:09:37 -0800 (PST)",RE: Invoices,email_dataset/richey-c/sent_items/158.
+88,<30293230.1075841470559.JavaMail.evans@thyme>,julie@ecologyproject.org,julie@ecologyproject.org,"Thu, 11 Oct 2001 19:38:55 -0700 (PDT)",new info,email_dataset/richey-c/inbox/81.
+89,<29717908.1075841461059.JavaMail.evans@thyme>,cooper.richey@enron.com,,"Tue, 5 Jun 2001 15:07:24 -0700 (PDT)",Mom & dad visit,email_dataset/richey-c/calendar/19.
+90,<21957441.1075841471913.JavaMail.evans@thyme>,corinna.johnston@intria.com,cooper.richey@enron.com,"Thu, 23 Aug 2001 09:14:04 -0700 (PDT)",One more try to mail you....,email_dataset/richey-c/personal/31.
+91,<29076141.1075841481235.JavaMail.evans@thyme>,cooper.richey@enron.com,billgreenizan@epagenet.net,"Wed, 30 May 2001 21:57:00 -0700 (PDT)",Re: I've arrived,email_dataset/richey-c/_sent_mail/100.
+92,<13810043.1075841471628.JavaMail.evans@thyme>,patricia.henry@enron.com,dawn.doucet@enron.com,"Mon, 3 Dec 2001 15:00:39 -0800 (PST)",RE: Performance Bonus,email_dataset/richey-c/personal/19.
+93,<1170567.1075841477482.JavaMail.evans@thyme>,cooper.richey@enron.com,dawn.doucet@enron.com,"Wed, 5 Dec 2001 11:46:16 -0800 (PST)",status,email_dataset/richey-c/sent_items/208.
+94,<19104732.1075841477918.JavaMail.evans@thyme>,cooper.richey@enron.com,colin.poon@enron.com,"Thu, 29 Nov 2001 08:31:13 -0800 (PST)",rec,email_dataset/richey-c/sent_items/227.
+95,<357930.1075841475420.JavaMail.evans@thyme>,cooper.richey@enron.com,eklemperer@erisk.com,"Wed, 9 Jan 2002 12:25:06 -0800 (PST)",RE: jobs,email_dataset/richey-c/sent_items/120.
+96,<1675358.1075841469602.JavaMail.evans@thyme>,announcements.enron@enron.com,dl-ga-canada_calgary@enron.com,"Fri, 1 Feb 2002 15:21:35 -0800 (PST)",UBS/ECC Shuffle,email_dataset/richey-c/inbox/42.
+97,<746795.1075841470511.JavaMail.evans@thyme>,tim.heizenrader@enron.com,cooper.richey@enron.com,"Fri, 19 Oct 2001 09:21:43 -0700 (PDT)",Star Tree Example in Excel,email_dataset/richey-c/inbox/79.
+98,<22045954.1075841476844.JavaMail.evans@thyme>,cooper.richey@enron.com,megincl@yahoo.com,"Tue, 11 Dec 2001 12:10:15 -0800 (PST)",RE: are you there and okay?,email_dataset/richey-c/sent_items/181.
+99,<10159023.1075841479502.JavaMail.evans@thyme>,cooper.richey@enron.com,clayton.rondeau@enron.com,"Tue, 8 May 2001 00:00:00 -0700 (PDT)",ipass,email_dataset/richey-c/_sent_mail/26.
+100,<7808300.1075841471556.JavaMail.evans@thyme>,howardmj@2mawbft.usmc.mil,cooper.richey@enron.com,"Wed, 5 Dec 2001 14:48:16 -0800 (PST)",RE:,email_dataset/richey-c/personal/16.
+101,<10250351.1075841478011.JavaMail.evans@thyme>,cooper.richey@enron.com,chris.wiebe@enron.com,"Wed, 28 Nov 2001 09:27:22 -0800 (PST)",RE:,email_dataset/richey-c/sent_items/231.
+102,<29782454.1075841460872.JavaMail.evans@thyme>,cooper.richey@enron.com,,"Wed, 11 Jul 2001 13:13:30 -0700 (PDT)",Ocean shores,email_dataset/richey-c/calendar/11.
+103,<20369059.1075841481167.JavaMail.evans@thyme>,cooper.richey@enron.com,greg.berry@enron.com,"Wed, 30 May 2001 19:32:00 -0700 (PDT)",at-a-glance,email_dataset/richey-c/_sent_mail/97.
+104,<20459450.1075841461036.JavaMail.evans@thyme>,cooper.richey@enron.com,,"Tue, 5 Jun 2001 15:07:26 -0700 (PDT)",Goto cookinq store,email_dataset/richey-c/calendar/18.
+105,<31859160.1075841470632.JavaMail.evans@thyme>,mark.kinkead@enron.com,cooper.richey@enron.com,"Wed, 7 Nov 2001 07:44:48 -0800 (PST)",RE: EOL realtime data access,email_dataset/richey-c/infrastructure/2.
+106,<14414885.1075841469295.JavaMail.evans@thyme>,l..denton@enron.com,"m..smith@enron.com, a..allen@enron.com, susan.amador@enron.com,","Mon, 4 Feb 2002 09:35:22 -0800 (PST)","RE: Updates... PLEASE READ - Netco testing schedule for Monday, Feb",email_dataset/richey-c/inbox/38.
+107,<7698908.1075841479922.JavaMail.evans@thyme>,cooper.richey@enron.com,colin.tip@enron.com,"Fri, 11 May 2001 17:14:00 -0700 (PDT)",Get up to $100 CASH BACK on MS Press Books!,email_dataset/richey-c/_sent_mail/43.
+108,<10735298.1075841471794.JavaMail.evans@thyme>,tim.belden@enron.com,"cooper.richey@enron.com, e-mail <.andrew@enron.com>,","Thu, 1 Nov 2001 09:47:55 -0800 (PST)",FW: Devil Bunny,email_dataset/richey-c/personal/26.
+109,<19515923.1075841459691.JavaMail.evans@thyme>,ian_shaughnessy@nai.com,pdx-pm-list@pm.org,"Wed, 6 Feb 2002 18:05:05 -0800 (PST)",RE: Next pdx.pm meeting,email_dataset/richey-c/deleted_items/13.
+110,<32331088.1075841476476.JavaMail.evans@thyme>,cooper.richey@enron.com,jhawker@petersco.com,"Fri, 14 Dec 2001 13:18:36 -0800 (PST)",FW: countdown to Christmas,email_dataset/richey-c/sent_items/165.
+111,<14240984.1075841473297.JavaMail.evans@thyme>,cooper.richey@enron.com,jhawker@petersco.com,"Thu, 31 Jan 2002 08:10:35 -0800 (PST)",RE:,email_dataset/richey-c/sent_items/30.
+112,<20883135.1075841477176.JavaMail.evans@thyme>,cooper.richey@enron.com,jhawker@petersco.com,"Thu, 6 Dec 2001 07:34:00 -0800 (PST)",RE:,email_dataset/richey-c/sent_items/195.
+113,<31546041.1075841470487.JavaMail.evans@thyme>,robert.jones@mailman.enron.com,cooper.richey@enron.com,"Mon, 3 Dec 2001 09:33:10 -0800 (PST)",Home Contact Information,email_dataset/richey-c/inbox/78.
+114,<301232.1075841473173.JavaMail.evans@thyme>,cooper.richey@enron.com,greg.hibbert@enron.com,"Thu, 31 Jan 2002 14:42:22 -0800 (PST)",RE: I:\Fundamentals,email_dataset/richey-c/sent_items/25.
+115,<33464456.1075841459852.JavaMail.evans@thyme>,merlyn@stonehenge.com,cp@onsitetech.com,"Wed, 6 Feb 2002 15:40:52 -0800 (PST)",Re: Next pdx.pm meeting,email_dataset/richey-c/deleted_items/18.
+116,<15898082.1075841478195.JavaMail.evans@thyme>,cooper.richey@enron.com,f.wong@enron.com,"Mon, 26 Nov 2001 13:21:30 -0800 (PST)",RE: tomorrow's mark,email_dataset/richey-c/sent_items/239.
+117,<9206741.1075841478034.JavaMail.evans@thyme>,cooper.richey@enron.com,chris.wiebe@enron.com,"Wed, 28 Nov 2001 09:08:56 -0800 (PST)",,email_dataset/richey-c/sent_items/232.
+118,<405283.1075841471286.JavaMail.evans@thyme>,mgiattina@aol.com,cooper.richey@enron.com,"Sun, 13 Jan 2002 10:40:25 -0800 (PST)",portland...,email_dataset/richey-c/personal/6.
+119,<19490572.1075841478290.JavaMail.evans@thyme>,cooper.richey@enron.com,jhawker@petersco.com,"Mon, 26 Nov 2001 08:29:47 -0800 (PST)",RE:,email_dataset/richey-c/sent_items/243.
+120,<22895043.1075841477103.JavaMail.evans@thyme>,cooper.richey@enron.com,jhawker@petersco.com,"Thu, 6 Dec 2001 07:36:37 -0800 (PST)",RE:,email_dataset/richey-c/sent_items/192.
+121,<33205733.1075841474799.JavaMail.evans@thyme>,cooper.richey@enron.com,carlos.torres@enron.com,"Thu, 17 Jan 2002 10:40:23 -0800 (PST)",,email_dataset/richey-c/sent_items/94.
+122,<21977449.1075841471529.JavaMail.evans@thyme>,karim.punja@enron.com,cooper.richey@enron.com,"Thu, 13 Dec 2001 13:35:09 -0800 (PST)",Contact Info,email_dataset/richey-c/personal/15.
+123,<2344784.1075841478172.JavaMail.evans@thyme>,cooper.richey@enron.com,jhawker@petersco.com,"Mon, 26 Nov 2001 13:58:50 -0800 (PST)",RE:,email_dataset/richey-c/sent_items/238.
+124,<13445612.1075841480611.JavaMail.evans@thyme>,cooper.richey@enron.com,pys@piedmontyoga.com,"Wed, 23 May 2001 23:30:00 -0700 (PDT)",Re: Rod Retreat to Maui Apr 2002,email_dataset/richey-c/_sent_mail/73.
+125,<56919.1075841471309.JavaMail.evans@thyme>,automatednotification@tdwaterhouse.ca,cooper.richey@enron.com,"Fri, 11 Jan 2002 13:10:14 -0800 (PST)","Your TD Waterhouse Application for Margin, Short Selling and",email_dataset/richey-c/personal/7.
+126,<2727476.1075841471580.JavaMail.evans@thyme>,mleung@callisma.com,cooper.richey@enron.com,"Wed, 5 Dec 2001 13:49:27 -0800 (PST)",RE:,email_dataset/richey-c/personal/17.
+127,<29848331.1075841475137.JavaMail.evans@thyme>,cooper.richey@enron.com,richey_holly@prc.com,"Mon, 14 Jan 2002 07:53:13 -0800 (PST)",RE: Shirt Size,email_dataset/richey-c/sent_items/108.
+128,<8133652.1075841476499.JavaMail.evans@thyme>,cooper.richey@enron.com,ben.sturgeon@gfinet.co.uk,"Fri, 14 Dec 2001 07:49:30 -0800 (PST)",RE: Username and Password for GFInet,email_dataset/richey-c/sent_items/166.
+129,<18416528.1075841472276.JavaMail.evans@thyme>,deleeuw@stat.ucla.edu,r-announce@stat.math.ethz.ch,"Sun, 27 Jan 2002 09:54:14 -0800 (PST)",Journal of Statistical Software,email_dataset/richey-c/r/7.
+130,<29641921.1075841470729.JavaMail.evans@thyme>,mark.hall@enron.com,cooper.richey@enron.com,"Sat, 3 Nov 2001 10:11:13 -0800 (PST)",RE: albertapower.enron.com added to trusted sites list,email_dataset/richey-c/infrastructure/6.
+131,<20218322.1075841460523.JavaMail.evans@thyme>,enron.announcement@enron.com,"everyone_in_ect_calgary@enron.com, everyone_in_ect_montreal@enron.com,","Wed, 23 May 2001 22:24:00 -0700 (PDT)",Enron Direct Phone List,email_dataset/richey-c/administrivia/12.
+132,<28110660.1075841479705.JavaMail.evans@thyme>,cooper.richey@enron.com,dmcbr@sprintmail.com,"Wed, 9 May 2001 15:03:00 -0700 (PDT)",Re: Cameron's christening---,email_dataset/richey-c/_sent_mail/34.
+133,<1539299.1075841476522.JavaMail.evans@thyme>,cooper.richey@enron.com,chris.wiebe@enron.com,"Thu, 13 Dec 2001 13:34:30 -0800 (PST)",backup db files,email_dataset/richey-c/sent_items/167.
+134,<2771502.1075841459389.JavaMail.evans@thyme>,hb@maths.lth.se,robert.lundqvist@ies.luth.se,"Thu, 7 Feb 2002 04:30:15 -0800 (PST)",Re: [R] R graphs in LaTeX documents?,email_dataset/richey-c/deleted_items/1.
+135,<24990941.1075841477802.JavaMail.evans@thyme>,cooper.richey@enron.com,richey_holly@prc.com,"Mon, 3 Dec 2001 07:10:00 -0800 (PST)",RE: Fax,email_dataset/richey-c/sent_items/222.
+136,<6422909.1075841473701.JavaMail.evans@thyme>,cooper.richey@enron.com,jhawker@petersco.com,"Wed, 30 Jan 2002 08:17:39 -0800 (PST)",FW: Fw: sorry....I can't risk any odds,email_dataset/richey-c/sent_items/47.
+137,<10615423.1075841477618.JavaMail.evans@thyme>,cooper.richey@enron.com,f.wong@enron.com,"Tue, 4 Dec 2001 12:02:09 -0800 (PST)",RE: tomorrow's mark,email_dataset/richey-c/sent_items/214.
+138,<14732815.1075841459474.JavaMail.evans@thyme>,alobo@ija.csic.es,krcabrer@epm.net.co,"Thu, 7 Feb 2002 00:41:01 -0800 (PST)",Re: [R] Problems with search,email_dataset/richey-c/deleted_items/4.
+139,<21297297.1075841476361.JavaMail.evans@thyme>,cooper.richey@enron.com,trycooper@hotmail.com,"Tue, 18 Dec 2001 18:20:44 -0800 (PST)",FW: countdown to Christmas,email_dataset/richey-c/sent_items/160.
+140,<15852249.1075841474974.JavaMail.evans@thyme>,cooper.richey@enron.com,epurtzki@deloitte.ca,"Tue, 15 Jan 2002 13:08:54 -0800 (PST)",RE:,email_dataset/richey-c/sent_items/101.
+141,<7463145.1075841469928.JavaMail.evans@thyme>,danielle.marcinkowski@enron.com,"rika.imai@enron.com, chris.gaskill@enron.com, j..sturm@enron.com,","Tue, 29 Jan 2002 12:14:06 -0800 (PST)",FW: PIRA and Enron,email_dataset/richey-c/inbox/55.
+142,<28222808.1075841472036.JavaMail.evans@thyme>,pys@piedmontyoga.com,cooper.richey@enron.com,"Wed, 20 Jun 2001 12:24:15 -0700 (PDT)",Re: Rod Retreat to Maui Apr 2002,email_dataset/richey-c/personal/36.
+143,<10504651.1075841477272.JavaMail.evans@thyme>,cooper.richey@enron.com,jhawker@petersco.com,"Thu, 6 Dec 2001 06:50:56 -0800 (PST)",RE:,email_dataset/richey-c/sent_items/199.
+144,<19955935.1075841480883.JavaMail.evans@thyme>,cooper.richey@enron.com,colin.tip@enron.com,"Mon, 28 May 2001 21:17:00 -0700 (PDT)",cube,email_dataset/richey-c/_sent_mail/85.
+145,<19969469.1075841471046.JavaMail.evans@thyme>,cramer@cadvision.com,"john.zufferli@enron.com, demers.nicolas@enron.com, dukart.kelly@enron.com,","Wed, 16 Jan 2002 06:17:13 -0800 (PST)",Jan 15 marks.xls,email_dataset/richey-c/marks/8.
+146,<2149421.1075841477317.JavaMail.evans@thyme>,cooper.richey@enron.com,jhawker@petersco.com,"Thu, 6 Dec 2001 06:43:37 -0800 (PST)",RE:,email_dataset/richey-c/sent_items/201.
+147,<2485088.1075841477849.JavaMail.evans@thyme>,cooper.richey@enron.com,f.wong@enron.com,"Thu, 29 Nov 2001 13:27:26 -0800 (PST)",RE: tomorrow's mark,email_dataset/richey-c/sent_items/224.
+148,<26560317.1075841468688.JavaMail.evans@thyme>,jhawker@petersco.com,cooper.richey@enron.com,"Wed, 6 Feb 2002 06:58:33 -0800 (PST)",,email_dataset/richey-c/inbox/21.
+149,<19105771.1075841476590.JavaMail.evans@thyme>,cooper.richey@enron.com,aaron.slater@enron.com,"Thu, 13 Dec 2001 07:17:20 -0800 (PST)",projector,email_dataset/richey-c/sent_items/170.
+150,<7708021.1075841472517.JavaMail.evans@thyme>,ripley@stats.ox.ac.uk,p.connolly@hortresearch.co.nz,"Tue, 15 Jan 2002 23:27:20 -0800 (PST)",Re: [R] Postsript/Lattice interaction,email_dataset/richey-c/r/17.
+151,<28527699.1075841469733.JavaMail.evans@thyme>,ripley@stats.ox.ac.uk,jg_liao@yahoo.com,"Fri, 1 Feb 2002 09:41:52 -0800 (PST)",Re: [R] ROC curves using R,email_dataset/richey-c/inbox/47.
+152,<6118236.1075841472249.JavaMail.evans@thyme>,ripley@stats.ox.ac.uk,r-announce@r-project.org,"Wed, 30 Jan 2002 08:34:50 -0800 (PST)",Windows binaries of R 1.4.1,email_dataset/richey-c/r/6.
+153,<6137129.1075841471262.JavaMail.evans@thyme>,john.zufferli@enron.com,cooper.richey@enron.com,"Thu, 24 Jan 2002 08:12:25 -0800 (PST)",FW: 1996 Porsche 993 C4S,email_dataset/richey-c/personal/5.
+154,<24746363.1075841474929.JavaMail.evans@thyme>,cooper.richey@enron.com,r-announce-request@lists.r-project.org,"Tue, 15 Jan 2002 13:32:37 -0800 (PST)",,email_dataset/richey-c/sent_items/99.
+155,<18209289.1075841460262.JavaMail.evans@thyme>,no.address@enron.com,,"Thu, 29 Nov 2001 17:27:25 -0800 (PST)",PLEASE READ - IMPORTANT INFORMATION FOR PARTICIPANTS IN THE ENRON,email_dataset/richey-c/administrivia/5.
+156,<5284978.1075841475721.JavaMail.evans@thyme>,cooper.richey@enron.com,epurtzki@deloitte.ca,"Tue, 8 Jan 2002 14:19:47 -0800 (PST)",RE:,email_dataset/richey-c/sent_items/133.
+157,<28211691.1075841460849.JavaMail.evans@thyme>,cooper.richey@enron.com,,"Wed, 11 Jul 2001 13:13:30 -0700 (PDT)",Pack,email_dataset/richey-c/calendar/10.
+158,<12303409.1075841472105.JavaMail.evans@thyme>,pys@piedmontyoga.com,cooper.richey@enron.com,"Fri, 18 May 2001 03:40:00 -0700 (PDT)",Re: Rod Retreat to Maui Apr 2002,email_dataset/richey-c/personal/39.
+159,<20251257.1075841480838.JavaMail.evans@thyme>,cooper.richey@enron.com,clayton.rondeau@enron.com,"Mon, 28 May 2001 17:53:00 -0700 (PDT)",vpn connectivity,email_dataset/richey-c/_sent_mail/83.
+160,<9565601.1075841468062.JavaMail.evans@thyme>,colin.tonks@enron.com,cooper.richey@enron.com,"Tue, 19 Jun 2001 14:17:24 -0700 (PDT)",RE: Commodity Fundamentals,email_dataset/richey-c/houstonfundamentals/2.
+161,<30742200.1075841468157.JavaMail.evans@thyme>,jhawker@petersco.com,"prokop.brian@enron.com, white.robert@enron.com, cooper.richey@enron.com,","Thu, 7 Feb 2002 06:19:35 -0800 (PST)",Go here and read the caption.  Sweet!,email_dataset/richey-c/inbox/1.
+162,<9500365.1075841475442.JavaMail.evans@thyme>,cooper.richey@enron.com,jhawker@petersco.com,"Wed, 9 Jan 2002 12:01:22 -0800 (PST)",nerve,email_dataset/richey-c/sent_items/121.
+163,<5274081.1075841472177.JavaMail.evans@thyme>,jniesch@gwdg.de,stuart.leask@nottingham.ac.uk,"Mon, 4 Feb 2002 02:40:56 -0800 (PST)",Re: [R] How do you delete variables from a data frame?,email_dataset/richey-c/r/3.
+164,<27950055.1075841475491.JavaMail.evans@thyme>,cooper.richey@enron.com,epurtzki@deloitte.ca,"Wed, 9 Jan 2002 09:27:27 -0800 (PST)",RE:,email_dataset/richey-c/sent_items/123.
+165,<14439941.1075841476133.JavaMail.evans@thyme>,cooper.richey@enron.com,jhawker@petersco.com,"Fri, 4 Jan 2002 11:37:29 -0800 (PST)",you're famous,email_dataset/richey-c/sent_items/150.
+166,<16195693.1075841469903.JavaMail.evans@thyme>,gberry@solutionsco.com,cooper.richey@enron.com,"Wed, 30 Jan 2002 17:24:59 -0800 (PST)",Re: Your new address,email_dataset/richey-c/inbox/54.
+167,<7281360.1075841474052.JavaMail.evans@thyme>,cooper.richey@enron.com,smcdonald@epcor.ca,"Tue, 29 Jan 2002 07:52:24 -0800 (PST)",FW: job opportunity,email_dataset/richey-c/sent_items/62.
+168,<26414104.1075841469109.JavaMail.evans@thyme>,greg.hibbert@enron.com,"clayton.rondeau@enron.com, richard.mckeel@enron.com, cooper.richey@enron.com","Mon, 4 Feb 2002 11:00:01 -0800 (PST)",FW: Apps,email_dataset/richey-c/inbox/36.
+169,<17750937.1075841479524.JavaMail.evans@thyme>,cooper.richey@enron.com,colin.tip@enron.com,"Tue, 8 May 2001 19:24:00 -0700 (PDT)",sql,email_dataset/richey-c/_sent_mail/27.
+170,<8093281.1075841476247.JavaMail.evans@thyme>,cooper.richey@enron.com,cheryl.dawes@enron.com,"Fri, 4 Jan 2002 08:53:03 -0800 (PST)",RE: cognicase payments,email_dataset/richey-c/sent_items/155.
+171,<28054334.1075841473935.JavaMail.evans@thyme>,cooper.richey@enron.com,jhawker@petersco.com,"Tue, 29 Jan 2002 10:40:19 -0800 (PST)",RE:,email_dataset/richey-c/sent_items/57.
+172,<24570688.1075841470391.JavaMail.evans@thyme>,announcements.enron@enron.com,,"Thu, 13 Dec 2001 13:19:51 -0800 (PST)",Important Communication-Relocation Services,email_dataset/richey-c/inbox/74.
+173,<4502388.1075841477642.JavaMail.evans@thyme>,cooper.richey@enron.com,jhawker@petersco.com,"Tue, 4 Dec 2001 09:36:50 -0800 (PST)",RE:,email_dataset/richey-c/sent_items/215.
+174,<22306711.1075841473862.JavaMail.evans@thyme>,cooper.richey@enron.com,jhawker@petersco.com,"Tue, 29 Jan 2002 13:09:31 -0800 (PST)",RE:,email_dataset/richey-c/sent_items/54.
+175,<6251537.1075841460444.JavaMail.evans@thyme>,enron.announcement@enron.com,everyone_in_ect_calgary@enron.com,"Wed, 30 May 2001 13:02:00 -0700 (PDT)",Microsoft Outlook is on it's way!!,email_dataset/richey-c/administrivia/10.
+176,<29414307.1075841470250.JavaMail.evans@thyme>,tim.heizenrader@enron.com,cooper.richey@enron.com,"Thu, 10 Jan 2002 07:27:39 -0800 (PST)",Another Game Server,email_dataset/richey-c/inbox/68.
+177,<21483693.1075841468133.JavaMail.evans@thyme>,williams.ltd@attcanada.net,cooper.richey@enron.com,"Tue, 5 Jun 2001 08:53:49 -0700 (PDT)",Fw: Snow Pillow Data,email_dataset/richey-c/hydro/2.
+178,<13559277.1075841475304.JavaMail.evans@thyme>,cooper.richey@enron.com,jhawker@petersco.com,"Thu, 10 Jan 2002 10:31:17 -0800 (PST)",RE: Hi there...,email_dataset/richey-c/sent_items/115.
+179,<33445373.1075841476179.JavaMail.evans@thyme>,cooper.richey@enron.com,jhawker@petersco.com,"Fri, 4 Jan 2002 11:11:06 -0800 (PST)",RE: yoga w/ eze,email_dataset/richey-c/sent_items/152.
+180,<12171808.1075841476889.JavaMail.evans@thyme>,cooper.richey@enron.com,michael.savidant@enron.com,"Tue, 11 Dec 2001 10:10:16 -0800 (PST)",revised market share analysis,email_dataset/richey-c/sent_items/183.
+181,<25010090.1075841477688.JavaMail.evans@thyme>,cooper.richey@enron.com,jhawker@petersco.com,"Tue, 4 Dec 2001 08:56:03 -0800 (PST)",RE:,email_dataset/richey-c/sent_items/217.
+182,<345231.1075841480361.JavaMail.evans@thyme>,cooper.richey@enron.com,richey_holly@prc.com,"Thu, 17 May 2001 17:47:00 -0700 (PDT)",RE: Weather This Weekend,email_dataset/richey-c/_sent_mail/62.
+183,<27876452.1075841460618.JavaMail.evans@thyme>,chris.wiebe@enron.com,"chris.wiebe@enron.com, richard.mckeel@enron.com, greg.hibbert@enron.com,","Wed, 6 Feb 2002 09:42:43 -0800 (PST)",IIS Meeting,email_dataset/richey-c/calendar/1.
+184,<9262123.1075841478804.JavaMail.evans@thyme>,cooper.richey@enron.com,"jeff.richter@enron.com, tim.heizenrader@enron.com, tim.belden@enron.com","Tue, 1 May 2001 18:02:00 -0700 (PDT)",NY Times article,email_dataset/richey-c/_sent_mail/3.
+185,<4721772.1075841460989.JavaMail.evans@thyme>,cooper.richey@enron.com,,"Tue, 5 Jun 2001 15:07:28 -0700 (PDT)",Portland Flight,email_dataset/richey-c/calendar/16.
+186,<5217292.1075841479085.JavaMail.evans@thyme>,cooper.richey@enron.com,grant.oh@enron.com,"Thu, 3 May 2001 20:06:00 -0700 (PDT)",game saturday,email_dataset/richey-c/_sent_mail/15.
+187,<30991082.1075841469574.JavaMail.evans@thyme>,greg.hibbert@enron.com,cooper.richey@enron.com,"Sun, 3 Feb 2002 14:49:39 -0800 (PST)",RE: vpn connectivity,email_dataset/richey-c/inbox/41.
+188,<7432552.1075841470799.JavaMail.evans@thyme>,chris.wiebe@enron.com,cooper.richey@enron.com,"Thu, 18 Oct 2001 13:12:13 -0700 (PDT)",RE: development stored procs to prod,email_dataset/richey-c/infrastructure/9.
+189,<31344382.1075841477550.JavaMail.evans@thyme>,cooper.richey@enron.com,jhawker@petersco.com,"Tue, 4 Dec 2001 14:13:22 -0800 (PST)",RE: guitarist,email_dataset/richey-c/sent_items/211.
+190,<19933091.1075841474355.JavaMail.evans@thyme>,cooper.richey@enron.com,dawn.doucet@enron.com,"Thu, 24 Jan 2002 07:43:02 -0800 (PST)",FW: Immigration,email_dataset/richey-c/sent_items/75.
+191,<13167628.1075841475869.JavaMail.evans@thyme>,cooper.richey@enron.com,jhawker@petersco.com,"Fri, 4 Jan 2002 13:43:00 -0800 (PST)",RE: yoga w/ eze,email_dataset/richey-c/sent_items/139.
+192,<17355711.1075841475068.JavaMail.evans@thyme>,cooper.richey@enron.com,ghaggerty@epcor.ca,"Mon, 14 Jan 2002 13:39:13 -0800 (PST)",names,email_dataset/richey-c/sent_items/105.
+193,<3145893.1075841481028.JavaMail.evans@thyme>,cooper.richey@enron.com,laura.bacon@enron.com,"Tue, 29 May 2001 20:36:00 -0700 (PDT)",Re: DJI User ID,email_dataset/richey-c/_sent_mail/91.
+194,<24860502.1075841470848.JavaMail.evans@thyme>,cramer@cadvision.com,"john.zufferli@enron.com, demers.nicolas@enron.com, dukart.kelly@enron.com,","Wed, 6 Feb 2002 06:53:19 -0800 (PST)",Feb 5 marks.xls,email_dataset/richey-c/marks/1.
+195,<19488891.1075841477779.JavaMail.evans@thyme>,cooper.richey@enron.com,jhawker@petersco.com,"Mon, 3 Dec 2001 07:38:50 -0800 (PST)",RE: What happened...,email_dataset/richey-c/sent_items/221.
+196,<29701026.1075841470226.JavaMail.evans@thyme>,dmcbr@sprintmail.com,,"Fri, 11 Jan 2002 07:47:22 -0800 (PST)",We're here--,email_dataset/richey-c/inbox/67.
+197,<25614545.1075841473150.JavaMail.evans@thyme>,cooper.richey@enron.com,greg.hibbert@enron.com,"Thu, 31 Jan 2002 15:25:16 -0800 (PST)",RE: I:\Fundamentals,email_dataset/richey-c/sent_items/24.
+198,<33187884.1075841480588.JavaMail.evans@thyme>,cooper.richey@enron.com,kathy.axford@enron.com,"Wed, 23 May 2001 21:56:00 -0700 (PDT)",fleece,email_dataset/richey-c/_sent_mail/72.
+199,<1023892.1075841475968.JavaMail.evans@thyme>,cooper.richey@enron.com,corinna.johnston@intria.com,"Fri, 4 Jan 2002 12:51:31 -0800 (PST)",RE:,email_dataset/richey-c/sent_items/143.
+200,<8025423.1075841474377.JavaMail.evans@thyme>,cooper.richey@enron.com,jhawker@petersco.com,"Thu, 24 Jan 2002 07:24:08 -0800 (PST)",RE:,email_dataset/richey-c/sent_items/76.
+201,<20658990.1075841475465.JavaMail.evans@thyme>,cooper.richey@enron.com,trycooper@hotmail.com,"Wed, 9 Jan 2002 11:49:13 -0800 (PST)",FW: contact info,email_dataset/richey-c/sent_items/122.
+202,<10973194.1075841470680.JavaMail.evans@thyme>,mark.hall@enron.com,"faheem.qavi@enron.com, dan.dietrich@enron.com","Mon, 5 Nov 2001 09:22:45 -0800 (PST)",RE: enron internet explorer trusted sites list,email_dataset/richey-c/infrastructure/4.
+203,<32840862.1075841459665.JavaMail.evans@thyme>,andrew_perrin@unc.edu,r-help@r-project.org,"Wed, 6 Feb 2002 18:18:21 -0800 (PST)",[R] Help with replicating an old SPSS GLM analysis,email_dataset/richey-c/deleted_items/12.
+204,<29300535.1075841478775.JavaMail.evans@thyme>,cooper.richey@enron.com,"bill.greenizan@enron.com, john.zufferli@enron.com","Tue, 1 May 2001 15:36:00 -0700 (PDT)",RE: enpower apps,email_dataset/richey-c/_sent_mail/2.
+205,<20365786.1075841460761.JavaMail.evans@thyme>,cooper.richey@enron.com,,"Tue, 25 Sep 2001 08:29:12 -0700 (PDT)",Brakeswitch,email_dataset/richey-c/calendar/7.
+206,<7502030.1075841481076.JavaMail.evans@thyme>,cooper.richey@enron.com,jerushaklemperer@yahoo.com,"Tue, 29 May 2001 21:25:00 -0700 (PDT)",Re: you're in the air (urine the air????),email_dataset/richey-c/_sent_mail/93.
+207,<22597998.1075841478942.JavaMail.evans@thyme>,cooper.richey@enron.com,colin.tip@enron.com,"Thu, 3 May 2001 15:39:00 -0700 (PDT)",,email_dataset/richey-c/_sent_mail/9.
+208,<10066314.1075841471384.JavaMail.evans@thyme>,selectuser@smartmoney.com,cooper.richey@enron.com,"Thu, 10 Jan 2002 11:44:31 -0800 (PST)",Purchase confirmation,email_dataset/richey-c/personal/9.
+209,<30728975.1075841475536.JavaMail.evans@thyme>,cooper.richey@enron.com,jhawker@petersco.com,"Wed, 9 Jan 2002 08:53:25 -0800 (PST)",RE:,email_dataset/richey-c/sent_items/125.
+210,<30239274.1075841472469.JavaMail.evans@thyme>,ligges@statistik.uni-dortmund.de,schratz@ifgb.uni-hannover.de,"Wed, 16 Jan 2002 00:37:27 -0800 (PST)",Re: [R] memory problems,email_dataset/richey-c/r/15.
+211,<8988119.1075841468345.JavaMail.evans@thyme>,stephanie.sever@enron.com,cooper.richey@enron.com,"Wed, 6 Feb 2002 14:02:09 -0800 (PST)",Access to UBSWenergy Production Environment,email_dataset/richey-c/inbox/7.
+212,<15012438.1075841460164.JavaMail.evans@thyme>,williams.ltd@attcanada.net,cooper.richey@enron.com,"Sun, 3 Feb 2002 11:24:16 -0800 (PST)",Fw: Invoice # ENR -002  Dated Nov 29 2001,email_dataset/richey-c/administrivia/1.
+213,<6047985.1075841475745.JavaMail.evans@thyme>,cooper.richey@enron.com,epurtzki@deloitte.ca,"Tue, 8 Jan 2002 13:53:21 -0800 (PST)",RE:,email_dataset/richey-c/sent_items/134.
+214,<15219387.1075841474630.JavaMail.evans@thyme>,cooper.richey@enron.com,jhawker@petersco.com,"Fri, 18 Jan 2002 11:59:48 -0800 (PST)",RE:,email_dataset/richey-c/sent_items/87.
+215,<5774224.1075841469756.JavaMail.evans@thyme>,announcements.enron@enron.com,dl-ga-canada_calgary@enron.com,"Fri, 1 Feb 2002 12:13:56 -0800 (PST)",Super Bowl Pool,email_dataset/richey-c/inbox/48.
+216,<1379330.1075841475114.JavaMail.evans@thyme>,cooper.richey@enron.com,mgiattina@aol.com,"Mon, 14 Jan 2002 12:46:12 -0800 (PST)",RE: portland...,email_dataset/richey-c/sent_items/107.
+217,<12898778.1075841480747.JavaMail.evans@thyme>,cooper.richey@enron.com,maria.houten@enron.com,"Fri, 25 May 2001 15:51:00 -0700 (PDT)",review,email_dataset/richey-c/_sent_mail/79.
+218,<5693183.1075841480134.JavaMail.evans@thyme>,cooper.richey@enron.com,colin.tip@enron.com,"Mon, 14 May 2001 22:21:00 -0700 (PDT)",sp,email_dataset/richey-c/_sent_mail/52.
+219,<10534009.1075841475021.JavaMail.evans@thyme>,cooper.richey@enron.com,jhawker@petersco.com,"Tue, 15 Jan 2002 09:17:00 -0800 (PST)",RE:,email_dataset/richey-c/sent_items/103.
+220,<20281184.1075841480861.JavaMail.evans@thyme>,cooper.richey@enron.com,greg.berry@enron.com,"Mon, 28 May 2001 20:03:00 -0700 (PDT)",Re: Reworked BCHyrdo Transmission Poller,email_dataset/richey-c/_sent_mail/84.
+221,<9296394.1075841479108.JavaMail.evans@thyme>,cooper.richey@enron.com,jaihawker@hotmail.com,"Thu, 3 May 2001 21:36:00 -0700 (PDT)",game saturday,email_dataset/richey-c/_sent_mail/16.
+222,<16853787.1075841475894.JavaMail.evans@thyme>,cooper.richey@enron.com,mytractor@yahoo.com,"Fri, 4 Jan 2002 13:35:34 -0800 (PST)",RE: apologies and attachments,email_dataset/richey-c/sent_items/140.
+223,<10834243.1075841477504.JavaMail.evans@thyme>,cooper.richey@enron.com,mleung@callisma.com,"Wed, 5 Dec 2001 10:11:04 -0800 (PST)",,email_dataset/richey-c/sent_items/209.
+224,<33187353.1075841474006.JavaMail.evans@thyme>,cooper.richey@enron.com,jhawker@petersco.com,"Tue, 29 Jan 2002 08:38:22 -0800 (PST)",RE:,email_dataset/richey-c/sent_items/60.
+225,<32825054.1075841471675.JavaMail.evans@thyme>,larnold@simpsonsearch.com,cooper.richey@enron.com,"Thu, 29 Nov 2001 09:04:52 -0800 (PST)",Follow-up,email_dataset/richey-c/personal/21.
+226,<28855274.1075841473747.JavaMail.evans@thyme>,cooper.richey@enron.com,jhawker@petersco.com,"Wed, 30 Jan 2002 07:50:36 -0800 (PST)",RE:,email_dataset/richey-c/sent_items/49.
+227,<16901376.1075841477006.JavaMail.evans@thyme>,cooper.richey@enron.com,jhawker@petersco.com,"Fri, 7 Dec 2001 09:40:26 -0800 (PST)",RE:,email_dataset/richey-c/sent_items/188.
+228,<30129841.1075841473838.JavaMail.evans@thyme>,cooper.richey@enron.com,epurtzki@deloitte.ca,"Tue, 29 Jan 2002 14:38:23 -0800 (PST)",RE:,email_dataset/richey-c/sent_items/53.
+229,<4041732.1075841474607.JavaMail.evans@thyme>,cooper.richey@enron.com,cmclurg@cadvision.com,"Fri, 18 Jan 2002 15:05:25 -0800 (PST)",hope this is the right email,email_dataset/richey-c/sent_items/86.
+230,<24239629.1075841470973.JavaMail.evans@thyme>,clinton.kripki@gfinet.com,cooper.richey@enron.com,"Thu, 17 Jan 2002 12:53:24 -0800 (PST)",Trades for 17/01/02,email_dataset/richey-c/marks/6.
+231,<8444547.1075841480293.JavaMail.evans@thyme>,cooper.richey@enron.com,pys@peidmontyouga.com,"Thu, 17 May 2001 17:05:00 -0700 (PDT)",Rod Retreat to Maui Apr 2002,email_dataset/richey-c/_sent_mail/59.
+232,<31998815.1075841476753.JavaMail.evans@thyme>,cooper.richey@enron.com,jhawker@petersco.com,"Wed, 12 Dec 2001 09:03:17 -0800 (PST)",dream girl,email_dataset/richey-c/sent_items/177.
+233,<9462906.1075841479728.JavaMail.evans@thyme>,cooper.richey@enron.com,colin.tip@enron.com,"Wed, 9 May 2001 15:45:00 -0700 (PDT)",,email_dataset/richey-c/_sent_mail/35.
+234,<19136905.1075841459451.JavaMail.evans@thyme>,w.simpson@gcal.ac.uk,robert.lundqvist@ies.luth.se,"Thu, 7 Feb 2002 01:47:30 -0800 (PST)",Re: [R] R graphs in LaTeX documents?,email_dataset/richey-c/deleted_items/3.
+235,<19933468.1075841474867.JavaMail.evans@thyme>,cooper.richey@enron.com,tim.heizenrader@enron.com,"Thu, 17 Jan 2002 08:16:01 -0800 (PST)",R,email_dataset/richey-c/sent_items/97.
+236,<8823489.1075841468467.JavaMail.evans@thyme>,john.zufferli@enron.com,"mike.cowan@enron.com, chris.lambie@enron.com, cooper.richey@enron.com,","Wed, 6 Feb 2002 10:29:21 -0800 (PST)",FW: Trader Meeting - 2/7 @ 7:45 a.m. (CST) - ECS 06752,email_dataset/richey-c/inbox/12.
+237,<306343.1075841468812.JavaMail.evans@thyme>,announcements.enron@enron.com,"dl-ga-canada_calgary@enron.com, dl-ga-canada_ees_toronto@enron.com","Tue, 5 Feb 2002 15:09:03 -0800 (PST)",Please Log Out Tonight,email_dataset/richey-c/inbox/26.
+238,<27348762.1075841476821.JavaMail.evans@thyme>,cooper.richey@enron.com,michael.savidant@enron.com,"Tue, 11 Dec 2001 15:33:43 -0800 (PST)",part 3 -- new data thru roughly 8/28,email_dataset/richey-c/sent_items/180.
+239,<14125786.1075841477414.JavaMail.evans@thyme>,cooper.richey@enron.com,f.wong@enron.com,"Wed, 5 Dec 2001 13:11:57 -0800 (PST)",RE: tomorrow's mark...,email_dataset/richey-c/sent_items/205.
+240,<8222090.1075841477711.JavaMail.evans@thyme>,cooper.richey@enron.com,colinpt@cadvision.com,"Tue, 4 Dec 2001 07:07:13 -0800 (PST)",RE: mang...,email_dataset/richey-c/sent_items/218.
+241,<20673619.1075841474097.JavaMail.evans@thyme>,cooper.richey@enron.com,gberry@solutionsco.com,"Tue, 29 Jan 2002 07:31:12 -0800 (PST)",RE: Your new address,email_dataset/richey-c/sent_items/64.
+242,<20820738.1075841478339.JavaMail.evans@thyme>,cooper.richey@enron.com,p..messenger@enron.com,"Mon, 26 Nov 2001 08:00:03 -0800 (PST)",RE: New gen,email_dataset/richey-c/sent_items/245.
+243,<4806699.1075841474074.JavaMail.evans@thyme>,cooper.richey@enron.com,smacdonald@epcor.ca,"Tue, 29 Jan 2002 07:50:57 -0800 (PST)",job opportunity,email_dataset/richey-c/sent_items/63.
+244,<17790258.1075841468393.JavaMail.evans@thyme>,tazelis@etrade.ca,cooper.richey@enron.com,"Wed, 6 Feb 2002 11:46:14 -0800 (PST)",Missing Information,email_dataset/richey-c/inbox/9.
+245,<29381543.1075841478568.JavaMail.evans@thyme>,cooper.richey@enron.com,jhawker@petersco.com,"Thu, 22 Nov 2001 09:04:49 -0800 (PST)",sat night,email_dataset/richey-c/sent_items/255.
+246,<30206048.1075841473911.JavaMail.evans@thyme>,cooper.richey@enron.com,jhawker@petersco.com,"Tue, 29 Jan 2002 10:40:28 -0800 (PST)",RE:,email_dataset/richey-c/sent_items/56.
+247,<505010.1075841476730.JavaMail.evans@thyme>,cooper.richey@enron.com,richey_holly@prc.com,"Wed, 12 Dec 2001 09:07:21 -0800 (PST)",RE: Pictures of Cameron--,email_dataset/richey-c/sent_items/176.
+248,<14357985.1075841474906.JavaMail.evans@thyme>,cooper.richey@enron.com,richey_holly@prc.com,"Thu, 17 Jan 2002 06:34:59 -0800 (PST)",RE: Shirt Package,email_dataset/richey-c/sent_items/98.
+249,<18895082.1075841477249.JavaMail.evans@thyme>,cooper.richey@enron.com,jhawker@petersco.com,"Thu, 6 Dec 2001 07:23:19 -0800 (PST)",RE:,email_dataset/richey-c/sent_items/198.
+250,<20756234.1075841477341.JavaMail.evans@thyme>,cooper.richey@enron.com,howardmj@2mawbft.usmc.mil,"Wed, 5 Dec 2001 13:30:58 -0800 (PST)",RE:,email_dataset/richey-c/sent_items/202.
+251,<2702040.1075841479153.JavaMail.evans@thyme>,cooper.richey@enron.com,colin.tip@enron.com,"Fri, 4 May 2001 19:13:00 -0700 (PDT)",header height in xnav,email_dataset/richey-c/_sent_mail/18.
+252,<528714.1075841478987.JavaMail.evans@thyme>,cooper.richey@enron.com,jaihawker@yahoo.com,"Thu, 3 May 2001 18:15:00 -0700 (PDT)",Employee News!,email_dataset/richey-c/_sent_mail/11.
+253,<27724146.1075841477077.JavaMail.evans@thyme>,cooper.richey@enron.com,jhawker@petersco.com,"Thu, 6 Dec 2001 07:36:57 -0800 (PST)",RE:,email_dataset/richey-c/sent_items/191.
+254,<1948572.1075841478964.JavaMail.evans@thyme>,cooper.richey@enron.com,colin.tip@enron.com,"Thu, 3 May 2001 16:40:00 -0700 (PDT)",,email_dataset/richey-c/_sent_mail/10.
+255,<1271425.1075841472012.JavaMail.evans@thyme>,jgreenberg@wrhambrecht.com,cooper.richey@enron.com,"Thu, 21 Jun 2001 13:51:00 -0700 (PDT)",are you there?,email_dataset/richey-c/personal/35.
+256,<26419296.1075841476685.JavaMail.evans@thyme>,cooper.richey@enron.com,chris.wiebe@enron.com,"Wed, 12 Dec 2001 12:23:56 -0800 (PST)",greg and colin access,email_dataset/richey-c/sent_items/174.
+257,<12091687.1075841467941.JavaMail.evans@thyme>,cooper.richey@enron.com,support@insightful.com,"Thu, 27 Sep 2001 15:37:06 -0700 (PDT)",RE: Request from Web for Support {[CASE#70552]},email_dataset/richey-c/fundamentals/4.
+258,<22168575.1075841476017.JavaMail.evans@thyme>,cooper.richey@enron.com,jhawker@petersco.com,"Fri, 4 Jan 2002 12:28:47 -0800 (PST)",RE: yoga w/ eze,email_dataset/richey-c/sent_items/145.
+259,<5382364.1075841474120.JavaMail.evans@thyme>,cooper.richey@enron.com,jilld@cnrl.com,"Mon, 28 Jan 2002 10:37:04 -0800 (PST)",RE: Friday Festivities!,email_dataset/richey-c/sent_items/65.
+260,<18157281.1075841477367.JavaMail.evans@thyme>,cooper.richey@enron.com,clinton.kripki@gfinet.com,"Wed, 5 Dec 2001 13:24:00 -0800 (PST)",RE: GFI AB Power Fax,email_dataset/richey-c/sent_items/203.
+261,<28743214.1075841474584.JavaMail.evans@thyme>,cooper.richey@enron.com,mark.dupuy@enron.com,"Mon, 21 Jan 2002 07:58:37 -0800 (PST)",RE: Mike Wong,email_dataset/richey-c/sent_items/85.
+262,<5852805.1075841471432.JavaMail.evans@thyme>,trycooper@hotmail.com,cooper.richey@enron.com,"Mon, 7 Jan 2002 15:45:54 -0800 (PST)",Fwd: jobs,email_dataset/richey-c/personal/11.
+263,<21623222.1075841471215.JavaMail.evans@thyme>,gberry@solutionsco.com,cooper.richey@enron.com,"Tue, 29 Jan 2002 08:34:49 -0800 (PST)",Re: Your new address,email_dataset/richey-c/personal/3.
+264,<6812796.1075841474654.JavaMail.evans@thyme>,cooper.richey@enron.com,jhawker@petersco.com,"Fri, 18 Jan 2002 08:48:34 -0800 (PST)",RE:,email_dataset/richey-c/sent_items/88.
+265,<28945274.1075841471747.JavaMail.evans@thyme>,psrichey@terraworld.net,"sselby007@aol.com, ron@statonco.com, psrichey1@prodigy.net, richey@erols.com,","Mon, 12 Nov 2001 18:27:20 -0800 (PST)",Fw: Richey Cousin Reunion 2002,email_dataset/richey-c/personal/24.
+266,<13485864.1075841468205.JavaMail.evans@thyme>,epurtzki@deloitte.ca,cooper.richey@enron.com,"Wed, 6 Feb 2002 18:23:29 -0800 (PST)",RE:,email_dataset/richey-c/inbox/3.
+267,<22272100.1075841471699.JavaMail.evans@thyme>,megincl@yahoo.com,,"Wed, 28 Nov 2001 11:05:10 -0800 (PST)",are you there and okay?,email_dataset/richey-c/personal/22.
+268,<18458807.1075841472395.JavaMail.evans@thyme>,pfaffman@relaxpc.com,aarons@aberrant.org,"Tue, 22 Jan 2002 22:57:28 -0800 (PST)",Re: [R] exporting plots,email_dataset/richey-c/r/12.
+269,<458724.1075841477573.JavaMail.evans@thyme>,cooper.richey@enron.com,clinton.kripki@gfinet.com,"Tue, 4 Dec 2001 14:11:35 -0800 (PST)",RE: AB Power Fax for 29/11/01,email_dataset/richey-c/sent_items/212.
+270,<71325.1075841468763.JavaMail.evans@thyme>,bob.shults@enron.com,"traders.dl-netco@enron.com, traders.dl-netco@enron.com","Tue, 5 Feb 2002 16:41:12 -0800 (PST)",Online Trading Simulation Feb 7th,email_dataset/richey-c/inbox/24.
+271,<21927841.1075841480724.JavaMail.evans@thyme>,cooper.richey@enron.com,craig.mclurg@enron.com,"Fri, 25 May 2001 13:53:00 -0700 (PDT)",mo vino,email_dataset/richey-c/_sent_mail/78.
+272,<2600602.1075841461013.JavaMail.evans@thyme>,cooper.richey@enron.com,,"Tue, 5 Jun 2001 15:07:27 -0700 (PDT)",Hardware store,email_dataset/richey-c/calendar/17.
+273,<19633166.1075841480338.JavaMail.evans@thyme>,cooper.richey@enron.com,pys@piedmontyoga.com,"Thu, 17 May 2001 17:10:00 -0700 (PDT)",Rod Retreat to Maui Apr 2002,email_dataset/richey-c/_sent_mail/61.
+274,<21935207.1075841477826.JavaMail.evans@thyme>,cooper.richey@enron.com,jhawker@petersco.com,"Fri, 30 Nov 2001 07:57:26 -0800 (PST)",RE: Happy Thursday,email_dataset/richey-c/sent_items/223.
+275,<2040183.1075841470535.JavaMail.evans@thyme>,administration.enron@enron.com,owa.notification@enron.com,"Tue, 16 Oct 2001 14:41:10 -0700 (PDT)",Outlook Web Access for Calgary,email_dataset/richey-c/inbox/80.
+276,<11638450.1075841479996.JavaMail.evans@thyme>,cooper.richey@enron.com,colin.tip@enron.com,"Mon, 14 May 2001 17:48:00 -0700 (PDT)",email alert,email_dataset/richey-c/_sent_mail/46.
+277,<12545448.1075841476202.JavaMail.evans@thyme>,cooper.richey@enron.com,cheryl.dawes@enron.com,"Fri, 4 Jan 2002 10:13:13 -0800 (PST)",another invoice,email_dataset/richey-c/sent_items/153.
+278,<4532387.1075841474028.JavaMail.evans@thyme>,cooper.richey@enron.com,ghagerty@epcor.ca,"Tue, 29 Jan 2002 07:54:35 -0800 (PST)",FW: job opportunity,email_dataset/richey-c/sent_items/61.
+279,<19035011.1075841479434.JavaMail.evans@thyme>,cooper.richey@enron.com,todd.bowen@enron.com,"Mon, 7 May 2001 19:25:00 -0700 (PDT)",voicemail enabled on cellphone,email_dataset/richey-c/_sent_mail/23.
+280,<22144889.1075841475164.JavaMail.evans@thyme>,cooper.richey@enron.com,jhawker@petersco.com,"Mon, 14 Jan 2002 07:52:45 -0800 (PST)",FW: portland...,email_dataset/richey-c/sent_items/109.
+281,<5908601.1075841473561.JavaMail.evans@thyme>,cooper.richey@enron.com,jhawker@petersco.com,"Wed, 30 Jan 2002 14:20:22 -0800 (PST)",RE:,email_dataset/richey-c/sent_items/41.
+282,<8250622.1075841476338.JavaMail.evans@thyme>,cooper.richey@enron.com,trycooper@hotmail.com,"Tue, 18 Dec 2001 18:21:56 -0800 (PST)",FW: Contact Info,email_dataset/richey-c/sent_items/159.
+283,<4467348.1075841473320.JavaMail.evans@thyme>,cooper.richey@enron.com,jhawker@petersco.com,"Thu, 31 Jan 2002 08:07:50 -0800 (PST)",RE:,email_dataset/richey-c/sent_items/31.
+284,<25846899.1075841475841.JavaMail.evans@thyme>,cooper.richey@enron.com,corinna.johnston@intria.com,"Fri, 4 Jan 2002 14:03:47 -0800 (PST)",RE:,email_dataset/richey-c/sent_items/138.
+285,<248518.1075841470297.JavaMail.evans@thyme>,tim.heizenrader@enron.com,cooper.richey@enron.com,"Mon, 7 Jan 2002 13:54:06 -0800 (PST)",Freeciv,email_dataset/richey-c/inbox/70.
+286,<6066770.1075841475815.JavaMail.evans@thyme>,cooper.richey@enron.com,corinna.johnston@intria.com,"Fri, 4 Jan 2002 14:04:29 -0800 (PST)",RE:,email_dataset/richey-c/sent_items/137.
+287,<27205442.1075841476776.JavaMail.evans@thyme>,cooper.richey@enron.com,michael.savidant@enron.com,"Wed, 12 Dec 2001 07:58:55 -0800 (PST)",RE: me again,email_dataset/richey-c/sent_items/178.
+288,<19567355.1075841474448.JavaMail.evans@thyme>,cooper.richey@enron.com,r-help@stat.math.ethz.ch,"Tue, 22 Jan 2002 10:40:15 -0800 (PST)",[R] problems using lattice on windows (not the blank first page,email_dataset/richey-c/sent_items/79.
+289,<18595946.1075841460370.JavaMail.evans@thyme>,nancy.taylor@cognicase.com,cooper.richey@enron.com,"Tue, 18 Sep 2001 15:18:59 -0700 (PDT)",RE: greg's contract details,email_dataset/richey-c/administrivia/7.
+290,<23672366.1075841473367.JavaMail.evans@thyme>,cooper.richey@enron.com,gberry@solutionsco.com,"Wed, 30 Jan 2002 14:43:22 -0800 (PST)",RE: Your new address,email_dataset/richey-c/sent_items/33.
+291,<4543520.1075841480934.JavaMail.evans@thyme>,cooper.richey@enron.com,richey_holly@prc.com,"Mon, 28 May 2001 22:22:00 -0700 (PDT)",RE: Calgary Plans,email_dataset/richey-c/_sent_mail/87.
+292,<16790118.1075841470154.JavaMail.evans@thyme>,grace.tang@lfr.com,"bbirdsall@aspeneg.com, chris_b_busch@yahoo.com, crichey@enron.com,","Mon, 21 Jan 2002 12:08:42 -0800 (PST)",roll call for skiing,email_dataset/richey-c/inbox/64.
+293,<5096929.1075841480565.JavaMail.evans@thyme>,cooper.richey@enron.com,jeff.richter@enron.com,"Wed, 23 May 2001 21:30:00 -0700 (PDT)",database tables,email_dataset/richey-c/_sent_mail/71.
+294,<30825977.1075841470030.JavaMail.evans@thyme>,nikcary@yahoo.com,cooper.richey@enron.com,"Sat, 26 Jan 2002 23:14:45 -0800 (PST)",hello,email_dataset/richey-c/inbox/59.
+295,<19376322.1075841467918.JavaMail.evans@thyme>,john.zufferli@enron.com,cooper.richey@enron.com,"Mon, 19 Nov 2001 06:54:54 -0800 (PST)",FW:,email_dataset/richey-c/fundamentals/3.
+296,<6461460.1075841476936.JavaMail.evans@thyme>,cooper.richey@enron.com,michael.savidant@enron.com,"Tue, 11 Dec 2001 08:45:48 -0800 (PST)",RE: Participant Codes,email_dataset/richey-c/sent_items/185.
+297,<23365740.1075841481399.JavaMail.evans@thyme>,clinton.kripki@gfinet.com,cooper.richey@enron.com,"Tue, 4 Dec 2001 14:54:11 -0800 (PST)",GFI AB Power Fax,email_dataset/richey-c/trading_quotes/1.
+298,<33278227.1075841478682.JavaMail.evans@thyme>,cooper.richey@enron.com,kateellsworth@earthlink.net,"Wed, 21 Nov 2001 10:28:55 -0800 (PST)",RE: hello hello,email_dataset/richey-c/sent_items/260.
+299,<22262140.1075841472858.JavaMail.evans@thyme>,cooper.richey@enron.com,berry.gk@lycos.com,"Mon, 4 Feb 2002 14:47:28 -0800 (PST)","RE: can you send me your address again,",email_dataset/richey-c/sent_items/12.
+300,<32389580.1075841476041.JavaMail.evans@thyme>,cooper.richey@enron.com,jhawker@petersco.com,"Fri, 4 Jan 2002 12:24:04 -0800 (PST)",RE: yoga w/ eze,email_dataset/richey-c/sent_items/146.
+301,<7197832.1075841477986.JavaMail.evans@thyme>,cooper.richey@enron.com,richey_holly@prc.com,"Wed, 28 Nov 2001 10:06:39 -0800 (PST)",RE: Pictures of Cameron--,email_dataset/richey-c/sent_items/230.
+302,<13419636.1075841473510.JavaMail.evans@thyme>,cooper.richey@enron.com,jhawker@petersco.com,"Wed, 30 Jan 2002 14:22:47 -0800 (PST)",RE:,email_dataset/richey-c/sent_items/39.
+303,<31335082.1075841459904.JavaMail.evans@thyme>,tex@off.org,merlyn@stonehenge.com,"Wed, 6 Feb 2002 15:33:10 -0800 (PST)",Re: Next pdx.pm meeting,email_dataset/richey-c/deleted_items/20.
+304,<11329653.1075841470704.JavaMail.evans@thyme>,mark.kinkead@enron.com,cooper.richey@enron.com,"Mon, 5 Nov 2001 06:39:23 -0800 (PST)",RE: EOL Price Data,email_dataset/richey-c/infrastructure/5.
+305,<5230434.1075841473724.JavaMail.evans@thyme>,cooper.richey@enron.com,jhawker@petersco.com,"Wed, 30 Jan 2002 07:52:40 -0800 (PST)",RE: address,email_dataset/richey-c/sent_items/48.
+306,<23354342.1075841472445.JavaMail.evans@thyme>,ernesto@ipimar.pt,,"Wed, 16 Jan 2002 04:22:29 -0800 (PST)",Re: [R] R for large data sets,email_dataset/richey-c/r/14.
+307,<21807414.1075841477295.JavaMail.evans@thyme>,cooper.richey@enron.com,jhawker@petersco.com,"Thu, 6 Dec 2001 06:43:44 -0800 (PST)",RE:,email_dataset/richey-c/sent_items/200.
+308,<10188332.1075841479801.JavaMail.evans@thyme>,cooper.richey@enron.com,todd.bowen@enron.com,"Thu, 10 May 2001 13:25:00 -0700 (PDT)",Re: FW: Price Quote for Pizza Boxes for Power...,email_dataset/richey-c/_sent_mail/38.
+309,<13482165.1075841479456.JavaMail.evans@thyme>,cooper.richey@enron.com,patricia.henry@enron.com,"Mon, 7 May 2001 19:26:00 -0700 (PDT)",Re: Cooper Richey EXPAT taxes,email_dataset/richey-c/_sent_mail/24.
+310,<17758008.1075841479035.JavaMail.evans@thyme>,cooper.richey@enron.com,jaihawker@hotmail.com,"Thu, 3 May 2001 18:18:00 -0700 (PDT)",Employee News!,email_dataset/richey-c/_sent_mail/13.
+311,<11144059.1075841474494.JavaMail.evans@thyme>,cooper.richey@enron.com,jhawker@petersco.com,"Tue, 22 Jan 2002 10:19:02 -0800 (PST)",RE:,email_dataset/richey-c/sent_items/81.
+312,<18191774.1075841477459.JavaMail.evans@thyme>,cooper.richey@enron.com,b.jones@enron.com,"Wed, 5 Dec 2001 12:34:29 -0800 (PST)",canadian tax status,email_dataset/richey-c/sent_items/207.
+313,<16923525.1075841470583.JavaMail.evans@thyme>,williams.ltd@attcanada.net,cooper.richey@enron.com,"Thu, 23 Aug 2001 13:43:27 -0700 (PDT)",Hydro Model,email_dataset/richey-c/inbox/82.
+314,<31514419.1075841480430.JavaMail.evans@thyme>,cooper.richey@enron.com,nikcary@yahoo.com,"Tue, 22 May 2001 14:13:00 -0700 (PDT)",Re:,email_dataset/richey-c/_sent_mail/65.
+315,<9678766.1075841471865.JavaMail.evans@thyme>,nikcary@yahoo.com,cooper.richey@enron.com,"Mon, 24 Sep 2001 09:20:00 -0700 (PDT)",off,email_dataset/richey-c/personal/29.
+316,<18100437.1075841468038.JavaMail.evans@thyme>,colin.tonks@enron.com,"richard.mckeel@enron.com, cooper.richey@enron.com, adam.plager@enron.com,","Wed, 20 Jun 2001 07:26:20 -0700 (PDT)",Real Time EOL,email_dataset/richey-c/houstonfundamentals/1.
+317,<3700286.1075841459956.JavaMail.evans@thyme>,announcements.enron@enron.com,dl-ga-canada_calgary@enron.com,"Wed, 6 Feb 2002 15:11:57 -0800 (PST)",Repairs or Keyboard Trays - Wall 2 Wall - Rescheduled,email_dataset/richey-c/deleted_items/22.
+318,<5234507.1075841473886.JavaMail.evans@thyme>,cooper.richey@enron.com,jhawker@petersco.com,"Tue, 29 Jan 2002 11:30:26 -0800 (PST)",RE:,email_dataset/richey-c/sent_items/55.
+319,<22853699.1075841480911.JavaMail.evans@thyme>,cooper.richey@enron.com,craig.mclurg@enron.com,"Mon, 28 May 2001 21:20:00 -0700 (PDT)",Re: Lunch Wednesday,email_dataset/richey-c/_sent_mail/86.
+320,<24622844.1075841475233.JavaMail.evans@thyme>,cooper.richey@enron.com,epurtzki@deloitte.ca,"Fri, 11 Jan 2002 14:38:25 -0800 (PST)",RE:,email_dataset/richey-c/sent_items/112.
+321,<27531238.1075841474213.JavaMail.evans@thyme>,cooper.richey@enron.com,jhawker@petersco.com,"Fri, 25 Jan 2002 13:06:10 -0800 (PST)",RE: squash,email_dataset/richey-c/sent_items/69.
+322,<15719819.1075841473251.JavaMail.evans@thyme>,cooper.richey@enron.com,jhawker@petersco.com,"Thu, 31 Jan 2002 09:35:11 -0800 (PST)",RE:,email_dataset/richey-c/sent_items/28.
+323,<9784187.1075841468086.JavaMail.evans@thyme>,colin.tonks@enron.com,"timothy.heizenrader@enron.com, richard.mckeel@enron.com,","Mon, 18 Jun 2001 13:01:38 -0700 (PDT)",Commodity Fundamentals,email_dataset/richey-c/houstonfundamentals/3.
+324,<24366760.1075841468788.JavaMail.evans@thyme>,johkollar@excite.com,"jenfaught@hotmail.com, tang@excite.com, grace.tang@lfr.com,","Tue, 5 Feb 2002 14:19:31 -0800 (PST)",RE: roll call for skiing,email_dataset/richey-c/inbox/25.
+325,<23787541.1075841470202.JavaMail.evans@thyme>,danielle.marcinkowski@enron.com,cooper.richey@enron.com,"Thu, 17 Jan 2002 14:31:13 -0800 (PST)",Market Data real time data / subscriptions and Publications,email_dataset/richey-c/inbox/66.
+326,<21889923.1075841478706.JavaMail.evans@thyme>,cooper.richey@enron.com,japhet@u.washington.edu,"Wed, 21 Nov 2001 10:27:38 -0800 (PST)",RE: Be a Tour Guide in the Yucatan,email_dataset/richey-c/sent_items/261.
+327,<24732742.1075841459570.JavaMail.evans@thyme>,p.dalgaard@biostat.ku.dk,krcabrer@epm.net.co,"Wed, 6 Feb 2002 22:26:12 -0800 (PST)",Re: [R] Problems with search,email_dataset/richey-c/deleted_items/8.
+328,<32034656.1075841473127.JavaMail.evans@thyme>,cooper.richey@enron.com,jhawker@petersco.com,"Fri, 1 Feb 2002 07:20:03 -0800 (PST)",RE: POKER NIGHT??,email_dataset/richey-c/sent_items/23.
+329,<16095686.1075841460394.JavaMail.evans@thyme>,kathy.reeves@enron.com,cooper.richey@enron.com,"Tue, 14 Aug 2001 08:57:35 -0700 (PDT)",RE: gas book,email_dataset/richey-c/administrivia/8.
+330,<13349952.1075841477053.JavaMail.evans@thyme>,cooper.richey@enron.com,tim.heizenrader@enron.com,"Thu, 6 Dec 2001 07:51:56 -0800 (PST)",R,email_dataset/richey-c/sent_items/190.
+331,<1888960.1075841472153.JavaMail.evans@thyme>,steinep@uni-muenster.de,ripley@stats.ox.ac.uk,"Mon, 4 Feb 2002 03:35:08 -0800 (PST)",Re: [R] Passing parameters with Rcmd BATCH,email_dataset/richey-c/r/2.
+332,<2768220.1075841479411.JavaMail.evans@thyme>,cooper.richey@enron.com,patricia.henry@enron.com,"Mon, 7 May 2001 19:23:00 -0700 (PDT)",Re: Cooper Richey EXPAT taxes,email_dataset/richey-c/_sent_mail/22.
+333,<913852.1075841475581.JavaMail.evans@thyme>,cooper.richey@enron.com,jhawker@petersco.com,"Wed, 9 Jan 2002 07:18:13 -0800 (PST)",RE:,email_dataset/richey-c/sent_items/127.
+334,<10556421.1075841478267.JavaMail.evans@thyme>,cooper.richey@enron.com,jhawker@petersco.com,"Mon, 26 Nov 2001 08:52:36 -0800 (PST)",RE:,email_dataset/richey-c/sent_items/242.
+335,<10667662.1075841473793.JavaMail.evans@thyme>,cooper.richey@enron.com,jhawker@petersco.com,"Tue, 29 Jan 2002 15:42:41 -0800 (PST)",RE: rene's #,email_dataset/richey-c/sent_items/51.
+336,<24665576.1075841472565.JavaMail.evans@thyme>,majordomo@stat.math.ethz.ch,cooper.richey@enron.com,"Tue, 15 Jan 2002 13:29:35 -0800 (PST)",Welcome to r-help,email_dataset/richey-c/r/19.
+337,<29584618.1075841477895.JavaMail.evans@thyme>,cooper.richey@enron.com,colin.poon@enron.com,"Thu, 29 Nov 2001 09:58:17 -0800 (PST)",RE: rec,email_dataset/richey-c/sent_items/226.
+338,<20471325.1075841481190.JavaMail.evans@thyme>,cooper.richey@enron.com,craig.mclurg@enron.com,"Wed, 30 May 2001 19:43:00 -0700 (PDT)",Re: Lunch,email_dataset/richey-c/_sent_mail/98.
+339,<12232860.1075841471841.JavaMail.evans@thyme>,jhawker@petersco.com,cooper.richey@enron.com,"Tue, 9 Oct 2001 07:29:04 -0700 (PDT)",Strings,email_dataset/richey-c/personal/28.
+340,<13548991.1075841468908.JavaMail.evans@thyme>,alaina@doublemo.com,cooper.richey@enron.com,"Mon, 4 Feb 2002 19:34:23 -0800 (PST)",=?ANSI_X3.4-1968?Q?Weekly_Squeeker:_News_from_the_DOUBLE_MO_Caf=3F?=,email_dataset/richey-c/inbox/30.
+341,<11921870.1075841475045.JavaMail.evans@thyme>,cooper.richey@enron.com,ghagerty@epcor.ca,"Mon, 14 Jan 2002 13:40:25 -0800 (PST)",FW: Undeliverable: names,email_dataset/richey-c/sent_items/104.
+342,<8822352.1075841470273.JavaMail.evans@thyme>,tim.heizenrader@enron.com,cooper.richey@enron.com,"Tue, 8 Jan 2002 07:29:04 -0800 (PST)",Freeciv Alternative,email_dataset/richey-c/inbox/69.
+343,<28027205.1075841474400.JavaMail.evans@thyme>,cooper.richey@enron.com,epurtzki@deloitte.ca,"Wed, 23 Jan 2002 07:43:06 -0800 (PST)",RE:,email_dataset/richey-c/sent_items/77.
+344,<19732650.1075841460812.JavaMail.evans@thyme>,cooper.richey@enron.com,,"Thu, 19 Jul 2001 12:38:57 -0700 (PDT)",Call ama,email_dataset/richey-c/calendar/9.
+345,<33203592.1075841479875.JavaMail.evans@thyme>,cooper.richey@enron.com,jeff.richter@enron.com,"Thu, 10 May 2001 22:58:00 -0700 (PDT)",flight info,email_dataset/richey-c/_sent_mail/41.
+346,<10736023.1075841460006.JavaMail.evans@thyme>,debrasis@admin.ogi.edu,,"Wed, 6 Feb 2002 11:42:09 -0800 (PST)",OGI/CPD software courses (2-6-02),email_dataset/richey-c/deleted_items/24.
+347,<22478669.1075841481285.JavaMail.evans@thyme>,cooper.richey@enron.com,,"Wed, 30 May 2001 15:56:00 -0700 (PDT)",work on front page with Cara,email_dataset/richey-c/to_do/1.
+348,<15444128.1075841471069.JavaMail.evans@thyme>,clinton.kripki@gfinet.com,"john.zufferli@enron.com, cooper.richey@enron.com","Tue, 15 Jan 2002 14:04:50 -0800 (PST)",AB Power Fax for 15/01/02,email_dataset/richey-c/marks/9.
+349,<20042398.1075841479852.JavaMail.evans@thyme>,cooper.richey@enron.com,robert.anderson@enron.com,"Thu, 10 May 2001 16:28:00 -0700 (PDT)",RE: Servers & Administration,email_dataset/richey-c/_sent_mail/40.
+350,<24970808.1075841476567.JavaMail.evans@thyme>,cooper.richey@enron.com,aaron.slater@enron.com,"Thu, 13 Dec 2001 09:48:24 -0800 (PST)",RE: Due process,email_dataset/richey-c/sent_items/169.
+351,<27793493.1075841480248.JavaMail.evans@thyme>,cooper.richey@enron.com,colin.tip@enron.com,"Wed, 16 May 2001 23:07:00 -0700 (PDT)",,email_dataset/richey-c/_sent_mail/57.
+352,<6334102.1075841478919.JavaMail.evans@thyme>,cooper.richey@enron.com,colin.tip@enron.com,"Wed, 2 May 2001 15:52:00 -0700 (PDT)",pool summary cube,email_dataset/richey-c/_sent_mail/8.
+353,<5338432.1075841473104.JavaMail.evans@thyme>,cooper.richey@enron.com,jilld@cnrl.com,"Fri, 1 Feb 2002 07:55:01 -0800 (PST)",RE: Friday Festivities,email_dataset/richey-c/sent_items/22.
+354,<22639054.1075841477152.JavaMail.evans@thyme>,cooper.richey@enron.com,mleung@callisma.com,"Thu, 6 Dec 2001 07:34:53 -0800 (PST)",RE:,email_dataset/richey-c/sent_items/194.
+355,<24480601.1075841475944.JavaMail.evans@thyme>,cooper.richey@enron.com,jhawker@petersco.com,"Fri, 4 Jan 2002 12:52:28 -0800 (PST)",RE: yoga w/ eze,email_dataset/richey-c/sent_items/142.
+356,<29185817.1075841476798.JavaMail.evans@thyme>,cooper.richey@enron.com,michael.savidant@enron.com,"Wed, 12 Dec 2001 07:00:52 -0800 (PST)",RE: me again,email_dataset/richey-c/sent_items/179.
+357,<28325064.1075841477128.JavaMail.evans@thyme>,cooper.richey@enron.com,jhawker@petersco.com,"Thu, 6 Dec 2001 07:35:59 -0800 (PST)",RE:,email_dataset/richey-c/sent_items/193.
+358,<28347194.1075841476613.JavaMail.evans@thyme>,cooper.richey@enron.com,chris.wiebe@enron.com,"Thu, 13 Dec 2001 06:49:42 -0800 (PST)",RE: greg and colin access,email_dataset/richey-c/sent_items/171.
+359,<24240515.1075841472201.JavaMail.evans@thyme>,ripley@stats.ox.ac.uk,steinep@uni-muenster.de,"Thu, 31 Jan 2002 02:04:45 -0800 (PST)",Re: [R] Passing parameters with Rcmd BATCH,email_dataset/richey-c/r/4.
+360,<18296704.1075841473584.JavaMail.evans@thyme>,cooper.richey@enron.com,jhawker@petersco.com,"Wed, 30 Jan 2002 14:09:18 -0800 (PST)",RE:,email_dataset/richey-c/sent_items/42.
+361,<12111252.1075841475767.JavaMail.evans@thyme>,cooper.richey@enron.com,epurtzki@deloitte.ca,"Tue, 8 Jan 2002 10:23:45 -0800 (PST)",to the new corporate henchwoman,email_dataset/richey-c/sent_items/135.
+362,<4610731.1075841468859.JavaMail.evans@thyme>,gberry@solutionsco.com,cooper.richey@enron.com,"Tue, 5 Feb 2002 05:58:28 -0800 (PST)",Re: Your new address,email_dataset/richey-c/inbox/28.
+363,<7081592.1075841459780.JavaMail.evans@thyme>,mikeraz@patch.com,merlyn@stonehenge.com,"Wed, 6 Feb 2002 16:50:13 -0800 (PST)",Re: Next pdx.pm meeting,email_dataset/richey-c/deleted_items/15.
+364,<742665.1075841478659.JavaMail.evans@thyme>,cooper.richey@enron.com,toby.geffryes@enron.com,"Wed, 21 Nov 2001 12:56:49 -0800 (PST)",RE: Status,email_dataset/richey-c/sent_items/259.
+365,<14470771.1075841478454.JavaMail.evans@thyme>,cooper.richey@enron.com,jhawker@petersco.com,"Thu, 22 Nov 2001 11:04:04 -0800 (PST)",FW: email address,email_dataset/richey-c/sent_items/250.
+366,<20171194.1075841478500.JavaMail.evans@thyme>,cooper.richey@enron.com,ian.cooke@enron.com,"Thu, 22 Nov 2001 09:55:24 -0800 (PST)",email address,email_dataset/richey-c/sent_items/252.
+367,<17122203.1075841471333.JavaMail.evans@thyme>,select_welcome.um.a.1.3779@lists.smartmoney.com,cooper.richey@enron.com,"Thu, 10 Jan 2002 22:15:54 -0800 (PST)",Welcome to SmartMoney Select Real-Time,email_dataset/richey-c/personal/8.
+368,<8762526.1075841475090.JavaMail.evans@thyme>,cooper.richey@enron.com,j..taylor@enron.com,"Mon, 14 Jan 2002 12:52:51 -0800 (PST)",contact info,email_dataset/richey-c/sent_items/106.
+369,<13597220.1075841460212.JavaMail.evans@thyme>,announcements.enron@enron.com,dl-ga-all_enron_north_america@enron.com,"Tue, 15 Jan 2002 17:12:58 -0800 (PST)",2002 Holiday Schedule,email_dataset/richey-c/administrivia/3.
+370,<32204115.1075841474143.JavaMail.evans@thyme>,cooper.richey@enron.com,dawn.doucet@enron.com,"Mon, 28 Jan 2002 08:05:32 -0800 (PST)",updated resume,email_dataset/richey-c/sent_items/66.
+371,<6400681.1075841478636.JavaMail.evans@thyme>,cooper.richey@enron.com,colin.poon@enron.com,"Thu, 22 Nov 2001 08:47:37 -0800 (PST)",RE: log file,email_dataset/richey-c/sent_items/258.
+372,<13091973.1075841476408.JavaMail.evans@thyme>,cooper.richey@enron.com,trycooper@hotmail.com,"Tue, 18 Dec 2001 17:12:22 -0800 (PST)",test,email_dataset/richey-c/sent_items/162.
+373,<9746534.1075841470006.JavaMail.evans@thyme>,john.zufferli@enron.com,cooper.richey@enron.com,"Mon, 28 Jan 2002 10:33:08 -0800 (PST)",FW: Ontario overview,email_dataset/richey-c/inbox/58.
+374,<27002429.1075841471238.JavaMail.evans@thyme>,jilld@cnrl.com,cooper.richey@enron.com,"Fri, 25 Jan 2002 10:53:49 -0800 (PST)",Friday Festivities!,email_dataset/richey-c/personal/4.
+375,<14891837.1075841468835.JavaMail.evans@thyme>,gberry@solutionsco.com,cooper.richey@enron.com,"Tue, 5 Feb 2002 08:17:24 -0800 (PST)",Re: Your new address,email_dataset/richey-c/inbox/27.
+376,<22299713.1075841480065.JavaMail.evans@thyme>,cooper.richey@enron.com,pavel.koulikov@enron.com,"Mon, 14 May 2001 20:34:00 -0700 (PDT)",,email_dataset/richey-c/_sent_mail/49.
+377,<769017.1075841473675.JavaMail.evans@thyme>,cooper.richey@enron.com,jhawker@petersco.com,"Wed, 30 Jan 2002 08:21:15 -0800 (PST)",RE:,email_dataset/richey-c/sent_items/46.
+378,<27662509.1075841476270.JavaMail.evans@thyme>,cooper.richey@enron.com,corinna.johnston@intria.com,"Fri, 4 Jan 2002 08:52:54 -0800 (PST)",RE:,email_dataset/richey-c/sent_items/156.
+379,<21839213.1075841480087.JavaMail.evans@thyme>,cooper.richey@enron.com,tim.heizenrader@enron.com,"Mon, 14 May 2001 21:29:00 -0700 (PDT)",test address,email_dataset/richey-c/_sent_mail/50.
+380,<19007349.1075841470344.JavaMail.evans@thyme>,jgkoomey@lbl.gov,"cooper.richey@enron.com, rosen.karen@enron.com","Fri, 21 Dec 2001 16:08:42 -0800 (PST)",[Fwd: [Fwd: OPtimal Technologies Materials]],email_dataset/richey-c/inbox/72.
+381,<13253800.1075841480042.JavaMail.evans@thyme>,cooper.richey@enron.com,grant.oh@enron.com,"Mon, 14 May 2001 17:53:00 -0700 (PDT)",stack picture,email_dataset/richey-c/_sent_mail/48.
+382,<26447042.1075841476156.JavaMail.evans@thyme>,cooper.richey@enron.com,williams.ltd@attcanada.net,"Fri, 4 Jan 2002 11:28:36 -0800 (PST)",RE: Invoices,email_dataset/richey-c/sent_items/151.
+383,<29317435.1075841470823.JavaMail.evans@thyme>,robert.anderson@enron.com,cooper.richey@enron.com,"Mon, 14 May 2001 19:06:00 -0700 (PDT)",RE: New Production Web Server,email_dataset/richey-c/infrastructure/10.
+384,<7979387.1075841469781.JavaMail.evans@thyme>,jilld@cnrl.com,cooper.richey@enron.com,"Fri, 1 Feb 2002 10:52:02 -0800 (PST)",RE: Friday Festivities,email_dataset/richey-c/inbox/49.
+385,<20988851.1075841472129.JavaMail.evans@thyme>,tlumley@u.washington.edu,pjohnson@biostat.ufl.edu,"Mon, 4 Feb 2002 10:10:47 -0800 (PST)",Re: [R] regression trees,email_dataset/richey-c/r/1.
+386,<16841724.1075841478522.JavaMail.evans@thyme>,cooper.richey@enron.com,chris.wiebe@enron.com,"Thu, 22 Nov 2001 09:12:40 -0800 (PST)",prod roll,email_dataset/richey-c/sent_items/253.
+387,<27729830.1075841479011.JavaMail.evans@thyme>,cooper.richey@enron.com,jaihawker@hotmail.com,"Thu, 3 May 2001 18:17:00 -0700 (PDT)",Re:,email_dataset/richey-c/_sent_mail/12.
+388,<19890272.1075841468665.JavaMail.evans@thyme>,jhawker@petersco.com,cooper.richey@enron.com,"Wed, 6 Feb 2002 07:04:19 -0800 (PST)",FW: Excess Furniture,email_dataset/richey-c/inbox/20.
+389,<9399270.1075841471652.JavaMail.evans@thyme>,karl.tomlinson@enron.com,cooper.richey@enron.com,"Thu, 29 Nov 2001 09:41:34 -0800 (PST)",RE: Yo !,email_dataset/richey-c/personal/20.
+390,<20122774.1075841479605.JavaMail.evans@thyme>,cooper.richey@enron.com,colin.tip@enron.com,"Tue, 8 May 2001 23:07:00 -0700 (PDT)",Re: proc,email_dataset/richey-c/_sent_mail/30.
+391,<18332918.1075841470368.JavaMail.evans@thyme>,jgkoomey@lbl.gov,cooper.richey@enron.com,"Tue, 18 Dec 2001 14:32:07 -0800 (PST)",how's it going?,email_dataset/richey-c/inbox/73.
+392,<6565565.1075841473390.JavaMail.evans@thyme>,cooper.richey@enron.com,cheryl.dawes@enron.com,"Wed, 30 Jan 2002 14:40:40 -0800 (PST)",FW: Invoice # ENR -002  Dated Nov 29 2001,email_dataset/richey-c/sent_items/34.
+393,<11523334.1075841477733.JavaMail.evans@thyme>,cooper.richey@enron.com,jhawker@petersco.com,"Tue, 4 Dec 2001 07:05:25 -0800 (PST)",RE: I think it might have worked,email_dataset/richey-c/sent_items/219.
+394,<27150163.1075841476293.JavaMail.evans@thyme>,cooper.richey@enron.com,cheryl.dawes@enron.com,"Fri, 4 Jan 2002 08:47:53 -0800 (PST)",cognicase payments,email_dataset/richey-c/sent_items/157.
+395,<16189702.1075841470777.JavaMail.evans@thyme>,chris.wiebe@enron.com,cooper.richey@enron.com,"Mon, 29 Oct 2001 14:09:58 -0800 (PST)",Script example,email_dataset/richey-c/infrastructure/8.
+396,<27872980.1075841472881.JavaMail.evans@thyme>,cooper.richey@enron.com,williams.ltd@attcanada.net,"Mon, 4 Feb 2002 13:38:17 -0800 (PST)",RE: Invoice # ENR -002  Dated Nov 29 2001,email_dataset/richey-c/sent_items/13.
+397,<24866142.1075841480633.JavaMail.evans@thyme>,cooper.richey@enron.com,colin_poontip@hotmail.com,"Wed, 23 May 2001 23:32:00 -0700 (PDT)",olap issues,email_dataset/richey-c/_sent_mail/74.
+398,<3069608.1075841468615.JavaMail.evans@thyme>,julie.clyatt@enron.com,"chelsea.bardal@enron.com, jason.biever@enron.com, stephane.brodeur@enron.com,","Wed, 6 Feb 2002 09:18:43 -0800 (PST)",YOU HAVE 48 HOURS - Message from Louise Kitchen,email_dataset/richey-c/inbox/18.
+399,<16814957.1075841475280.JavaMail.evans@thyme>,cooper.richey@enron.com,jhawker@petersco.com,"Thu, 10 Jan 2002 13:01:55 -0800 (PST)",RE:,email_dataset/richey-c/sent_items/114.
+400,<25467657.1075841476636.JavaMail.evans@thyme>,cooper.richey@enron.com,chris.wiebe@enron.com,"Wed, 12 Dec 2001 14:15:52 -0800 (PST)",RE: greg and colin access,email_dataset/richey-c/sent_items/172.
+401,<2346376.1075841480180.JavaMail.evans@thyme>,cooper.richey@enron.com,"dan.dietrich@enron.com, tim.heizenrader@enron.com","Mon, 14 May 2001 22:52:00 -0700 (PDT)",sms problems,email_dataset/richey-c/_sent_mail/54.
+402,<15293504.1075841472059.JavaMail.evans@thyme>,info@adorama.com,cooper.richey@enron.com,"Wed, 13 Jun 2001 10:03:00 -0700 (PDT)",Your Adorama Order (Order# 1179651-1),email_dataset/richey-c/personal/37.
+403,<20388880.1075841476431.JavaMail.evans@thyme>,cooper.richey@enron.com,ndottenb@ucalgary.ca,"Sun, 16 Dec 2001 11:43:13 -0800 (PST)",RE: countdown to Christmas,email_dataset/richey-c/sent_items/163.
+404,<4372610.1075841460419.JavaMail.evans@thyme>,40enron@enron.com,,"Wed, 30 May 2001 19:18:26 -0700 (PDT)",Your May 31 Pay Advice,email_dataset/richey-c/administrivia/9.
+405,<4946985.1075841471166.JavaMail.evans@thyme>,jhawker@petersco.com,cooper.richey@enron.com,"Tue, 29 Jan 2002 15:27:46 -0800 (PST)",RE: rene's #,email_dataset/richey-c/personal/1.
+406,<7356899.1075841475673.JavaMail.evans@thyme>,cooper.richey@enron.com,jhawker@petersco.com,"Tue, 8 Jan 2002 14:28:05 -0800 (PST)",5:30,email_dataset/richey-c/sent_items/131.
+407,<3402194.1075841475187.JavaMail.evans@thyme>,cooper.richey@enron.com,epurtzki@deloitte.ca,"Mon, 14 Jan 2002 07:50:56 -0800 (PST)",RE:,email_dataset/richey-c/sent_items/110.
+408,<13585422.1075841474753.JavaMail.evans@thyme>,cooper.richey@enron.com,danielle.marcinkowski@enron.com,"Thu, 17 Jan 2002 16:04:56 -0800 (PST)",RE: Market Data real time data / subscriptions and Publications,email_dataset/richey-c/sent_items/92.
+409,<1711821.1075841476110.JavaMail.evans@thyme>,cooper.richey@enron.com,jhawker@petersco.com,"Fri, 4 Jan 2002 12:01:40 -0800 (PST)",RE: yoga w/ eze,email_dataset/richey-c/sent_items/149.
+410,<2100809.1075841460570.JavaMail.evans@thyme>,rob.baker@eal.ab.ca,cooper.richey@enron.com,"Sun, 10 Jun 2001 20:27:50 -0700 (PDT)",FW: May 31 2001/2002 BC-Alberta Import and Export Inter-Tie trans,email_dataset/richey-c/alberta/1.
+411,<11088944.1075841478873.JavaMail.evans@thyme>,cooper.richey@enron.com,"bill.greenizan@enron.com, michael.law@enron.com, jonathan.mckay@enron.com,","Tue, 1 May 2001 21:54:00 -0700 (PDT)",Add'l slides from this PM's briefing,email_dataset/richey-c/_sent_mail/6.
+412,<26840888.1075841474309.JavaMail.evans@thyme>,cooper.richey@enron.com,jhawker@petersco.com,"Fri, 25 Jan 2002 12:19:39 -0800 (PST)",squash,email_dataset/richey-c/sent_items/73.
+413,<30502510.1075841478850.JavaMail.evans@thyme>,cooper.richey@enron.com,tim.heizenrader@enron.com,"Tue, 1 May 2001 21:54:00 -0700 (PDT)",Re: interesting article on lisp and software development,email_dataset/richey-c/_sent_mail/5.
+414,<24648932.1075841478126.JavaMail.evans@thyme>,cooper.richey@enron.com,todd.bowen@enron.com,"Tue, 27 Nov 2001 07:19:32 -0800 (PST)",RE: New Distributed Denial of Service Program in the Wild,email_dataset/richey-c/sent_items/236.
+415,<2953566.1075841474729.JavaMail.evans@thyme>,cooper.richey@enron.com,jhawker@petersco.com,"Fri, 18 Jan 2002 07:59:57 -0800 (PST)",FW:,email_dataset/richey-c/sent_items/91.
+416,<14948582.1075841474679.JavaMail.evans@thyme>,cooper.richey@enron.com,jhawker@petersco.com,"Fri, 18 Jan 2002 08:26:25 -0800 (PST)",RE:,email_dataset/richey-c/sent_items/89.
+417,<14351162.1075841459979.JavaMail.evans@thyme>,tlumley@u.washington.edu,i.mosqueira@ic.ac.uk,"Wed, 6 Feb 2002 09:31:06 -0800 (PST)",Re: [R] Accesing glm results,email_dataset/richey-c/deleted_items/23.
+418,<14853320.1075841460115.JavaMail.evans@thyme>,ben@zoo.ufl.edu,r-help@stat.math.ethz.ch,"Wed, 6 Feb 2002 08:16:11 -0800 (PST)",[R] 1.3.1/1.4.1 Windows binary incompatibilities?,email_dataset/richey-c/deleted_items/27.
+419,<779197.1075841469980.JavaMail.evans@thyme>,david.forster@enron.com,"traders.dl-netco@enron.com, originators.dl-netco@enron.com,","Mon, 28 Jan 2002 12:49:30 -0800 (PST)",Online Launch Plan Update,email_dataset/richey-c/inbox/57.
+420,<7552577.1075841479560.JavaMail.evans@thyme>,cooper.richey@enron.com,colin.tip@enron.com,"Tue, 8 May 2001 21:34:00 -0700 (PDT)",proc,email_dataset/richey-c/_sent_mail/28.
+421,<28831470.1075841470655.JavaMail.evans@thyme>,mark.hall@enron.com,cooper.richey@enron.com,"Mon, 5 Nov 2001 09:37:27 -0800 (PST)",RE: apologies,email_dataset/richey-c/infrastructure/3.
+422,<632978.1075841476087.JavaMail.evans@thyme>,cooper.richey@enron.com,jhawker@petersco.com,"Fri, 4 Jan 2002 12:09:01 -0800 (PST)",favor,email_dataset/richey-c/sent_items/148.
+423,<16271506.1075841459499.JavaMail.evans@thyme>,ripley@stats.ox.ac.uk,robert.lundqvist@ies.luth.se,"Thu, 7 Feb 2002 00:21:13 -0800 (PST)",Re: [R] R graphs in LaTeX documents?,email_dataset/richey-c/deleted_items/5.
+424,<22437701.1075841459616.JavaMail.evans@thyme>,b.mao@cerep.com,r-help@lists.r-project.org,"Wed, 6 Feb 2002 19:05:41 -0800 (PST)",[R] newbie question: polr and glm.control,email_dataset/richey-c/deleted_items/10.
+425,<26623369.1075841480957.JavaMail.evans@thyme>,cooper.richey@enron.com,colin.tip@enron.com,"Mon, 28 May 2001 22:54:00 -0700 (PDT)",Re: cube,email_dataset/richey-c/_sent_mail/88.
+426,<5866124.1075841475350.JavaMail.evans@thyme>,cooper.richey@enron.com,epurtzki@deloitte.ca,"Thu, 10 Jan 2002 08:30:19 -0800 (PST)",RE:,email_dataset/richey-c/sent_items/117.
+427,<18217197.1075841478057.JavaMail.evans@thyme>,cooper.richey@enron.com,jhawker@petersco.com,"Wed, 28 Nov 2001 08:48:49 -0800 (PST)",RE:,email_dataset/richey-c/sent_items/233.
+428,<2451950.1075841480543.JavaMail.evans@thyme>,cooper.richey@enron.com,cmclurg@cadvision.com,"Wed, 23 May 2001 19:36:00 -0700 (PDT)",RE: Wine Picks,email_dataset/richey-c/_sent_mail/70.
+429,<28089964.1075841475513.JavaMail.evans@thyme>,cooper.richey@enron.com,jhawker@petersco.com,"Wed, 9 Jan 2002 09:14:36 -0800 (PST)",RE:,email_dataset/richey-c/sent_items/124.
+430,<27644324.1075841472763.JavaMail.evans@thyme>,cooper.richey@enron.com,chris.wiebe@enron.com,"Wed, 6 Feb 2002 09:35:13 -0800 (PST)",RE: NACAL-PowerFS1,email_dataset/richey-c/sent_items/8.
+431,<22898065.1075841472597.JavaMail.evans@thyme>,cooper.richey@enron.com,tazelis@etrade.ca,"Wed, 6 Feb 2002 12:02:18 -0800 (PST)",RE: Missing Information,email_dataset/richey-c/sent_items/1.
+432,<25984235.1075841472225.JavaMail.evans@thyme>,maechler@stat.math.ethz.ch,r-help@stat.math.ethz.ch,"Thu, 31 Jan 2002 01:05:50 -0800 (PST)",[R] R-help & -devel mailing lists : indigestion problems,email_dataset/richey-c/r/5.
+433,<31284329.1075841459876.JavaMail.evans@thyme>,cp@onsitetech.com,"tex@off.org, merlyn@stonehenge.com","Wed, 6 Feb 2002 15:35:47 -0800 (PST)",Re: Next pdx.pm meeting,email_dataset/richey-c/deleted_items/19.
+434,<16124540.1075841474425.JavaMail.evans@thyme>,cooper.richey@enron.com,ripley@stats.ox.ac.uk,"Tue, 22 Jan 2002 15:34:22 -0800 (PST)",RE: [R] problems using lattice on windows (not the blank first page,email_dataset/richey-c/sent_items/78.
+435,<18164346.1075841460029.JavaMail.evans@thyme>,i.mosqueira@ic.ac.uk,r-help@stat.math.ethz.ch,"Wed, 6 Feb 2002 09:21:41 -0800 (PST)",[R] Accesing glm results,email_dataset/richey-c/deleted_items/25.
+436,<24751428.1075841475604.JavaMail.evans@thyme>,cooper.richey@enron.com,jhawker@petersco.com,"Tue, 8 Jan 2002 14:49:10 -0800 (PST)",RE: 5:30,email_dataset/richey-c/sent_items/128.
+437,<6568966.1075841474999.JavaMail.evans@thyme>,cooper.richey@enron.com,jhawker@petersco.com,"Tue, 15 Jan 2002 10:58:51 -0800 (PST)",RE:,email_dataset/richey-c/sent_items/102.
+438,<13085706.1075841473222.JavaMail.evans@thyme>,cooper.richey@enron.com,jhawker@petersco.com,"Thu, 31 Jan 2002 10:01:11 -0800 (PST)",FW: Friday Festivities,email_dataset/richey-c/sent_items/27.
+439,<10973252.1075841472083.JavaMail.evans@thyme>,tobias@adorama.com,cooper.richey@enron.com,"Tue, 12 Jun 2001 11:38:00 -0700 (PDT)",Your adorama.com Order (Order# 991699805179643),email_dataset/richey-c/personal/38.
+440,<25425704.1075841477390.JavaMail.evans@thyme>,cooper.richey@enron.com,f.wong@enron.com,"Wed, 5 Dec 2001 13:17:51 -0800 (PST)",RE: tomorrow's mark...,email_dataset/richey-c/sent_items/204.
+441,<8223081.1075841469013.JavaMail.evans@thyme>,david.forster@enron.com,"tom.alonso@enron.com, tim.belden@enron.com, f..calger@enron.com,","Mon, 4 Feb 2002 13:47:02 -0800 (PST)",Online Trading Simulation,email_dataset/richey-c/inbox/32.
+442,<16094560.1075841470320.JavaMail.evans@thyme>,corinna.johnston@intria.com,cooper.richey@enron.com,"Mon, 7 Jan 2002 10:41:35 -0800 (PST)",Your day,email_dataset/richey-c/inbox/71.
+443,<21653698.1075841480157.JavaMail.evans@thyme>,cooper.richey@enron.com,nikcary@yahoo.com,"Mon, 14 May 2001 22:36:00 -0700 (PDT)",Re:,email_dataset/richey-c/_sent_mail/53.
+444,<16089082.1075841468262.JavaMail.evans@thyme>,m..smith@enron.com,"sherry.anastas@enron.com, bridgette.anderson@enron.com,","Wed, 6 Feb 2002 17:01:55 -0800 (PST)",PLEASE REVIEW - location/ time in MOCK test tomorrow,email_dataset/richey-c/inbox/5.
+445,<915375.1075841470125.JavaMail.evans@thyme>,mytractor@yahoo.com,cooper.richey@enron.com,"Tue, 22 Jan 2002 12:13:28 -0800 (PST)",RE: apologies and attachments,email_dataset/richey-c/inbox/63.
+446,<22979500.1075841471142.JavaMail.evans@thyme>,clinton.kripki@gfinet.com,john.zufferli@enron.com,"Mon, 7 Jan 2002 12:12:06 -0800 (PST)",Trades and end of day marks,email_dataset/richey-c/marks/12.
+447,<27680606.1075841478753.JavaMail.evans@thyme>,cooper.richey@enron.com,jeff.richter@enron.com,"Tue, 1 May 2001 14:06:00 -0700 (PDT)",watch other eol products,email_dataset/richey-c/_sent_mail/1.
+448,<25838109.1075841474777.JavaMail.evans@thyme>,cooper.richey@enron.com,epurtzki@deloitte.ca,"Thu, 17 Jan 2002 14:02:59 -0800 (PST)",RE:,email_dataset/richey-c/sent_items/93.
+449,<3938475.1075841475209.JavaMail.evans@thyme>,cooper.richey@enron.com,jhawker@petersco.com,"Mon, 14 Jan 2002 07:37:04 -0800 (PST)",RE:,email_dataset/richey-c/sent_items/111.
+450,<21900335.1075841481145.JavaMail.evans@thyme>,cooper.richey@enron.com,laura.bacon@enron.com,"Tue, 29 May 2001 23:32:00 -0700 (PDT)",RE: DJI User ID,email_dataset/richey-c/_sent_mail/96.
+451,<24783870.1075841477527.JavaMail.evans@thyme>,cooper.richey@enron.com,"howardmj@2mawbft.usmc.mil, mjhow55@islc.net","Wed, 5 Dec 2001 10:02:07 -0800 (PST)",,email_dataset/richey-c/sent_items/210.
+452,<17549006.1075841473630.JavaMail.evans@thyme>,cooper.richey@enron.com,jhawker@petersco.com,"Wed, 30 Jan 2002 09:10:16 -0800 (PST)",sofa,email_dataset/richey-c/sent_items/44.
+453,<4593540.1075841460714.JavaMail.evans@thyme>,sebastien.garcia@enron.com,"sebastien.garcia@enron.com, cooper.richey@enron.com","Tue, 16 Oct 2001 09:29:03 -0700 (PDT)",Scraping process Vs Volume Mgmt,email_dataset/richey-c/calendar/5.
+454,<31634918.1075841468014.JavaMail.evans@thyme>,craig.mclurg@enron.com,cooper.richey@enron.com,"Thu, 31 May 2001 12:56:13 -0700 (PDT)",Houston Documentation,email_dataset/richey-c/fundamentals/7.
+455,<422438.1075841474845.JavaMail.evans@thyme>,cooper.richey@enron.com,clayton.rondeau@enron.com,"Thu, 17 Jan 2002 08:47:14 -0800 (PST)",FW:,email_dataset/richey-c/sent_items/96.
+456,<21578674.1075841474165.JavaMail.evans@thyme>,cooper.richey@enron.com,bbutton@petersco.com,"Mon, 28 Jan 2002 07:36:13 -0800 (PST)",hockey tix,email_dataset/richey-c/sent_items/67.
+457,<22636164.1075841475327.JavaMail.evans@thyme>,cooper.richey@enron.com,jhawker@petersco.com,"Thu, 10 Jan 2002 10:09:22 -0800 (PST)",RE: Hi there...,email_dataset/richey-c/sent_items/116.
+458,<14481376.1075841477436.JavaMail.evans@thyme>,cooper.richey@enron.com,berry.gk@lycos.com,"Wed, 5 Dec 2001 12:41:26 -0800 (PST)",curve fetcher,email_dataset/richey-c/sent_items/206.
+459,<5097116.1075841479387.JavaMail.evans@thyme>,cooper.richey@enron.com,robert.anderson@enron.com,"Mon, 7 May 2001 17:15:00 -0700 (PDT)",RE: Fundamentals Web Development Conference Call,email_dataset/richey-c/_sent_mail/21.
+460,<5976119.1075841471818.JavaMail.evans@thyme>,kateellsworth@earthlink.net,cooper.richey@enron.com,"Sat, 13 Oct 2001 20:00:00 -0700 (PDT)",Re: hello hello,email_dataset/richey-c/personal/27.
+461,<7057546.1075841471986.JavaMail.evans@thyme>,jgreenberg@wrhambrecht.com,cooper.richey@enron.com,"Thu, 21 Jun 2001 17:16:54 -0700 (PDT)",RE: are you there?,email_dataset/richey-c/personal/34.
+462,<28582623.1075841478590.JavaMail.evans@thyme>,cooper.richey@enron.com,karl.tomlinson@enron.com,"Thu, 22 Nov 2001 08:59:09 -0800 (PST)",RE: Yo !,email_dataset/richey-c/sent_items/256.
+463,<9427545.1075841460966.JavaMail.evans@thyme>,cooper.richey@enron.com,,"Tue, 5 Jun 2001 15:07:28 -0700 (PDT)",Vegas Flight,email_dataset/richey-c/calendar/15.
+464,<7898079.1075841472981.JavaMail.evans@thyme>,cooper.richey@enron.com,jilld@cnrl.com,"Fri, 1 Feb 2002 12:44:13 -0800 (PST)",RE: test,email_dataset/richey-c/sent_items/17.
+465,<29830288.1075841467870.JavaMail.evans@thyme>,maria.van@enron.com,cooper.richey@enron.com,"Wed, 21 Nov 2001 09:54:23 -0800 (PST)",RE: earthsat weather forecast,email_dataset/richey-c/fundamentals/1.
+466,<29198793.1075841478240.JavaMail.evans@thyme>,cooper.richey@enron.com,jhawker@petersco.com,"Mon, 26 Nov 2001 08:52:57 -0800 (PST)",RE:,email_dataset/richey-c/sent_items/241.
+467,<30299169.1075841468230.JavaMail.evans@thyme>,kkelly@insightful.com,,"Wed, 6 Feb 2002 17:08:01 -0800 (PST)",Robust Statistics course presented by Doug Martin in NYC,email_dataset/richey-c/inbox/4.
+468,<20483595.1075841481424.JavaMail.evans@thyme>,clinton.kripki@gfinet.com,cooper.richey@enron.com,"Fri, 30 Nov 2001 07:16:17 -0800 (PST)",FW: AB Power Fax for 29/11/01,email_dataset/richey-c/trading_quotes/2.
+469,<28955445.1075841473274.JavaMail.evans@thyme>,cooper.richey@enron.com,jhawker@petersco.com,"Thu, 31 Jan 2002 08:12:44 -0800 (PST)",RE:,email_dataset/richey-c/sent_items/29.
+470,<20512299.1075841472299.JavaMail.evans@thyme>,vito.muggeo@giustizia.it,"petr.pikal@precheza.cz, r-help@stat.math.ethz.ch","Thu, 24 Jan 2002 01:44:17 -0800 (PST)","Re: [R] aggregate, by tapply",email_dataset/richey-c/r/8.
+471,<4814773.1075841480656.JavaMail.evans@thyme>,cooper.richey@enron.com,kathy.axford@enron.com,"Thu, 24 May 2001 19:50:00 -0700 (PDT)",RE: fleece,email_dataset/richey-c/_sent_mail/75.
+472,<18651678.1075841480020.JavaMail.evans@thyme>,cooper.richey@enron.com,robert.anderson@enron.com,"Mon, 14 May 2001 17:49:00 -0700 (PDT)",Re: New Production Web Server,email_dataset/richey-c/_sent_mail/47.
+473,<32881940.1075841475696.JavaMail.evans@thyme>,cooper.richey@enron.com,confirm@smartmoneylist.com,"Tue, 8 Jan 2002 14:27:06 -0800 (PST)",RE: SmartMoney.com Please Reply *770545&BED668916B*,email_dataset/richey-c/sent_items/132.
+474,<26055240.1075841469806.JavaMail.evans@thyme>,dan.dietrich@enron.com,"chris.stokley@enron.com, donna.sheidun@enron.com, cooper.richey@enron.com,","Fri, 1 Feb 2002 08:55:12 -0800 (PST)",UPDATE: UBSWE Pilot Members,email_dataset/richey-c/inbox/50.
+475,<22802604.1075841460236.JavaMail.evans@thyme>,announcements.enron@enron.com,,"Fri, 30 Nov 2001 13:33:32 -0800 (PST)",Communication to Employees on Assignment,email_dataset/richey-c/administrivia/4.
+476,<5590682.1075841479778.JavaMail.evans@thyme>,cooper.richey@enron.com,stephanie.sever@enron.com,"Wed, 9 May 2001 18:09:00 -0700 (PDT)",EOL Account,email_dataset/richey-c/_sent_mail/37.
+477,<23169663.1075841477030.JavaMail.evans@thyme>,cooper.richey@enron.com,john.zufferli@enron.com,"Fri, 7 Dec 2001 07:29:36 -0800 (PST)",FW: Supply Shortfall Procedures,email_dataset/richey-c/sent_items/189.
+478,<28332596.1075841460140.JavaMail.evans@thyme>,shantels@activestate.com,activelist@listserv.activestate.com,"Wed, 6 Feb 2002 10:25:21 -0800 (PST)","ActiveState announces Perl Dev Kit 4.0; support for .NET, HP-UX,",email_dataset/richey-c/deleted_items/28.
+479,<15719301.1075841480815.JavaMail.evans@thyme>,cooper.richey@enron.com,rob.schorn@enron.com,"Mon, 28 May 2001 16:19:00 -0700 (PDT)",Re: Missing 'Metered Volumes' data??,email_dataset/richey-c/_sent_mail/82.
+480,<29419448.1075841479680.JavaMail.evans@thyme>,cooper.richey@enron.com,mark.dupuy@enron.com,"Wed, 9 May 2001 14:40:00 -0700 (PDT)","Re: Pool Price Error of May 2, 2001 HE06",email_dataset/richey-c/_sent_mail/33.
+481,<6137824.1075841480453.JavaMail.evans@thyme>,cooper.richey@enron.com,cmclurg@cadvision.com,"Tue, 22 May 2001 17:27:00 -0700 (PDT)",Re: Wine Picks,email_dataset/richey-c/_sent_mail/66.
+482,<23743562.1075841474562.JavaMail.evans@thyme>,cooper.richey@enron.com,mfwong@ualberta.net,"Mon, 21 Jan 2002 08:05:46 -0800 (PST)",job opportunity,email_dataset/richey-c/sent_items/84.
+483,<27921397.1075841469878.JavaMail.evans@thyme>,dan.dietrich@enron.com,"chris.stokley@enron.com, donna.sheidun@enron.com, cooper.richey@enron.com,","Thu, 31 Jan 2002 16:59:00 -0800 (PST)",ATTENTION & ACTION: UBS Warburg Energy Pilot Member,email_dataset/richey-c/inbox/53.
+484,<29516939.1075841481260.JavaMail.evans@thyme>,orders@jasc.com,cooper.richey@enron.com,"Mon, 15 Oct 2001 10:44:20 -0700 (PDT)",Your Jasc Software Order: EC882936,email_dataset/richey-c/software/1.
+485,<584436.1075841459546.JavaMail.evans@thyme>,ripley@stats.ox.ac.uk,b.mao@cerep.com,"Thu, 7 Feb 2002 00:10:08 -0800 (PST)",Re: [R] newbie question: polr and glm.control,email_dataset/richey-c/deleted_items/7.
+486,<13993660.1075841480271.JavaMail.evans@thyme>,cooper.richey@enron.com,richey_holly@prc.com,"Thu, 17 May 2001 13:53:00 -0700 (PDT)",RE: Weather This Weekend,email_dataset/richey-c/_sent_mail/58.
+487,<542525.1075841476544.JavaMail.evans@thyme>,cooper.richey@enron.com,clayton.rondeau@enron.com,"Thu, 13 Dec 2001 10:41:59 -0800 (PST)",caldata_pwrfund,email_dataset/richey-c/sent_items/168.
+488,<22851870.1075841475651.JavaMail.evans@thyme>,cooper.richey@enron.com,jhawker@petersco.com,"Tue, 8 Jan 2002 14:46:52 -0800 (PST)",RE: 5:30,email_dataset/richey-c/sent_items/130.
+489,<28610678.1075841472541.JavaMail.evans@thyme>,majordomo@stat.math.ethz.ch,cooper.richey@enron.com,"Tue, 15 Jan 2002 13:34:55 -0800 (PST)",Welcome to r-announce,email_dataset/richey-c/r/18.
+490,<25658636.1075841481006.JavaMail.evans@thyme>,cooper.richey@enron.com,outlook.team@enron.com,"Tue, 29 May 2001 20:29:00 -0700 (PDT)",Re: 2- SURVEY/INFORMATION EMAIL 5-30-01,email_dataset/richey-c/_sent_mail/90.
+491,<24246283.1075841472835.JavaMail.evans@thyme>,cooper.richey@enron.com,epurtzki@deloitte.ca,"Tue, 5 Feb 2002 07:46:48 -0800 (PST)",RE:,email_dataset/richey-c/sent_items/11.
+492,<28650596.1075841475919.JavaMail.evans@thyme>,cooper.richey@enron.com,corinna.johnston@intria.com,"Fri, 4 Jan 2002 13:11:40 -0800 (PST)",RE:,email_dataset/richey-c/sent_items/141.
+493,<24102312.1075841472371.JavaMail.evans@thyme>,ripley@stats.ox.ac.uk,r-help@stat.math.ethz.ch,"Wed, 23 Jan 2002 09:07:37 -0800 (PST)",[R] Versions of R 1.4.0 for Windows,email_dataset/richey-c/r/11.
+494,<26118912.1075841468109.JavaMail.evans@thyme>,williams.ltd@attcanada.net,cooper.richey@enron.com,"Tue, 21 Aug 2001 13:11:55 -0700 (PDT)",Williams Projects Ltd,email_dataset/richey-c/hydro/1.
+495,<8239258.1075841467988.JavaMail.evans@thyme>,tyler.seminuk@enron.com,cooper.richey@enron.com,"Fri, 17 Aug 2001 04:49:07 -0700 (PDT)",BCH Load Jun-Jul 2001.xls,email_dataset/richey-c/fundamentals/6.
+496,<3491947.1075841480520.JavaMail.evans@thyme>,cooper.richey@enron.com,billgreenizan@epagenet.net,"Wed, 23 May 2001 17:18:00 -0700 (PDT)",smp,email_dataset/richey-c/_sent_mail/69.
+497,<7077376.1075841471936.JavaMail.evans@thyme>,corinna.johnston@intria.com,cooper.richey@enron.com,"Fri, 17 Aug 2001 07:25:50 -0700 (PDT)",Good Morning,email_dataset/richey-c/personal/32.
+498,<1684499.1075841473006.JavaMail.evans@thyme>,cooper.richey@enron.com,jilld@cnrl.com,"Fri, 1 Feb 2002 12:23:51 -0800 (PST)",test,email_dataset/richey-c/sent_items/18.
+499,<25748247.1075841459639.JavaMail.evans@thyme>,krcabrer@epm.net.co,,"Wed, 6 Feb 2002 18:57:21 -0800 (PST)",[R] Problems with search,email_dataset/richey-c/deleted_items/11.
+500,<6404121.1075841477665.JavaMail.evans@thyme>,cooper.richey@enron.com,jhawker@petersco.com,"Tue, 4 Dec 2001 09:18:41 -0800 (PST)",RE:,email_dataset/richey-c/sent_items/216.
+501,<26319175.1075841470608.JavaMail.evans@thyme>,mark.kinkead@enron.com,colin.poon@enron.com,"Thu, 15 Nov 2001 08:42:39 -0800 (PST)",RE: data,email_dataset/richey-c/infrastructure/1.
+502,<26331558.1075841479333.JavaMail.evans@thyme>,cooper.richey@enron.com,michael.law@enron.com,"Mon, 7 May 2001 15:15:00 -0700 (PDT)",,email_dataset/richey-c/_sent_mail/20.
+503,<33133184.1075841468738.JavaMail.evans@thyme>,support@llamacom.com,cooper.richey@enron.com,"Tue, 5 Feb 2002 22:01:12 -0800 (PST)",Your account is over quota!,email_dataset/richey-c/inbox/23.
+504,<18133845.1075841476064.JavaMail.evans@thyme>,cooper.richey@enron.com,jhawker@petersco.com,"Fri, 4 Jan 2002 12:21:31 -0800 (PST)",RE: favor,email_dataset/richey-c/sent_items/147.
+505,<32564609.1075841471959.JavaMail.evans@thyme>,richey_holly@prc.com,crichey@ect.enron.com,"Fri, 10 Aug 2001 13:53:56 -0700 (PDT)",FW: Pictures of Cameron--,email_dataset/richey-c/personal/33.
+506,<5352684.1075841474259.JavaMail.evans@thyme>,cooper.richey@enron.com,jhawker@petersco.com,"Fri, 25 Jan 2002 12:44:15 -0800 (PST)",RE: squash,email_dataset/richey-c/sent_items/71.
+507,<32697262.1075841471888.JavaMail.evans@thyme>,dmcbr@sprintmail.com,"mills.christie@enron.com, cooper.richey@enron.com, work <.holly@enron.com>","Tue, 18 Sep 2001 11:49:04 -0700 (PDT)",Cameron pictures----,email_dataset/richey-c/personal/30.
+508,<22901724.1075841478613.JavaMail.evans@thyme>,cooper.richey@enron.com,craig.mclurg@enron.com,"Thu, 22 Nov 2001 08:50:30 -0800 (PST)",RE: Extreme Gravity Film,email_dataset/richey-c/sent_items/257.
+509,<28528933.1075841478361.JavaMail.evans@thyme>,cooper.richey@enron.com,colin.poon@enron.com,"Mon, 26 Nov 2001 07:17:51 -0800 (PST)",trouble with add-in,email_dataset/richey-c/sent_items/246.
+510,<33349802.1075841476981.JavaMail.evans@thyme>,cooper.richey@enron.com,jhawker@petersco.com,"Mon, 10 Dec 2001 07:27:45 -0800 (PST)",RE:,email_dataset/richey-c/sent_items/187.
+511,<27982057.1075841481213.JavaMail.evans@thyme>,cooper.richey@enron.com,julie.sarnowski@enron.com,"Wed, 30 May 2001 19:55:00 -0700 (PDT)",plant info,email_dataset/richey-c/_sent_mail/99.
+512,<3324128.1075841476707.JavaMail.evans@thyme>,cooper.richey@enron.com,berry.gk@lycos.com,"Wed, 12 Dec 2001 11:55:10 -0800 (PST)",around?,email_dataset/richey-c/sent_items/175.
+513,<31032036.1075841477225.JavaMail.evans@thyme>,cooper.richey@enron.com,jhawker@petersco.com,"Thu, 6 Dec 2001 07:25:22 -0800 (PST)",RE:,email_dataset/richey-c/sent_items/197.
+514,<27286865.1075841480701.JavaMail.evans@thyme>,cooper.richey@enron.com,jason.biever@enron.com,"Thu, 24 May 2001 22:55:00 -0700 (PDT)",derek's presentation to lavo 2 weeks ago,email_dataset/richey-c/_sent_mail/77.
+515,<10620674.1075841480980.JavaMail.evans@thyme>,cooper.richey@enron.com,richey_holly@prc.com,"Tue, 29 May 2001 16:42:00 -0700 (PDT)",RE: Calgary Plans,email_dataset/richey-c/_sent_mail/89.
+516,<33304075.1075841479583.JavaMail.evans@thyme>,cooper.richey@enron.com,stephane.brodeur@enron.com,"Tue, 8 May 2001 21:35:00 -0700 (PDT)",Re: Web Adress,email_dataset/richey-c/_sent_mail/29.
+517,<25086798.1075841469830.JavaMail.evans@thyme>,dan.dorland@enron.com,"john.zufferli@enron.com, cooper.richey@enron.com","Fri, 1 Feb 2002 08:53:02 -0800 (PST)",Ontario Presentation,email_dataset/richey-c/inbox/51.
+518,<12098754.1075841480475.JavaMail.evans@thyme>,cooper.richey@enron.com,colin.tip@enron.com,"Tue, 22 May 2001 22:32:00 -0700 (PDT)",wireless toys,email_dataset/richey-c/_sent_mail/67.
+519,<28698374.1075841475991.JavaMail.evans@thyme>,cooper.richey@enron.com,ndottenb@ucalgary.ca,"Fri, 4 Jan 2002 12:47:28 -0800 (PST)",happy new year,email_dataset/richey-c/sent_items/144.
+520,<18322198.1075841476867.JavaMail.evans@thyme>,cooper.richey@enron.com,f.wong@enron.com,"Tue, 11 Dec 2001 11:55:43 -0800 (PST)",RE: tomorrow's mark,email_dataset/richey-c/sent_items/182.
+521,<24796426.1075841481052.JavaMail.evans@thyme>,cooper.richey@enron.com,colin.tip@enron.com,"Tue, 29 May 2001 20:44:00 -0700 (PDT)",RE: smtp server,email_dataset/richey-c/_sent_mail/92.
+522,<10686588.1075841470876.JavaMail.evans@thyme>,cramer@cadvision.com,"john.zufferli@enron.com, demers.nicolas@enron.com, dukart.kelly@enron.com,","Mon, 4 Feb 2002 13:58:53 -0800 (PST)","Feb 4 , 2002 marks.xls",email_dataset/richey-c/marks/2.
+523,<22972579.1075841475628.JavaMail.evans@thyme>,cooper.richey@enron.com,jhawker@petersco.com,"Tue, 8 Jan 2002 14:47:05 -0800 (PST)",RE: 5:30,email_dataset/richey-c/sent_items/129.
+524,<12520043.1075841473462.JavaMail.evans@thyme>,cooper.richey@enron.com,jhawker@petersco.com,"Wed, 30 Jan 2002 14:26:37 -0800 (PST)",RE:,email_dataset/richey-c/sent_items/37.
+525,<25732628.1075841479063.JavaMail.evans@thyme>,cooper.richey@enron.com,robert.anderson@enron.com,"Thu, 3 May 2001 18:46:00 -0700 (PDT)",Re: Fundamentals Web Development Conference Call,email_dataset/richey-c/_sent_mail/14.
+526,<13158290.1075841478729.JavaMail.evans@thyme>,cooper.richey@enron.com,f.wong@enron.com,"Wed, 21 Nov 2001 10:25:29 -0800 (PST)",RE: marks for the next 5 days,email_dataset/richey-c/sent_items/262.
+527,<11766913.1075841470054.JavaMail.evans@thyme>,danielle.marcinkowski@enron.com,"chris.gaskill@enron.com, cooper.richey@enron.com","Thu, 24 Jan 2002 09:50:00 -0800 (PST)",IHS energy,email_dataset/richey-c/inbox/60.
+528,<10991923.1075841472348.JavaMail.evans@thyme>,ripley@stats.ox.ac.uk,farrar.david@epamail.epa.gov,"Wed, 23 Jan 2002 23:35:03 -0800 (PST)",Re: [R] driving R from Python (calldll?),email_dataset/richey-c/r/10.
+529,<18059866.1075841476454.JavaMail.evans@thyme>,cooper.richey@enron.com,ndottenb@ucalgary.ca,"Fri, 14 Dec 2001 14:23:22 -0800 (PST)",RE: countdown to Christmas,email_dataset/richey-c/sent_items/164.
+530,<27500903.1075841471722.JavaMail.evans@thyme>,mike@llamacom.com,cooper.richey@enron.com,"Mon, 19 Nov 2001 21:26:58 -0800 (PST)",RE: Your account is over quota!,email_dataset/richey-c/personal/23.
+531,<22154296.1075841480679.JavaMail.evans@thyme>,cooper.richey@enron.com,bill.greenizan@enron.com,"Thu, 24 May 2001 19:57:00 -0700 (PDT)",dispatch link,email_dataset/richey-c/_sent_mail/76.
+532,<29209447.1075841460920.JavaMail.evans@thyme>,cooper.richey@enron.com,,"Tue, 19 Jun 2001 14:17:25 -0700 (PDT)",Hawker bday,email_dataset/richey-c/calendar/13.
+533,<19688289.1075841478315.JavaMail.evans@thyme>,cooper.richey@enron.com,japhet@u.washington.edu,"Mon, 26 Nov 2001 08:06:12 -0800 (PST)",RE: Be a Tour Guide in the Yucatan,email_dataset/richey-c/sent_items/244.
+534,<9671730.1075841479945.JavaMail.evans@thyme>,cooper.richey@enron.com,tim.heizenrader@enron.com,"Fri, 11 May 2001 17:57:00 -0700 (PDT)",visit to Portland in a week,email_dataset/richey-c/_sent_mail/44.
+535,<25175070.1075841477872.JavaMail.evans@thyme>,cooper.richey@enron.com,cooper@llamacom.com,"Thu, 29 Nov 2001 11:58:51 -0800 (PST)",FW: Yo !,email_dataset/richey-c/sent_items/225.
+536,<18276365.1075841460188.JavaMail.evans@thyme>,announcements.enron@enron.com,"dl-ga-canada_calgary@enron.com, dl-ga-canada_toronto@enron.com,","Wed, 16 Jan 2002 06:04:47 -0800 (PST)",Canadian 2002 Holiday Schedule,email_dataset/richey-c/administrivia/2.
+537,<25933674.1075841471092.JavaMail.evans@thyme>,clinton.kripki@gfinet.com,"cooper.richey@enron.com, john.zufferli@enron.com","Fri, 11 Jan 2002 06:30:35 -0800 (PST)",AB Power Fax for 10/01/02,email_dataset/richey-c/marks/10.
+538,<3132039.1075841474283.JavaMail.evans@thyme>,cooper.richey@enron.com,jhawker@petersco.com,"Fri, 25 Jan 2002 12:36:39 -0800 (PST)",RE: squash,email_dataset/richey-c/sent_items/72.
+539,<27225418.1075841478545.JavaMail.evans@thyme>,cooper.richey@enron.com,jhawker@petersco.com,"Thu, 22 Nov 2001 09:06:39 -0800 (PST)",RE:,email_dataset/richey-c/sent_items/254.
+540,<28861246.1075841476224.JavaMail.evans@thyme>,cooper.richey@enron.com,jhawker@petersco.com,"Fri, 4 Jan 2002 10:10:21 -0800 (PST)",yoga w/ eze,email_dataset/richey-c/sent_items/154.
+541,<9043606.1075841460594.JavaMail.evans@thyme>,kevin.wellenius@frontier-economics.com,cooper.richey@enron.com,"Tue, 1 May 2001 20:04:00 -0700 (PDT)",PAPA wrapup,email_dataset/richey-c/alberta/2.
+542,<28746337.1075841471116.JavaMail.evans@thyme>,clinton.kripki@gfinet.com,john.zufferli@enron.com,"Wed, 9 Jan 2002 05:32:08 -0800 (PST)",trades for 8/1/02,email_dataset/richey-c/marks/11.
+543,<19350139.1075841467965.JavaMail.evans@thyme>,tyler.seminuk@enron.com,cooper.richey@enron.com,"Wed, 12 Sep 2001 14:26:59 -0700 (PDT)",FW: BC Load Data for August,email_dataset/richey-c/fundamentals/5.
+544,<6584345.1075841459522.JavaMail.evans@thyme>,robert.lundqvist@ies.luth.se,r-help@lists.r-project.org,"Thu, 7 Feb 2002 00:11:01 -0800 (PST)",[R] R graphs in LaTeX documents?,email_dataset/richey-c/deleted_items/6.
+545,<24994307.1075841473030.JavaMail.evans@thyme>,cooper.richey@enron.com,jilld@cnrl.com,"Fri, 1 Feb 2002 12:14:11 -0800 (PST)",RE: Friday Festivities,email_dataset/richey-c/sent_items/19.
+546,<17242225.1075841478409.JavaMail.evans@thyme>,cooper.richey@enron.com,mark@drapple.com,"Fri, 23 Nov 2001 10:56:46 -0800 (PST)",RE: MS Sql server and Perl,email_dataset/richey-c/sent_items/248.
+547,<29996802.1075841470100.JavaMail.evans@thyme>,jhawker@petersco.com,cooper.richey@enron.com,"Wed, 23 Jan 2002 13:06:36 -0800 (PST)",,email_dataset/richey-c/inbox/62.
+548,<12760815.1075841478102.JavaMail.evans@thyme>,cooper.richey@enron.com,jhawker@petersco.com,"Tue, 27 Nov 2001 13:16:22 -0800 (PST)",RE:,email_dataset/richey-c/sent_items/235.
+549,<14011987.1075841478432.JavaMail.evans@thyme>,cooper.richey@enron.com,berry.gk@lycos.com,"Fri, 23 Nov 2001 09:00:40 -0800 (PST)",RE: FYI - out with flu today.,email_dataset/richey-c/sent_items/249.
+550,<1563887.1075841474471.JavaMail.evans@thyme>,cooper.richey@enron.com,epurtzki@deloitte.ca,"Tue, 22 Jan 2002 10:24:47 -0800 (PST)",RE:,email_dataset/richey-c/sent_items/80.
+551,<1908930.1075841474236.JavaMail.evans@thyme>,cooper.richey@enron.com,jhawker@petersco.com,"Fri, 25 Jan 2002 12:50:32 -0800 (PST)",RE: squash,email_dataset/richey-c/sent_items/70.
+552,<11070985.1075841471771.JavaMail.evans@thyme>,ezgumerman@lbl.gov,crichey@ect.enron.com,"Thu, 8 Nov 2001 13:50:19 -0800 (PST)",how you doing?,email_dataset/richey-c/personal/25.
+553,<16719178.1075841469145.JavaMail.evans@thyme>,susan.elledge@enron.com,"m..smith@enron.com, a..allen@enron.com, susan.amador@enron.com,","Mon, 4 Feb 2002 11:01:19 -0800 (PST)","RE: Updates... PLEASE READ - Netco testing schedule for Monday, Feb",email_dataset/richey-c/inbox/37.
+554,<32565364.1075841460783.JavaMail.evans@thyme>,cooper.richey@enron.com,,"Tue, 25 Sep 2001 08:29:12 -0700 (PDT)",Coa,email_dataset/richey-c/calendar/8.
+555,<28609543.1075841479755.JavaMail.evans@thyme>,cooper.richey@enron.com,"chris.wiebe@enron.com, colin.tip@enron.com","Wed, 9 May 2001 17:04:00 -0700 (PDT)",Confirmed Worm Attack,email_dataset/richey-c/_sent_mail/36.
+556,<21835797.1075841460943.JavaMail.evans@thyme>,cooper.richey@enron.com,,"Mon, 11 Jun 2001 06:09:38 -0700 (PDT)",Rimrock,email_dataset/richey-c/calendar/14.
+557,<20345875.1075841459828.JavaMail.evans@thyme>,crcommunications@caiso.com,20participants@caiso.com,"Wed, 6 Feb 2002 15:48:26 -0800 (PST)",CAISO Notice - Operating Procedure Update -  E-508 Electrical Eme,email_dataset/richey-c/deleted_items/17.
+558,<26950134.1075841473981.JavaMail.evans@thyme>,cooper.richey@enron.com,jhawker@petersco.com,"Tue, 29 Jan 2002 09:17:36 -0800 (PST)",RE:,email_dataset/richey-c/sent_items/59.
+559,<19868384.1075841480225.JavaMail.evans@thyme>,cooper.richey@enron.com,pavel.koulikov@enron.com,"Wed, 16 May 2001 19:45:00 -0700 (PDT)",,email_dataset/richey-c/_sent_mail/56.
+560,<28135691.1075841480769.JavaMail.evans@thyme>,cooper.richey@enron.com,colin.tip@enron.com,"Fri, 25 May 2001 17:41:00 -0700 (PDT)",Re: move,email_dataset/richey-c/_sent_mail/80.
+561,<11445706.1075841474822.JavaMail.evans@thyme>,cooper.richey@enron.com,clayton.rondeau@enron.com,"Thu, 17 Jan 2002 08:50:39 -0800 (PST)",RE:,email_dataset/richey-c/sent_items/95.
+562,<25800957.1075841478079.JavaMail.evans@thyme>,cooper.richey@enron.com,jhawker@petersco.com,"Wed, 28 Nov 2001 08:48:25 -0800 (PST)",RE:,email_dataset/richey-c/sent_items/234.
+563,<7098538.1075841459414.JavaMail.evans@thyme>,detlef.steuer@unibw-hamburg.de,robert.lundqvist@ies.luth.se,"Thu, 7 Feb 2002 01:33:51 -0800 (PST)",RE: [R] R graphs in LaTeX documents?,email_dataset/richey-c/deleted_items/2.
+564,<15103880.1075841479971.JavaMail.evans@thyme>,cooper.richey@enron.com,stewart.rosman@enron.com,"Fri, 11 May 2001 17:59:00 -0700 (PDT)",pdx visit,email_dataset/richey-c/_sent_mail/45.
+565,<1681620.1075841479479.JavaMail.evans@thyme>,cooper.richey@enron.com,andy.chen@enron.com,"Mon, 7 May 2001 23:44:00 -0700 (PDT)",Re: Your Old Apartment,email_dataset/richey-c/_sent_mail/25.
+566,<7731476.1075841478477.JavaMail.evans@thyme>,cooper.richey@enron.com,chris.wiebe@enron.com,"Thu, 22 Nov 2001 10:29:55 -0800 (PST)",RE: prod roll,email_dataset/richey-c/sent_items/251.
+567,<14046632.1075841479177.JavaMail.evans@thyme>,cooper.richey@enron.com,robert.anderson@enron.com,"Fri, 4 May 2001 23:02:00 -0700 (PDT)",RE: Fundamentals Web Development Conference Call,email_dataset/richey-c/_sent_mail/19.
+568,<30047818.1075841477756.JavaMail.evans@thyme>,cooper.richey@enron.com,f.wong@enron.com,"Mon, 3 Dec 2001 12:23:04 -0800 (PST)",RE: tomorrow's mark,email_dataset/richey-c/sent_items/220.
+569,<33279259.1075841480111.JavaMail.evans@thyme>,cooper.richey@enron.com,tyler.seminuk@enron.com,"Mon, 14 May 2001 21:34:00 -0700 (PDT)",,email_dataset/richey-c/_sent_mail/51.
+570,<26511961.1075841478385.JavaMail.evans@thyme>,cooper.richey@enron.com,berry.gk@lycos.com,"Fri, 23 Nov 2001 14:54:11 -0800 (PST)",RE: FYI - out with flu today.,email_dataset/richey-c/sent_items/247.
+571,<24646221.1075841468711.JavaMail.evans@thyme>,jhawker@petersco.com,"carlos.torres@enron.com, cooper.richey@enron.com, ryan.watt@enron.com,","Wed, 6 Feb 2002 05:47:02 -0800 (PST)",FW: Separated at birth?,email_dataset/richey-c/inbox/22.
+572,<25819334.1075841480316.JavaMail.evans@thyme>,cooper.richey@enron.com,pys@peidmontyoga.com,"Thu, 17 May 2001 17:06:00 -0700 (PDT)",Rod Retreat to Maui Apr 2002,email_dataset/richey-c/_sent_mail/60.
+573,<27508102.1075841480793.JavaMail.evans@thyme>,cooper.richey@enron.com,maria.houten@enron.com,"Fri, 25 May 2001 18:48:00 -0700 (PDT)",RE: review,email_dataset/richey-c/_sent_mail/81.
+574,<17523381.1075841468933.JavaMail.evans@thyme>,japhet@u.washington.edu,"dw4@inetarena.com, chickade@u.washington.edu, lkoteen@socrates.berkeley.edu","Mon, 4 Feb 2002 15:38:41 -0800 (PST)",FW: AXIS OF JUST AS EVIL (fwd),email_dataset/richey-c/inbox/31.
