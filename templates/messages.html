@@ -1,0 +1,68 @@
+$def with (context)
+
+<div class="container">
+
+  <h3>Messages Page</h3>
+
+  $for i in range(len(context.msgs)):
+
+    <div class="well">
+
+      <p>$i</p>
+
+      <p><strong>From:</strong> $context.msgs[i]['email'].get('From')</p>
+      <p><strong>To:</strong> $context.msgs[i]['email'].get('To')</p>
+      <h4>$context.msgs[i]['email'].get('subject')</h4>
+      <p>$context.msgs[i]['email'].get('Date')</p>
+      <hr>
+      <div class="btn-group btn-group-justified" data-toggle="buttons">
+        <label class="btn btn-primary
+        $if context.msgs[i]['ranking'] == "1":
+          active
+        ">
+          <input type="radio" name="options" id="option1" onchange="changeRanking('$context.msgs[i]['filename']', 1, '$context.msgs[i]['path']')" autocomplete="off"
+          $if context.msgs[i]['ranking'] == "1":
+            checked
+          >1
+        </label>
+        <label class="btn btn-primary
+        $if context.msgs[i]['ranking'] == "2":
+          active
+        ">
+          <input type="radio" name="options" id="option2" onchange="changeRanking('$context.msgs[i]['filename']', 2, '$context.msgs[i]['path']')" autocomplete="off"
+          $if context.msgs[i]['ranking'] == "2":
+            checked
+          >2
+        </label>
+        <label class="btn btn-primary
+        $if context.msgs[i]['ranking'] == "3":
+          active
+        ">
+          <input type="radio" name="options" id="option3" onchange="changeRanking('$context.msgs[i]['filename']', 3, '$context.msgs[i]['path']')" autocomplete="off"
+          $if context.msgs[i]['ranking'] == "3":
+            checked
+          >3
+        </label>
+        <label class="btn btn-primary
+        $if context.msgs[i]['ranking'] == "4":
+          active
+        ">
+          <input type="radio" name="options" id="option4" onchange="changeRanking('$context.msgs[i]['filename']', 4, '$context.msgs[i]['path']')" autocomplete="off"
+          $if context.msgs[i]['ranking'] == "4":
+            checked
+          >4
+        </label>
+        <label class="btn btn-primary
+        $if context.msgs[i]['ranking'] == "5":
+          active
+        ">
+          <input type="radio" name="options" id="option5" onchange="changeRanking('$context.msgs[i]['filename']', 5, '$context.msgs[i]['path']')" autocomplete="off"
+          $if context.msgs[i]['ranking'] == "5":
+            checked
+          >5
+        </label>
+      </div>
+
+    </div>
+
+</div>

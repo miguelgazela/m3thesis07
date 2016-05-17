@@ -1,17 +1,15 @@
+import email
 import re
+from validate_email import validate_email
 
 class M3Email(object):
 
     def __init__(self, path, content):
         self.path = path
-        self.content = content
-        self.message_id = None
-        self.date = None
-        self.sender = None
-        self.receiver = None
-        self.cc = []
-        self.bcc = []
-        self.subject = None
+        self.msg = email.message_from_string(content)
+
+    def __init__(self, message):
+        self.msg = message
 
     def __repr__(self):
         return self.sender
@@ -22,31 +20,98 @@ class M3Email(object):
     def __hash__(self):
         return hash(('message_id', self.message_id, 'date', self.date))
 
-    def safe(self, object):
-        if object is None:
-            return ""
 
-        return object
+    def get_vital_info(self):
 
-    def assemble(self):
+        self.message_id = self.msg['message-id']
 
-        for line in self.content:
+        self.sender = self.get_from()
+        self.get_tos()
+        self.get_ccs()
+        self.get_bccs()
 
-            line = line.strip()
+        self.subject = self.msg['subject']
+        self.date = self.msg['date']
 
-            # ignore message body, for now
-            if not line:
-                break
+        self.get_in_reply()
+        self.get_references()
 
-            if re.search("^Message-ID:", line):
-                self.message_id = line[11:].strip()
-            elif re.search("^Date:", line):
-                self.date = line[5:].strip()
-            elif re.search("^From:", line):
-                self.sender = line[5:].strip()
-            elif re.search("^To:", line):
-                self.receiver = line[3:].strip()
-            elif re.search("^Cc:", line):
-                self.cc = [email.strip() for email in line[3:].strip().split(",")]
-            elif re.search("^Subject:", line):
-                self.subject = line[8:].strip()
+
+    def get_from(self):
+
+        msg_from = self.msg['from']
+        if msg_from:
+
+            address_match = re.search('<.+>', msg_from)
+            if address_match:
+                return address_match.group(0)[1:-1]
+
+        return ""
+
+    def get_tos(self):
+
+        msg_tos = self.msg['to']
+        if msg_tos:
+            self.to = self.clear_addresses(msg_tos)
+        else:
+            self.to = []
+
+
+    def get_ccs(self):
+
+        msg_ccs = self.msg['cc']
+        if msg_ccs:
+            self.cc = self.clear_addresses(msg_ccs)
+        else:
+            self.cc = []
+
+
+    def get_bccs(self):
+
+        msg_bccs = self.msg['bcc']
+        if msg_bccs:
+            self.bcc = self.clear_addresses(msg_bccs)
+        else:
+            self.bcc = []
+
+
+    def get_in_reply(self):
+
+        in_reply = self.msg['In-Reply-To']
+
+        if in_reply:
+            self.in_reply = in_reply.strip()
+        else:
+            self.in_reply = None
+
+
+    def get_references(self):
+
+        msg_references = self.msg['References']
+
+        if msg_references:
+            self.references = msg_references.split()
+        else:
+            self.references = []
+
+
+    def clear_addresses(self, raw_addresses):
+
+        cleared = []
+        msg_addresses = raw_addresses.split(',')
+
+        for msg_address in msg_addresses:
+
+            address_match = re.search('<.+>', msg_address)
+
+            if address_match:
+
+                cleared.append(address_match.group(0)[1:-1]) # remove the <> symbols
+
+            else:
+                possible_email = msg_address.strip()
+
+                if validate_email(possible_email):
+                    cleared.append(possible_email)
+
+        return cleared

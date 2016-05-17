@@ -60,3 +60,7 @@ target/
 
 #Ipython Notebook
 .ipynb_checkpoints
+
+email_dataset/_miguel
+analysis/_miguel/
+sessions_m3/

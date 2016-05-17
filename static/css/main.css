@@ -1,0 +1,365 @@
+
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+.navbar-default {
+  background-color: white;
+}
+
+.main-content {
+	padding-top: 50px;
+}
+
+/* Reset the container */
+.container {
+  width: 1170px;
+  max-width: none !important;
+}
+
+/* Undo the collapsing navbar */
+.navbar-collapse {
+  display: block !important;
+  height: auto !important;
+  padding-bottom: 0;
+  overflow: visible !important;
+  visibility: visible !important;
+}
+
+.navbar-toggle {
+  display: none;
+}
+.navbar-collapse {
+  border-top: 0;
+}
+
+.navbar-brand {
+  margin-left: -15px;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+body {
+  /* Margin bottom by footer height */
+  margin-bottom: 60px;
+}
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  /* Set the fixed height of the footer here */
+  height: 60px;
+  border-top: 1px solid #e7e7e7;
+  padding-top: 10px;
+}
+
+.jumbotron {
+  background-color: rgba(70, 130, 180, 0.9);
+  color: white;
+}
+
+
+/*.bar rect {
+  fill: orange;
+}
+
+.bar text.value {
+  fill: white;
+}*/
+
+.axis {
+
+  shape-rendering: crispEdges;
+}
+
+.axis path {
+  fill: none;
+}
+
+.x.axis line {
+  stroke: #fff;
+  stroke-opacity: .2;
+}
+
+.y.axis path {
+  stroke: black;
+}
+
+
+
+
+
+.arc path {
+  stroke: #fff;
+}
+
+
+
+
+
+
+
+.zoom {
+    fill: transparent;
+    cursor: pointer;
+}
+
+/*.y-axis path,
+.y-axis line,
+.x-axis path,
+.x-axis line,
+{
+    path,
+    line {
+        stroke: #ccc;
+        fill: none;
+        stroke-width: 1px;
+    }
+}*/
+
+.y-axis g line {
+    stroke: grey;
+    fill: none;
+    stroke-width: 1px;
+}
+
+
+.line {
+  fill: none;
+  stroke: steelblue;
+  stroke-width: 1px;
+}
+
+.dot {
+  fill: white;
+  stroke: steelblue;
+  stroke-width: 1.5px;
+}
+
+
+.day {
+  fill: #fff;
+  stroke: #ccc;
+}
+
+.month {
+  fill: none;
+  stroke: #000;
+  stroke-width: 2px;
+}
+
+
+
+.area {
+  fill: lightsteelblue;
+}
+
+.overview-area {
+  fill: grey;
+}
+
+.brush .extent {
+  stroke: #fff;
+  fill-opacity: .125;
+  shape-rendering: crispEdges;
+}
+
+.path {
+  fill: orange;
+}
+
+.filtered text {
+  fill: whitesmoke !important;
+}
+
+.filtered text.active {
+  fill: steelblue !important;
+}
+
+#wordCounter {
+  margin-bottom: 0;
+  position: absolute;
+  top: 40px;
+  left: 20px;
+}
+
+#wordSearchContainer {
+  position: relative;
+}
+
+.main-stat {
+  text-align: center;
+  font-weight: 700;
+  font-size: 20px;
+}
+
+.secondary-stat {
+  text-align: center;
+  font-size: 16px;
+  color: #999;
+}
+
+
+.overlay {
+  fill: none;
+  pointer-events: all;
+}
+
+.dotFocus circle {
+  fill: none;
+  stroke: steelblue;
+}
+
+
+
+/* graph-body is the distribution over time class */
+
+.graph-body .line {
+  stroke: none;
+}
+
+.graph-body .line circle {
+    opacity: 0.1;
+}
+
+
+.biggestSpammerValue {
+  color: white;
+}
+
+
+.dailyDistAreaHighlight {
+  fill: #98df8a;
+  opacity: 0.4;
+}
+
+.dailyDistAreaHighlightLow {
+  fill: #ff9896;
+  opacity: 0.4;
+}
+
+
+.stackedBar.legend rect,
+.stackedBar.legend text {
+  opacity: 0.4;
+}
+
+
+.stackedBar.x.axis path,
+.stackedBar.x.axis line,
+.stackedBar.y.axis path,
+.stackedBar.y.axis line,
+.messageByHour.x.axis path,
+.messageByHour.x.axis line,
+.messageByHour.y.axis path,
+.messageByHour.y.axis line {
+  fill: none;
+  stroke: grey;
+  stroke-width: 1;
+  shape-rendering: crispEdges;
+}
+
+.messageByHour.line,
+.messageByHour.oldline {
+  stroke: steelblue;
+  stroke-width: 1;
+  fill: none;
+}
+
+.messageByHour.oldline {
+  stroke: grey;
+  stroke-opacity: 0.3;
+}
+
+.messageByHour.panel-footer {
+  position: relative;
+}
+
+.messageByHour.selectDaysButtons {
+  position: absolute;
+  top: 60px;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+
+.dateSlider {
+  margin-top: 80px;
+}
+
+.ui-rangeSlider .ui-rangeSlider-bar {
+  background: rgba(70, 130, 180, 0.4);
+}
+
+.calendarView.day {
+  fill: #fff;
+  stroke: #ccc;
+}
+
+.calendarView.month {
+  fill: none;
+  stroke: grey;
+  stroke-width: 2px;
+}
+
+.chartTooltip {
+  text-align: center;
+}
+
+.chartTooltip p {
+  margin-bottom: 5px;
+}
+
+#calendarViewTooltip {
+  text-align: center;
+}
+
+#calendarViewTooltip div {
+  font-weight: 700;
+}
+
+#calendarViewTooltip div span {
+  display: block;
+  font-weight: 500;
+  color: grey;
+}
+
+.RdYlGn .q0-11{fill:rgb(165,0,38)}
+.RdYlGn .q1-11{fill:rgb(215,48,39)}
+.RdYlGn .q2-11{fill:rgb(244,109,67)}
+.RdYlGn .q3-11{fill:rgb(253,174,97)}
+.RdYlGn .q4-11{fill:rgb(254,224,139)}
+.RdYlGn .q5-11{fill:rgb(255,255,191)}
+.RdYlGn .q6-11{fill:rgb(217,239,139)}
+.RdYlGn .q7-11{fill:rgb(166,217,106)}
+.RdYlGn .q8-11{fill:rgb(102,189,99)}
+.RdYlGn .q9-11{fill:rgb(26,152,80)}
+.RdYlGn .q10-11{fill:rgb(0,104,55)}
+
+.YlGn .q0-11{fill:rgb(255,255,229)}
+.YlGn .q1-11{fill:rgb(247,252,185)}
+.YlGn .q2-11{fill:rgb(217,240,163)}
+.YlGn .q3-11{fill:rgb(173,221,142)}
+.YlGn .q4-11{fill:rgb(120,198,121)}
+.YlGn .q5-11{fill:rgb(65,171,93)}
+.YlGn .q6-11{fill:rgb(35,132,67)}
+.YlGn .q7-11{fill:rgb(0,104,55)}
+.YlGn .q8-11{fill:rgb(0,69,41)}
+
+.dropzone {
+  border: 2px dashed #0087F7;
+  border-radius: 5px;
+}
+
+.dropzone .dz-message {
+  font-weight: 500;
+  color: #646C7F;
+  font-size: 18px;
+}
+
+.overviewStats {
+  margin-top: 26px;
+}
