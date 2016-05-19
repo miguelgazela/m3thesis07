@@ -107,6 +107,9 @@ class messages:
 			if labels is not None and "Chat" in labels:
 				continue
 
+			if msg['email'].get('From') is not None and 'miguel.gazela@gmail.com' in msg['email'].get('From'):
+				continue
+
 			msgs.append(msg)
 
 		print "Len: " + str(len(msgs))

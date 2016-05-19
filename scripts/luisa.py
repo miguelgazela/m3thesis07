@@ -4,7 +4,7 @@ from os import walk
 from datetime import datetime
 
 divida_wb = openpyxl.load_workbook('divida.xlsx')
-lista_wb = openpyxl.load_workbook('lista.xlsx')
+lista_wb = openpyxl.load_workbook('LISTA.xlsx')
 
 sheetD = divida_wb.get_sheet_by_name('Folha1')
 sheetL = lista_wb.get_sheet_by_name('Folha1')
@@ -22,7 +22,7 @@ while True:
     has_found = False
     total_value_before = 0
     total_value_after = 0
-    limit_date = datetime.strptime('20160101', '%Y%m%d')
+    limit_date = datetime.strptime('20160501', '%Y%m%d')
 
     print str(client_id)
 
@@ -53,11 +53,11 @@ while True:
 
                 total_value_before += divida_value.value
             else:
-
+                pass
                 # if client_id == 1000098:
                 #     print str(divida_value.value) + " AFTER"
 
-                total_value_after += divida_value.value
+                # total_value_after += divida_value.value
 
         else:
 
@@ -72,7 +72,7 @@ while True:
     #     print "Value: " + str(total_value_after)
 
     before_cell.value = total_value_before
-    after_cell.value = total_value_after
+    # after_cell.value = total_value_after
 
     row_counter_d += 1
 

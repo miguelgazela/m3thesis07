@@ -32,21 +32,10 @@ class M3EmailUser(object):
 
                     email_path = "email_dataset/" + self.folder + "/" + mailbox_path + "/" + email_filename
 
-                    if email_filename == "all.mbox":
+                    with open(email_path, 'r') as content_file:
+                        email_content = content_file.read()
 
-                        mbox = mailbox.mbox(email_path)
-                        for message in mbox:
-
-                            email = M3Email(message)
-                            email.path = email_path
-
-                            self.emails.append(email)
-
-                    else:
-                        with open(email_path, 'r') as content_file:
-                            email_content = content_file.read()
-
-                        self.emails.append(M3Email(email_path, email_content))
+                    self.emails.append(M3Email(email_path, email_content))
 
             print "      " + self.folder + " has " + str(len(self.emails) - initial_email_count) + " emails in mailbox " + mailbox_path
 
@@ -66,12 +55,23 @@ class M3EmailUser(object):
         f = open("analysis/" + self.folder + "/analysis_1.csv", "wt")
         try:
             writer = csv.writer(f)
-            writer.writerow(('from', 'to', 'date', 'cc', 'bcc', 'is-reply'))
+            writer.writerow(('id', 'from', 'to', '#tos', 'date', 'cc', '#cc', 'bcc', 'is-reply', 'ranking', 'sender_domain'))
 
             for email in self.emails:
 
+                labels = email.msg.get('X-Gmail-Labels', None)
+                if labels is not None and "Chat" in labels:
+                    continue
+
                 is_reply = email.in_reply is not None
-                writer.writerow((email.sender, ",".join(email.to), email.date, ",".join(email.cc), ",".join(email.bcc), is_reply))
+
+                at_index = email.sender.find('@')
+                if at_index != -1:
+                    sender_domain = email.sender[at_index+1:]
+                else:
+                    sender_domain = ""
+
+                writer.writerow((email.path, email.sender, ",".join(email.to), len(email.to) , email.date, ",".join(email.cc), len(email.cc), ",".join(email.bcc), is_reply, email.ranking, sender_domain))
 
         finally:
             f.close()

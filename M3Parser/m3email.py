@@ -8,9 +8,6 @@ class M3Email(object):
         self.path = path
         self.msg = email.message_from_string(content)
 
-    def __init__(self, message):
-        self.msg = message
-
     def __repr__(self):
         return self.sender
 
@@ -35,6 +32,7 @@ class M3Email(object):
 
         self.get_in_reply()
         self.get_references()
+        self.get_ranking()
 
 
     def get_from(self):
@@ -45,14 +43,22 @@ class M3Email(object):
             address_match = re.search('<.+>', msg_from)
             if address_match:
                 return address_match.group(0)[1:-1]
+            else:
+                return msg_from.strip()
 
         return ""
+
 
     def get_tos(self):
 
         msg_tos = self.msg['to']
         if msg_tos:
             self.to = self.clear_addresses(msg_tos)
+            return
+
+        msg_delivered_to = self.msg['Delivered-To']
+        if msg_delivered_to:
+            self.to = [msg_delivered_to]
         else:
             self.to = []
 
@@ -115,3 +121,6 @@ class M3Email(object):
                     cleared.append(possible_email)
 
         return cleared
+
+    def get_ranking(self):
+        self.ranking = self.msg['X-Mailcube-Ranking']
